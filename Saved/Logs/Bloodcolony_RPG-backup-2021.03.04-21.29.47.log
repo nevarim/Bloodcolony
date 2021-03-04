@@ -1,0 +1,1595 @@
+﻿Log file open, 03/04/21 22:28:11
+LogInit: Display: Running engine for game: Bloodcolony_RPG
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.190748
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin EditorScriptingUtilities
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin MovieRenderPipeline
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.25-CL-14469661
+LogInit: Engine Version: 4.25.4-14469661+++UE4+Release-4.25
+LogInit: Compatible Engine Version: 4.25.0-13144385+++UE4+Release-4.25
+LogInit: Net CL: 13144385
+LogInit: OS: Windows 10 (Release 1909) (), CPU: AMD Ryzen 5 2600 Six-Core Processor            , GPU: Microsoft Remote Display Adapter
+LogInit: Compiled (64-bit): Oct 11 2020 08:10:49
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.25
+LogInit: Command Line: 
+LogInit: Base Directory: F:/epic/UE_4.25/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 26
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 38
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 4
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 43
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 12
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 7
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 31
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 37
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [H:/epic/projects/Bloodcolony_RPG/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2021.03.04-21.28.12:091][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2021.03.04-21.28.12:091][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2021.03.04-21.28.12:091][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [H:/epic/projects/Bloodcolony_RPG/Saved/Config/Windows/Engine.ini]
+[2021.03.04-21.28.12:091][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2021.03.04-21.28.12:091][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [H:/epic/projects/Bloodcolony_RPG/Saved/Config/Windows/Engine.ini]
+[2021.03.04-21.28.12:091][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [H:/epic/projects/Bloodcolony_RPG/Saved/Config/Windows/Engine.ini]
+[2021.03.04-21.28.12:091][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2021.03.04-21.28.12:091][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2021.03.04-21.28.12:091][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2021.03.04-21.28.12:091][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2021.03.04-21.28.12:091][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2021.03.04-21.28.12:091][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2021.03.04-21.28.12:091][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2021.03.04-21.28.12:091][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2021.03.04-21.28.12:091][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2021.03.04-21.28.12:091][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2021.03.04-21.28.12:091][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2021.03.04-21.28.12:091][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2021.03.04-21.28.12:091][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2021.03.04-21.28.12:091][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2021.03.04-21.28.12:091][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [H:/epic/projects/Bloodcolony_RPG/Saved/Config/Windows/Engine.ini]
+[2021.03.04-21.28.12:091][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2021.03.04-21.28.12:091][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2021.03.04-21.28.12:091][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2021.03.04-21.28.12:091][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2021.03.04-21.28.12:091][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2021.03.04-21.28.12:091][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2021.03.04-21.28.12:091][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2021.03.04-21.28.12:091][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2021.03.04-21.28.12:091][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2021.03.04-21.28.12:091][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2021.03.04-21.28.12:091][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2021.03.04-21.28.12:091][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2021.03.04-21.28.12:091][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2021.03.04-21.28.12:091][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [H:/epic/projects/Bloodcolony_RPG/Saved/Config/Windows/Engine.ini]
+[2021.03.04-21.28.12:091][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [H:/epic/projects/Bloodcolony_RPG/Saved/Config/Windows/Engine.ini]
+[2021.03.04-21.28.12:095][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [H:/epic/projects/Bloodcolony_RPG/Saved/Config/Windows/Scalability.ini]
+[2021.03.04-21.28.12:095][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.03.04-21.28.12:095][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.03.04-21.28.12:095][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [H:/epic/projects/Bloodcolony_RPG/Saved/Config/Windows/Scalability.ini]
+[2021.03.04-21.28.12:095][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.03.04-21.28.12:095][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [H:/epic/projects/Bloodcolony_RPG/Saved/Config/Windows/Scalability.ini]
+[2021.03.04-21.28.12:095][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.03.04-21.28.12:095][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.03.04-21.28.12:095][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.03.04-21.28.12:095][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.03.04-21.28.12:095][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.03.04-21.28.12:095][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.03.04-21.28.12:095][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.03.04-21.28.12:096][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.03.04-21.28.12:096][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.03.04-21.28.12:096][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.03.04-21.28.12:096][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.03.04-21.28.12:096][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.03.04-21.28.12:096][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.03.04-21.28.12:096][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.03.04-21.28.12:096][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.03.04-21.28.12:096][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.03.04-21.28.12:096][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.03.04-21.28.12:096][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.03.04-21.28.12:096][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [H:/epic/projects/Bloodcolony_RPG/Saved/Config/Windows/Scalability.ini]
+[2021.03.04-21.28.12:096][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.03.04-21.28.12:096][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.03.04-21.28.12:096][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.03.04-21.28.12:096][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.03.04-21.28.12:096][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.03.04-21.28.12:096][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.03.04-21.28.12:096][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.03.04-21.28.12:096][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.03.04-21.28.12:096][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.03.04-21.28.12:096][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.03.04-21.28.12:096][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.03.04-21.28.12:096][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.03.04-21.28.12:096][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.03.04-21.28.12:096][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.03.04-21.28.12:096][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.03.04-21.28.12:096][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.03.04-21.28.12:096][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.03.04-21.28.12:096][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.03.04-21.28.12:096][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.03.04-21.28.12:096][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.03.04-21.28.12:096][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.03.04-21.28.12:096][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.03.04-21.28.12:096][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.03.04-21.28.12:096][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.03.04-21.28.12:096][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.03.04-21.28.12:096][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.03.04-21.28.12:096][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.03.04-21.28.12:096][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.03.04-21.28.12:096][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.03.04-21.28.12:096][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.03.04-21.28.12:096][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [H:/epic/projects/Bloodcolony_RPG/Saved/Config/Windows/Scalability.ini]
+[2021.03.04-21.28.12:096][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.03.04-21.28.12:096][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.03.04-21.28.12:096][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.03.04-21.28.12:096][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.03.04-21.28.12:096][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.03.04-21.28.12:096][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.03.04-21.28.12:097][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.03.04-21.28.12:097][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.03.04-21.28.12:097][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.03.04-21.28.12:097][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [H:/epic/projects/Bloodcolony_RPG/Saved/Config/Windows/Scalability.ini]
+[2021.03.04-21.28.12:097][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.03.04-21.28.12:097][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.03.04-21.28.12:097][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.03.04-21.28.12:097][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.03.04-21.28.12:097][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.03.04-21.28.12:097][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.03.04-21.28.12:097][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.03.04-21.28.12:097][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.03.04-21.28.12:097][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.03.04-21.28.12:097][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.03.04-21.28.12:097][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.03.04-21.28.12:097][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.03.04-21.28.12:097][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.03.04-21.28.12:097][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.03.04-21.28.12:097][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.03.04-21.28.12:097][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.03.04-21.28.12:097][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2021.03.04-21.28.12:097][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.03.04-21.28.12:097][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.03.04-21.28.12:097][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.03.04-21.28.12:097][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2021.03.04-21.28.12:097][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.03.04-21.28.12:097][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2021.03.04-21.28.12:097][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.03.04-21.28.12:097][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.03.04-21.28.12:097][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.03.04-21.28.12:097][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [H:/epic/projects/Bloodcolony_RPG/Saved/Config/Windows/Scalability.ini]
+[2021.03.04-21.28.12:097][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.03.04-21.28.12:097][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.03.04-21.28.12:097][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [H:/epic/projects/Bloodcolony_RPG/Saved/Config/Windows/Scalability.ini]
+[2021.03.04-21.28.12:097][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2021.03.04-21.28.12:097][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2021.03.04-21.28.12:097][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2021.03.04-21.28.12:097][  0]LogConfig: Setting CVar [[r.HairStrands.DeepShadow.SuperSampling:0]]
+[2021.03.04-21.28.12:097][  0]LogConfig: Setting CVar [[r.HairStrands.VisibilityPPLL:0]]
+[2021.03.04-21.28.12:097][  0]LogConfig: Setting CVar [[r.HairStrands.RasterizationScale:0.5]]
+[2021.03.04-21.28.12:097][  0]LogConfig: Setting CVar [[r.HairStrands.VelocityRasterizationScale:1]]
+[2021.03.04-21.28.12:097][  0]LogInit: Selected Device Profile: [Windows]
+[2021.03.04-21.28.12:097][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2021.03.04-21.28.12:098][  0]LogHAL: Display: Platform has ~ 16 GB [17125888000 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2021.03.04-21.28.12:098][  0]LogInit: Going up to parent DeviceProfile []
+[2021.03.04-21.28.12:098][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [H:/epic/projects/Bloodcolony_RPG/Saved/Config/Windows/Scalability.ini]
+[2021.03.04-21.28.12:098][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.03.04-21.28.12:098][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.03.04-21.28.12:098][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [H:/epic/projects/Bloodcolony_RPG/Saved/Config/Windows/Scalability.ini]
+[2021.03.04-21.28.12:098][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.03.04-21.28.12:098][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [H:/epic/projects/Bloodcolony_RPG/Saved/Config/Windows/Scalability.ini]
+[2021.03.04-21.28.12:098][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.03.04-21.28.12:098][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.03.04-21.28.12:098][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.03.04-21.28.12:098][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.03.04-21.28.12:098][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.03.04-21.28.12:098][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.03.04-21.28.12:098][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.03.04-21.28.12:098][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.03.04-21.28.12:098][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.03.04-21.28.12:098][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.03.04-21.28.12:098][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.03.04-21.28.12:098][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.03.04-21.28.12:098][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.03.04-21.28.12:098][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.03.04-21.28.12:098][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.03.04-21.28.12:098][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.03.04-21.28.12:098][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.03.04-21.28.12:098][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.03.04-21.28.12:098][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [H:/epic/projects/Bloodcolony_RPG/Saved/Config/Windows/Scalability.ini]
+[2021.03.04-21.28.12:098][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.03.04-21.28.12:098][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.03.04-21.28.12:098][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.03.04-21.28.12:098][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.03.04-21.28.12:098][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.03.04-21.28.12:098][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.03.04-21.28.12:098][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.03.04-21.28.12:098][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.03.04-21.28.12:098][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.03.04-21.28.12:098][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.03.04-21.28.12:098][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.03.04-21.28.12:098][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.03.04-21.28.12:098][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.03.04-21.28.12:098][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.03.04-21.28.12:098][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.03.04-21.28.12:098][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.03.04-21.28.12:098][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.03.04-21.28.12:098][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.03.04-21.28.12:098][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.03.04-21.28.12:098][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.03.04-21.28.12:099][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.03.04-21.28.12:099][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.03.04-21.28.12:099][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.03.04-21.28.12:099][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.03.04-21.28.12:099][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.03.04-21.28.12:099][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.03.04-21.28.12:099][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.03.04-21.28.12:099][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.03.04-21.28.12:099][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.03.04-21.28.12:099][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.03.04-21.28.12:099][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [H:/epic/projects/Bloodcolony_RPG/Saved/Config/Windows/Scalability.ini]
+[2021.03.04-21.28.12:099][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.03.04-21.28.12:099][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.03.04-21.28.12:099][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.03.04-21.28.12:099][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.03.04-21.28.12:099][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.03.04-21.28.12:099][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.03.04-21.28.12:099][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.03.04-21.28.12:099][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.03.04-21.28.12:099][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.03.04-21.28.12:099][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [H:/epic/projects/Bloodcolony_RPG/Saved/Config/Windows/Scalability.ini]
+[2021.03.04-21.28.12:099][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.03.04-21.28.12:099][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.03.04-21.28.12:099][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.03.04-21.28.12:099][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.03.04-21.28.12:099][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.03.04-21.28.12:099][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.03.04-21.28.12:099][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.03.04-21.28.12:099][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.03.04-21.28.12:099][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.03.04-21.28.12:099][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.03.04-21.28.12:099][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.03.04-21.28.12:099][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.03.04-21.28.12:099][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.03.04-21.28.12:099][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.03.04-21.28.12:099][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.03.04-21.28.12:099][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.03.04-21.28.12:099][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2021.03.04-21.28.12:099][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.03.04-21.28.12:099][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.03.04-21.28.12:099][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.03.04-21.28.12:099][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2021.03.04-21.28.12:099][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.03.04-21.28.12:099][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2021.03.04-21.28.12:099][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.03.04-21.28.12:099][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.03.04-21.28.12:099][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.03.04-21.28.12:099][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [H:/epic/projects/Bloodcolony_RPG/Saved/Config/Windows/Scalability.ini]
+[2021.03.04-21.28.12:100][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.03.04-21.28.12:100][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.03.04-21.28.12:100][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [H:/epic/projects/Bloodcolony_RPG/Saved/Config/Windows/Scalability.ini]
+[2021.03.04-21.28.12:100][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2021.03.04-21.28.12:100][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2021.03.04-21.28.12:100][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2021.03.04-21.28.12:100][  0]LogConfig: Setting CVar [[r.HairStrands.DeepShadow.SuperSampling:0]]
+[2021.03.04-21.28.12:100][  0]LogConfig: Setting CVar [[r.HairStrands.VisibilityPPLL:0]]
+[2021.03.04-21.28.12:100][  0]LogConfig: Setting CVar [[r.HairStrands.RasterizationScale:0.5]]
+[2021.03.04-21.28.12:100][  0]LogConfig: Setting CVar [[r.HairStrands.VelocityRasterizationScale:1]]
+[2021.03.04-21.28.12:100][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2021.03.04-21.28.12:100][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2021.03.04-21.28.12:100][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2021.03.04-21.28.12:100][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2021.03.04-21.28.12:100][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [H:/epic/projects/Bloodcolony_RPG/Saved/Config/Windows/Engine.ini]
+[2021.03.04-21.28.12:100][  0]LogInit: Computer: LOKI
+[2021.03.04-21.28.12:100][  0]LogInit: User: nevar
+[2021.03.04-21.28.12:100][  0]LogInit: CPU Page size=4096, Cores=6
+[2021.03.04-21.28.12:100][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2021.03.04-21.28.12:100][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2021.03.04-21.28.12:100][  0]LogMemory: Platform Memory Stats for Windows
+[2021.03.04-21.28.12:101][  0]LogMemory: Process Physical Memory: 114.76 MB used, 114.76 MB peak
+[2021.03.04-21.28.12:101][  0]LogMemory: Process Virtual Memory: 97.04 MB used, 97.04 MB peak
+[2021.03.04-21.28.12:101][  0]LogMemory: Physical Memory: 6360.65 MB used,  9971.87 MB free, 16332.52 MB total
+[2021.03.04-21.28.12:101][  0]LogMemory: Virtual Memory: 5164.84 MB used,  134212560.00 MB free, 134217728.00 MB total
+[2021.03.04-21.28.12:107][  0]LogWindows: WindowsPlatformFeatures enabled
+[2021.03.04-21.28.12:140][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2021.03.04-21.28.12:141][  0]LogInit: Using OS detected language (en-US).
+[2021.03.04-21.28.12:141][  0]LogInit: Using OS detected locale (en-US).
+[2021.03.04-21.28.12:143][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2021.03.04-21.28.12:367][  0]LogInit: Setting process to per monitor DPI aware
+[2021.03.04-21.28.12:423][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2021.03.04-21.28.12:423][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2021.03.04-21.28.12:582][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.03.04-21.28.12:582][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2021.03.04-21.28.12:582][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2021.03.04-21.28.12:582][  0]LogD3D11RHI: D3D11 adapters:
+[2021.03.04-21.28.12:655][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1050 Ti' (Feature Level 11_0)
+[2021.03.04-21.28.12:655][  0]LogD3D11RHI:       4018/0/8166 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2021.03.04-21.28.12:657][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2021.03.04-21.28.12:657][  0]LogD3D11RHI:       0/0/8166 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2021.03.04-21.28.12:659][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2021.03.04-21.28.12:659][  0]LogD3D11RHI:       0/0/8166 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2021.03.04-21.28.12:659][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2021.03.04-21.28.12:666][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2021.03.04-21.28.12:666][  0]LogD3D11RHI:     GPU DeviceId: 0x1c82 (for the marketing name, search the web for "GPU Device Id")
+[2021.03.04-21.28.12:667][  0]LogWindows: EnumDisplayDevices:
+[2021.03.04-21.28.12:667][  0]LogWindows:    0. 'Microsoft Remote Display Adapter' (P:1 D:1)
+[2021.03.04-21.28.12:667][  0]LogWindows:    1. 'Microsoft Remote Display Adapter' (P:0 D:0)
+[2021.03.04-21.28.12:667][  0]LogWindows:    2. 'Microsoft Remote Display Adapter' (P:0 D:0)
+[2021.03.04-21.28.12:667][  0]LogWindows:    3. 'Microsoft Remote Display Adapter' (P:0 D:0)
+[2021.03.04-21.28.12:667][  0]LogWindows:    4. 'Microsoft Remote Display Adapter' (P:0 D:0)
+[2021.03.04-21.28.12:667][  0]LogWindows:    5. 'Microsoft Remote Display Adapter' (P:0 D:0)
+[2021.03.04-21.28.12:667][  0]LogWindows:    6. 'Microsoft Remote Display Adapter' (P:0 D:0)
+[2021.03.04-21.28.12:667][  0]LogWindows:    7. 'Microsoft Remote Display Adapter' (P:0 D:0)
+[2021.03.04-21.28.12:667][  0]LogWindows:    8. 'Microsoft Remote Display Adapter' (P:0 D:0)
+[2021.03.04-21.28.12:667][  0]LogWindows:    9. 'Microsoft Remote Display Adapter' (P:0 D:0)
+[2021.03.04-21.28.12:668][  0]LogWindows:    10. 'Microsoft Remote Display Adapter' (P:0 D:0)
+[2021.03.04-21.28.12:668][  0]LogWindows:    11. 'Microsoft Remote Display Adapter' (P:0 D:0)
+[2021.03.04-21.28.12:668][  0]LogWindows:    12. 'Microsoft Remote Display Adapter' (P:0 D:0)
+[2021.03.04-21.28.12:668][  0]LogWindows:    13. 'Microsoft Remote Display Adapter' (P:0 D:0)
+[2021.03.04-21.28.12:668][  0]LogWindows:    14. 'Microsoft Remote Display Adapter' (P:0 D:0)
+[2021.03.04-21.28.12:668][  0]LogWindows:    15. 'Microsoft Remote Display Adapter' (P:0 D:0)
+[2021.03.04-21.28.12:668][  0]LogWindows: DebugString: PrimaryDriverLocationFailed PrimaryDriverLocationFailed PrimaryDriverLocationFailed PrimaryDriverLocationFailed PrimaryDriverLocationFailed PrimaryDriverLocationFailed PrimaryDriverLocationFailed PrimaryDriverLocationFailed PrimaryDriverLocationFailed PrimaryDriverLocationFailed PrimaryDriverLocationFailed PrimaryDriverLocationFailed PrimaryDriverLocationFailed PrimaryDriverLocationFailed PrimaryDriverLocationFailed PrimaryDriverLocationFailed FoundDriverCount:0 
+[2021.03.04-21.28.12:668][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1050 Ti
+[2021.03.04-21.28.12:668][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2021.03.04-21.28.12:668][  0]LogD3D11RHI:      Driver Date: Unknown
+[2021.03.04-21.28.12:668][  0]LogRHI: Texture pool is 2812 MB (70% of 4018 MB)
+[2021.03.04-21.28.12:722][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2021.03.04-21.28.12:722][  0]LogD3D11RHI: Async texture creation enabled
+[2021.03.04-21.28.12:722][  0]LogD3D11RHI: Array index from any shader is supported
+[2021.03.04-21.28.12:740][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2021.03.04-21.28.13:074][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2021.03.04-21.28.13:098][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2021.03.04-21.28.13:098][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2021.03.04-21.28.13:098][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2021.03.04-21.28.13:098][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2021.03.04-21.28.13:098][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2021.03.04-21.28.13:098][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2021.03.04-21.28.13:098][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2021.03.04-21.28.13:098][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2021.03.04-21.28.13:098][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2021.03.04-21.28.13:098][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2021.03.04-21.28.13:123][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2021.03.04-21.28.13:123][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2021.03.04-21.28.13:134][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2021.03.04-21.28.13:144][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2021.03.04-21.28.13:154][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2021.03.04-21.28.13:164][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2021.03.04-21.28.13:174][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2021.03.04-21.28.13:184][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2021.03.04-21.28.13:197][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2021.03.04-21.28.13:233][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2021.03.04-21.28.13:233][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2021.03.04-21.28.13:253][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2021.03.04-21.28.13:253][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2021.03.04-21.28.13:265][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2021.03.04-21.28.13:279][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2021.03.04-21.28.13:290][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2021.03.04-21.28.13:301][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2021.03.04-21.28.13:301][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2021.03.04-21.28.13:309][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2021.03.04-21.28.13:373][  0]LogShaderCompilers: Guid format shader working directory is 14 characters bigger than the processId version (H:/epic/projects/Bloodcolony_RPG/Intermediate/Shaders/WorkingDirectory/4732/).
+[2021.03.04-21.28.13:373][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/nevar/AppData/Local/Temp/UnrealShaderWorkingDir/D66A4A76425C4A2FFDB416A204DE9F43/'.
+[2021.03.04-21.28.13:373][  0]LogXGEController: Cleaning working directory: C:/Users/nevar/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2021.03.04-21.28.13:374][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2021.03.04-21.28.13:374][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2021.03.04-21.28.13:374][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2021.03.04-21.28.14:330][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2021.03.04-21.28.14:382][  0]LogDerivedDataCache: Loaded boot cache 0.05s 76MB C:/Users/nevar/AppData/Local/UnrealEngine/4.25/DerivedDataCache/Boot.ddc.
+[2021.03.04-21.28.14:382][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/nevar/AppData/Local/UnrealEngine/4.25/DerivedDataCache/Boot.ddc
+[2021.03.04-21.28.14:383][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file H:/epic/projects/Bloodcolony_RPG/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2021.03.04-21.28.14:383][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2021.03.04-21.28.14:383][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file H:/epic/projects/Bloodcolony_RPG/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.03.04-21.28.14:383][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2021.03.04-21.28.14:395][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2021.03.04-21.28.14:395][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.03.04-21.28.14:395][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2021.03.04-21.28.14:397][  0]LogDerivedDataCache: Using Local data cache path C:/Users/nevar/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2021.03.04-21.28.14:397][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2021.03.04-21.28.14:397][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2021.03.04-21.28.14:457][  0]LogSlate: Using FreeType 2.10.0
+[2021.03.04-21.28.14:458][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2021.03.04-21.28.14:494][  0]LogAssetRegistry: FAssetRegistry took 0.0032 seconds to start up
+[2021.03.04-21.28.14:782][  0]LogInit: Selected Device Profile: [Windows]
+[2021.03.04-21.28.15:105][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2021.03.04-21.28.15:105][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2021.03.04-21.28.15:105][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2021.03.04-21.28.15:105][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2021.03.04-21.28.15:105][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2021.03.04-21.28.15:125][  0]LogNetVersion: Bloodcolony_RPG 1.0.0, NetCL: 13144385, EngineNetVer: 14, GameNetVer: 0 (Checksum: 3371620766)
+[2021.03.04-21.28.15:599][  0]LogAISub: UAISubsystem::UAISubsystem AISubsystem (000002D366C49BC0), frame # 0
+[2021.03.04-21.28.15:599][  0]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000002D366BA11C0), frame # 0
+[2021.03.04-21.28.15:600][  0]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000002D366BEDE00), frame # 0
+[2021.03.04-21.28.16:821][  0]LogPackageLocalizationCache: Processed 19 localized package path(s) for 1 prioritized culture(s) in 1.213691 seconds
+[2021.03.04-21.28.16:828][  0]LogUObjectArray: 15917 objects as part of root set at end of initial load.
+[2021.03.04-21.28.16:828][  0]LogUObjectAllocator: 3965568 out of 0 bytes used by permanent object pool.
+[2021.03.04-21.28.16:828][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2021.03.04-21.28.17:250][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2021.03.04-21.28.17:256][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2021.03.04-21.28.17:323][  0]LogLinker: Warning: Failed to load '/Game/ThirdPersonBP/ThirdPersonOverview': Can't find file.
+[2021.03.04-21.28.17:323][  0]LogLinker: Warning: Failed to load '/Game/ThirdPersonBP/ThirdPersonOverview': Can't find file.
+[2021.03.04-21.28.17:323][  0]LogUObjectGlobals: Warning: Failed to find object 'Class /Game/ThirdPersonBP/ThirdPersonOverview.ThirdPersonOverview_C'
+[2021.03.04-21.28.17:375][  0]SourceControl: Source control is disabled
+[2021.03.04-21.28.17:375][  0]SourceControl: Source control is disabled
+[2021.03.04-21.28.17:379][  0]SourceControl: Source control is disabled
+[2021.03.04-21.28.17:382][  0]SourceControl: Source control is disabled
+[2021.03.04-21.28.17:390][  0]SourceControl: Source control is disabled
+[2021.03.04-21.28.17:779][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2021.03.04-21.28.17:803][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.03.04-21.28.17:804][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.03.04-21.28.17:862][  0]LogOcInput: OculusInput pre-init called
+[2021.03.04-21.28.17:872][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2021.03.04-21.28.17:872][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2021.03.04-21.28.17:948][  0]LogEngine: Initializing Engine...
+[2021.03.04-21.28.17:950][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.03.04-21.28.17:950][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2021.03.04-21.28.17:951][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2021.03.04-21.28.18:086][  0]LogInit: Initializing FReadOnlyCVARCache
+[2021.03.04-21.28.18:100][  0]LogAIModule: Creating AISystem for world Untitled
+[2021.03.04-21.28.18:100][  0]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000002D36E377C00), frame # 0
+[2021.03.04-21.28.18:100][  0]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000002D36E38F380), frame # 0
+[2021.03.04-21.28.18:105][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.03.04-21.28.18:105][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.03.04-21.28.18:105][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.03.04-21.28.18:105][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.03.04-21.28.18:105][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.03.04-21.28.18:105][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.03.04-21.28.18:105][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.03.04-21.28.18:105][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.03.04-21.28.18:105][  0]LogAudio: Display: Using built-in audio occlusion.
+[2021.03.04-21.28.18:105][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2021.03.04-21.28.18:120][  0]LogAudioMixer: Display: 0: FrontLeft
+[2021.03.04-21.28.18:120][  0]LogAudioMixer: Display: 1: FrontRight
+[2021.03.04-21.28.18:196][  0]LogAudioMixer: Display: Using Audio Device Remote Audio
+[2021.03.04-21.28.18:199][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.03.04-21.28.18:201][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.03.04-21.28.18:201][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.03.04-21.28.18:202][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.03.04-21.28.18:203][  0]LogInit: FAudioDevice initialized.
+[2021.03.04-21.28.18:204][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2021.03.04-21.28.18:293][  0]LogDerivedDataCache: Saved boot cache 0.09s 76MB C:/Users/nevar/AppData/Local/UnrealEngine/4.25/DerivedDataCache/Boot.ddc.
+[2021.03.04-21.28.18:301][  0]LogInit: Texture streaming: Enabled
+[2021.03.04-21.28.18:318][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2021.03.04-21.28.18:319][  0]LogEngineSessionManager: EngineSessionManager sent abnormal shutdown report. Type=Crashed, SessionId={E742A17E-46F3-6E16-B226-92883D42C3FF}
+[2021.03.04-21.28.18:319][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2021.03.04-21.28.18:320][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2021.03.04-21.28.19:206][  0]LogInit: Transaction tracking system initialized
+[2021.03.04-21.28.19:230][  0]BlueprintLog: New page: Editor Load
+[2021.03.04-21.28.19:335][  0]LocalizationService: Localization service is disabled
+[2021.03.04-21.28.19:627][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2021.03.04-21.28.19:627][  0]LogCook: Display: Mobile HDR setting 1
+[2021.03.04-21.28.19:770][  0]LogFileCache: Scanning file cache for directory 'H:/epic/projects/Bloodcolony_RPG/Content/' took 0.01s
+[2021.03.04-21.28.19:965][  0]SourceControl: Source control is disabled
+[2021.03.04-21.28.19:965][  0]LogUnrealEdMisc: Loading editor; pre map load, took 9.625
+[2021.03.04-21.28.19:965][  0]Cmd: MAP LOAD FILE="H:/epic/projects/Bloodcolony_RPG/Content/Stats_Demo/ThirdPersonStuff/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.03.04-21.28.19:965][  0]LightingResults: New page: Lighting Build
+[2021.03.04-21.28.19:966][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2021.03.04-21.28.19:966][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.04-21.28.19:966][  0]MapCheck: New page: Map Check
+[2021.03.04-21.28.19:966][  0]LightingResults: New page: Lighting Build
+[2021.03.04-21.28.19:981][  0]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000002D36E377C00), frame # 0
+[2021.03.04-21.28.19:981][  0]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000002D36E38F380), frame # 0
+[2021.03.04-21.28.19:982][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2021.03.04-21.28.20:915][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2021.03.04-21.28.20:915][  0]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000002D35EBAFE00), frame # 0
+[2021.03.04-21.28.20:915][  0]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000002D36E49D580), frame # 0
+[2021.03.04-21.28.20:928][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.03.04-21.28.20:955][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2021.03.04-21.28.20:956][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.03.04-21.28.20:956][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.123ms to complete.
+[2021.03.04-21.28.20:956][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 0.991
+[2021.03.04-21.28.20:958][  0]LogUnrealEdMisc: Total Editor Startup Time, took 10.619
+[2021.03.04-21.28.21:164][  0]LogCollectionManager: Loaded 0 collections in 0.002363 seconds
+[2021.03.04-21.28.21:183][  0]LogFileCache: Scanning file cache for directory 'H:/epic/projects/Bloodcolony_RPG/Saved/Collections/' took 0.00s
+[2021.03.04-21.28.21:183][  0]LogFileCache: Scanning file cache for directory 'H:/epic/projects/Bloodcolony_RPG/Content/Developers/nevar/Collections/' took 0.00s
+[2021.03.04-21.28.21:184][  0]LogFileCache: Scanning file cache for directory 'H:/epic/projects/Bloodcolony_RPG/Content/Collections/' took 0.00s
+[2021.03.04-21.28.21:184][  0]LogContentBrowser: Native class hierarchy populated in 0.0125 seconds. Added 3427 classes and 821 folders.
+[2021.03.04-21.28.21:186][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2021.03.04-21.28.21:232][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2021.03.04-21.28.21:251][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.04-21.28.21:259][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.04-21.28.21:267][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.04-21.28.21:277][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.04-21.28.21:279][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 2 classes and 0 folders.
+[2021.03.04-21.28.21:423][  0]LogSlate: Took 0.000167 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2021.03.04-21.28.21:426][  0]LogSlate: Took 0.000141 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2021.03.04-21.28.21:426][  0]LogSlate: Took 0.000115 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2021.03.04-21.28.21:492][  0]LogRenderer: Reallocating scene render targets to support 1184x932 Format 10 NumSamples 1 (Frame:1).
+[2021.03.04-21.28.21:642][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2021.03.04-21.28.21:642][  0]LogLoad: (Engine Initialization) Total time: 11.30 seconds
+[2021.03.04-21.28.21:642][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2021.03.04-21.28.21:701][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2021.03.04-21.28.21:772][  0]LogSlate: Took 0.000168 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.03.04-21.28.21:805][  1]LogAssetRegistry: Asset discovery search completed in 7.3116 seconds
+[2021.03.04-21.28.21:810][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000002 seconds (updated 0 objects)
+[2021.03.04-21.28.29:038][847]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2021.03.04-21.28.29:202][847]LogProperty: Error: UStructProperty::Serialize Loading: Property 'StructProperty /Game/OpenRPG_Inventory/Widgets/WB_ItemToolTip.WB_ItemToolTip_C:Update.ItemData'. Unknown structure.
+[2021.03.04-21.28.29:202][847]LogProperty: Error: UStructProperty::Serialize Loading: Property 'StructProperty /Game/OpenRPG_Inventory/Widgets/WB_ItemToolTip.WB_ItemToolTip_C:ExecuteUbergraph_WB_ItemToolTip.K2Node_CustomEvent_ItemData'. Unknown structure.
+[2021.03.04-21.28.29:202][847]LogProperty: Error: UStructProperty::Serialize Loading: Property 'StructProperty /Game/OpenRPG_Inventory/Widgets/WB_ItemToolTip.WB_ItemToolTip_C:ItemData'. Unknown structure.
+[2021.03.04-21.28.29:202][847]LogClass: Warning: Property ItemData of ItemData has a struct type mismatch (tag STRUCT_REINST_s_ItemData_0 != prop FallbackStruct) in package:  H:/epic/projects/Bloodcolony_RPG/Content/OpenRPG_Inventory/Widgets/WB_ItemToolTip.uasset. If that struct got renamed, add an entry to ActiveStructRedirects.
+[2021.03.04-21.28.29:767][847]LogClass: Warning: Property ItemData of ItemData has a struct type mismatch (tag FallbackStruct != prop s_ItemData) in package:  FObjectReader. If that struct got renamed, add an entry to ActiveStructRedirects.
+[2021.03.04-21.28.30:320][847]LogObjectTools: Deleting 1 worlds: /Game/InventoryDemo/ThirdPersonStuff/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2021.03.04-21.28.30:320][847]LogObjectTools: Currently 1 active worlds: /Game/Stats_Demo/ThirdPersonStuff/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2021.03.04-21.28.30:349][847]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2021.03.04-21.28.32:588][847]LogSlate: Window 'Delete Assets' being destroyed
+[2021.03.04-21.28.48:268][847]LogUObjectGlobals: Force Deleting 150 Package(s):
+	Asset Name: /Game/InventoryDemo/Blueprints/BP_DemoCharacter.BP_DemoCharacter
+	Asset Name: /Game/InventoryDemo/Blueprints/BP_DemoDragDrop.BP_DemoDragDrop
+	Asset Name: /Game/InventoryDemo/Blueprints/BP_DemoGI.BP_DemoGI
+	Asset Name: /Game/InventoryDemo/Blueprints/BP_DemoPlayerController.BP_DemoPlayerController
+	Asset Name: /Game/InventoryDemo/Blueprints/BP_DemoShop.BP_DemoShop
+	Asset Name: /Game/InventoryDemo/Blueprints/BP_DemoStorage.BP_DemoStorage
+	Asset Name: /Game/InventoryDemo/Blueprints/Items/BP_Bag.BP_Bag
+	Asset Name: /Game/InventoryDemo/Blueprints/Items/BP_BiggerBag.BP_BiggerBag
+	Asset Name: /Game/InventoryDemo/Blueprints/Items/BP_Boots.BP_Boots
+	Asset Name: /Game/InventoryDemo/Blueprints/Items/BP_CardboardChest.BP_CardboardChest
+[2021.03.04-21.28.48:272][847]LogSlate: Took 0.000217 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.03.04-21.28.53:160][847]LogMaterial: Display: Missing cached shader map for material M_UE4Man_Body, compiling. 
+[2021.03.04-21.28.53:163][847]LogMaterial: Warning: H:\epic\projects\Bloodcolony_RPG\Content\InventoryDemo\ThirdPersonStuff\Mannequin\Character\Materials\M_UE4Man_Body.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.03.04-21.28.53:163][847]LogMaterial: Display: 	Missing Material Function
+[2021.03.04-21.28.53:163][847]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2021.03.04-21.28.53:163][847]LogMaterial: Display: 	Function MatLayerBlend_NormalBlend: (Node MakeMaterialAttributes) Error on property Normal
+[2021.03.04-21.28.53:163][847]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.03.04-21.28.53:163][847]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property EmissiveColor
+[2021.03.04-21.28.53:163][847]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property BaseColor
+[2021.03.04-21.28.53:163][847]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Metallic
+[2021.03.04-21.28.53:163][847]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Roughness
+[2021.03.04-21.28.53:165][847]LogMaterial: Display: Missing cached shader map for material M_UE4Man_Body, compiling. 
+[2021.03.04-21.28.53:168][847]LogMaterial: Warning: H:\epic\projects\Bloodcolony_RPG\Content\InventoryDemo\ThirdPersonStuff\Mannequin\Character\Materials\M_UE4Man_Body.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.03.04-21.28.53:168][847]LogMaterial: Display: 	Missing Material Function
+[2021.03.04-21.28.53:168][847]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2021.03.04-21.28.53:168][847]LogMaterial: Display: 	Function MatLayerBlend_NormalBlend: (Node MakeMaterialAttributes) Error on property Normal
+[2021.03.04-21.28.53:168][847]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.03.04-21.28.53:168][847]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property EmissiveColor
+[2021.03.04-21.28.53:168][847]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property BaseColor
+[2021.03.04-21.28.53:168][847]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Metallic
+[2021.03.04-21.28.53:168][847]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Roughness
+[2021.03.04-21.28.53:169][847]LogMaterial: Display: Missing cached shader map for material M_UE4Man_Body, compiling. 
+[2021.03.04-21.28.53:172][847]LogMaterial: Warning: H:\epic\projects\Bloodcolony_RPG\Content\InventoryDemo\ThirdPersonStuff\Mannequin\Character\Materials\M_UE4Man_Body.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.03.04-21.28.53:172][847]LogMaterial: Display: 	Missing Material Function
+[2021.03.04-21.28.53:172][847]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2021.03.04-21.28.53:172][847]LogMaterial: Display: 	Function MatLayerBlend_NormalBlend: (Node MakeMaterialAttributes) Error on property Normal
+[2021.03.04-21.28.53:172][847]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.03.04-21.28.53:172][847]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property EmissiveColor
+[2021.03.04-21.28.53:172][847]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property BaseColor
+[2021.03.04-21.28.53:172][847]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Metallic
+[2021.03.04-21.28.53:172][847]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Roughness
+[2021.03.04-21.28.53:173][847]LogMaterial: Display: Missing cached shader map for material M_UE4Man_Body, compiling. 
+[2021.03.04-21.28.53:176][847]LogMaterial: Warning: H:\epic\projects\Bloodcolony_RPG\Content\InventoryDemo\ThirdPersonStuff\Mannequin\Character\Materials\M_UE4Man_Body.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.03.04-21.28.53:176][847]LogMaterial: Display: 	Missing Material Function
+[2021.03.04-21.28.53:176][847]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2021.03.04-21.28.53:176][847]LogMaterial: Display: 	Function MatLayerBlend_NormalBlend: (Node MakeMaterialAttributes) Error on property Normal
+[2021.03.04-21.28.53:176][847]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.03.04-21.28.53:176][847]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property EmissiveColor
+[2021.03.04-21.28.53:176][847]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property BaseColor
+[2021.03.04-21.28.53:176][847]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Metallic
+[2021.03.04-21.28.53:176][847]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Roughness
+[2021.03.04-21.28.53:177][847]LogMaterial: Display: Missing cached shader map for material M_UE4Man_Body, compiling. 
+[2021.03.04-21.28.53:180][847]LogMaterial: Warning: H:\epic\projects\Bloodcolony_RPG\Content\InventoryDemo\ThirdPersonStuff\Mannequin\Character\Materials\M_UE4Man_Body.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.03.04-21.28.53:180][847]LogMaterial: Display: 	Missing Material Function
+[2021.03.04-21.28.53:180][847]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2021.03.04-21.28.53:180][847]LogMaterial: Display: 	Function MatLayerBlend_NormalBlend: (Node MakeMaterialAttributes) Error on property Normal
+[2021.03.04-21.28.53:180][847]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.03.04-21.28.53:180][847]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property EmissiveColor
+[2021.03.04-21.28.53:180][847]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property BaseColor
+[2021.03.04-21.28.53:180][847]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Metallic
+[2021.03.04-21.28.53:180][847]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Roughness
+[2021.03.04-21.28.53:181][847]LogMaterial: Display: Missing cached shader map for material M_UE4Man_Body, compiling. 
+[2021.03.04-21.28.53:183][847]LogMaterial: Warning: H:\epic\projects\Bloodcolony_RPG\Content\InventoryDemo\ThirdPersonStuff\Mannequin\Character\Materials\M_UE4Man_Body.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.03.04-21.28.53:183][847]LogMaterial: Display: 	Missing Material Function
+[2021.03.04-21.28.53:183][847]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2021.03.04-21.28.53:183][847]LogMaterial: Display: 	Function MatLayerBlend_NormalBlend: (Node MakeMaterialAttributes) Error on property Normal
+[2021.03.04-21.28.53:183][847]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.03.04-21.28.53:183][847]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property EmissiveColor
+[2021.03.04-21.28.53:183][847]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property BaseColor
+[2021.03.04-21.28.53:183][847]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Metallic
+[2021.03.04-21.28.53:183][847]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Roughness
+[2021.03.04-21.28.53:184][847]LogMaterial: Display: Missing cached shader map for material M_UE4Man_Body, compiling. 
+[2021.03.04-21.28.53:187][847]LogMaterial: Warning: H:\epic\projects\Bloodcolony_RPG\Content\InventoryDemo\ThirdPersonStuff\Mannequin\Character\Materials\M_UE4Man_Body.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.03.04-21.28.53:187][847]LogMaterial: Display: 	Missing Material Function
+[2021.03.04-21.28.53:187][847]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2021.03.04-21.28.53:187][847]LogMaterial: Display: 	Function MatLayerBlend_NormalBlend: (Node MakeMaterialAttributes) Error on property Normal
+[2021.03.04-21.28.53:187][847]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.03.04-21.28.53:187][847]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property EmissiveColor
+[2021.03.04-21.28.53:187][847]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property BaseColor
+[2021.03.04-21.28.53:187][847]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Metallic
+[2021.03.04-21.28.53:187][847]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Roughness
+[2021.03.04-21.28.53:188][847]LogMaterial: Display: Missing cached shader map for material M_UE4Man_Body, compiling. 
+[2021.03.04-21.28.53:191][847]LogMaterial: Warning: H:\epic\projects\Bloodcolony_RPG\Content\InventoryDemo\ThirdPersonStuff\Mannequin\Character\Materials\M_UE4Man_Body.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.03.04-21.28.53:191][847]LogMaterial: Display: 	Missing Material Function
+[2021.03.04-21.28.53:191][847]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2021.03.04-21.28.53:191][847]LogMaterial: Display: 	Function MatLayerBlend_NormalBlend: (Node MakeMaterialAttributes) Error on property Normal
+[2021.03.04-21.28.53:191][847]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.03.04-21.28.53:191][847]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property EmissiveColor
+[2021.03.04-21.28.53:191][847]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property BaseColor
+[2021.03.04-21.28.53:191][847]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Metallic
+[2021.03.04-21.28.53:191][847]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Roughness
+[2021.03.04-21.28.53:192][847]LogMaterial: Display: Missing cached shader map for material M_UE4Man_Body, compiling. 
+[2021.03.04-21.28.53:194][847]LogMaterial: Warning: H:\epic\projects\Bloodcolony_RPG\Content\InventoryDemo\ThirdPersonStuff\Mannequin\Character\Materials\M_UE4Man_Body.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.03.04-21.28.53:194][847]LogMaterial: Display: 	Missing Material Function
+[2021.03.04-21.28.53:194][847]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2021.03.04-21.28.53:194][847]LogMaterial: Display: 	Function MatLayerBlend_NormalBlend: (Node MakeMaterialAttributes) Error on property Normal
+[2021.03.04-21.28.53:194][847]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.03.04-21.28.53:194][847]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property EmissiveColor
+[2021.03.04-21.28.53:194][847]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property BaseColor
+[2021.03.04-21.28.53:195][847]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Metallic
+[2021.03.04-21.28.53:195][847]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Roughness
+[2021.03.04-21.28.53:196][847]LogMaterial: Display: Missing cached shader map for material M_UE4Man_Body, compiling. 
+[2021.03.04-21.28.53:199][847]LogMaterial: Warning: H:\epic\projects\Bloodcolony_RPG\Content\InventoryDemo\ThirdPersonStuff\Mannequin\Character\Materials\M_UE4Man_Body.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.03.04-21.28.53:199][847]LogMaterial: Display: 	Missing Material Function
+[2021.03.04-21.28.53:199][847]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2021.03.04-21.28.53:199][847]LogMaterial: Display: 	Function MatLayerBlend_NormalBlend: (Node MakeMaterialAttributes) Error on property Normal
+[2021.03.04-21.28.53:199][847]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.03.04-21.28.53:199][847]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property EmissiveColor
+[2021.03.04-21.28.53:199][847]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property BaseColor
+[2021.03.04-21.28.53:199][847]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Metallic
+[2021.03.04-21.28.53:199][847]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Roughness
+[2021.03.04-21.28.53:200][847]LogMaterial: Display: Missing cached shader map for material M_UE4Man_Body, compiling. 
+[2021.03.04-21.28.53:203][847]LogMaterial: Warning: H:\epic\projects\Bloodcolony_RPG\Content\InventoryDemo\ThirdPersonStuff\Mannequin\Character\Materials\M_UE4Man_Body.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.03.04-21.28.53:203][847]LogMaterial: Display: 	Missing Material Function
+[2021.03.04-21.28.53:203][847]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2021.03.04-21.28.53:203][847]LogMaterial: Display: 	Function MatLayerBlend_NormalBlend: (Node MakeMaterialAttributes) Error on property Normal
+[2021.03.04-21.28.53:203][847]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.03.04-21.28.53:203][847]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property EmissiveColor
+[2021.03.04-21.28.53:203][847]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property BaseColor
+[2021.03.04-21.28.53:203][847]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Metallic
+[2021.03.04-21.28.53:203][847]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Roughness
+[2021.03.04-21.28.53:204][847]LogMaterial: Display: Missing cached shader map for material M_UE4Man_Body, compiling. 
+[2021.03.04-21.28.53:207][847]LogMaterial: Warning: H:\epic\projects\Bloodcolony_RPG\Content\InventoryDemo\ThirdPersonStuff\Mannequin\Character\Materials\M_UE4Man_Body.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.03.04-21.28.53:207][847]LogMaterial: Display: 	Missing Material Function
+[2021.03.04-21.28.53:207][847]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2021.03.04-21.28.53:207][847]LogMaterial: Display: 	Function MatLayerBlend_NormalBlend: (Node MakeMaterialAttributes) Error on property Normal
+[2021.03.04-21.28.53:207][847]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.03.04-21.28.53:207][847]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property EmissiveColor
+[2021.03.04-21.28.53:207][847]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property BaseColor
+[2021.03.04-21.28.53:207][847]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Metallic
+[2021.03.04-21.28.53:207][847]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Roughness
+[2021.03.04-21.28.53:208][847]LogMaterial: Display: Missing cached shader map for material M_UE4Man_Body, compiling. 
+[2021.03.04-21.28.53:211][847]LogMaterial: Warning: H:\epic\projects\Bloodcolony_RPG\Content\InventoryDemo\ThirdPersonStuff\Mannequin\Character\Materials\M_UE4Man_Body.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.03.04-21.28.53:211][847]LogMaterial: Display: 	Missing Material Function
+[2021.03.04-21.28.53:211][847]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2021.03.04-21.28.53:211][847]LogMaterial: Display: 	Function MatLayerBlend_NormalBlend: (Node MakeMaterialAttributes) Error on property Normal
+[2021.03.04-21.28.53:211][847]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.03.04-21.28.53:211][847]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property EmissiveColor
+[2021.03.04-21.28.53:211][847]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property BaseColor
+[2021.03.04-21.28.53:211][847]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Metallic
+[2021.03.04-21.28.53:211][847]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Roughness
+[2021.03.04-21.28.53:212][847]LogMaterial: Display: Missing cached shader map for material M_UE4Man_Body, compiling. 
+[2021.03.04-21.28.53:215][847]LogMaterial: Warning: H:\epic\projects\Bloodcolony_RPG\Content\InventoryDemo\ThirdPersonStuff\Mannequin\Character\Materials\M_UE4Man_Body.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.03.04-21.28.53:215][847]LogMaterial: Display: 	Missing Material Function
+[2021.03.04-21.28.53:215][847]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2021.03.04-21.28.53:215][847]LogMaterial: Display: 	Function MatLayerBlend_NormalBlend: (Node MakeMaterialAttributes) Error on property Normal
+[2021.03.04-21.28.53:215][847]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.03.04-21.28.53:215][847]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property EmissiveColor
+[2021.03.04-21.28.53:215][847]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property BaseColor
+[2021.03.04-21.28.53:215][847]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Metallic
+[2021.03.04-21.28.53:215][847]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Roughness
+[2021.03.04-21.28.53:216][847]LogMaterial: Display: Missing cached shader map for material M_UE4Man_Body, compiling. 
+[2021.03.04-21.28.53:219][847]LogMaterial: Warning: H:\epic\projects\Bloodcolony_RPG\Content\InventoryDemo\ThirdPersonStuff\Mannequin\Character\Materials\M_UE4Man_Body.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.03.04-21.28.53:219][847]LogMaterial: Display: 	Missing Material Function
+[2021.03.04-21.28.53:219][847]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2021.03.04-21.28.53:219][847]LogMaterial: Display: 	Function MatLayerBlend_NormalBlend: (Node MakeMaterialAttributes) Error on property Normal
+[2021.03.04-21.28.53:219][847]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.03.04-21.28.53:219][847]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property EmissiveColor
+[2021.03.04-21.28.53:219][847]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property BaseColor
+[2021.03.04-21.28.53:219][847]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Metallic
+[2021.03.04-21.28.53:219][847]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Roughness
+[2021.03.04-21.28.53:221][847]LogMaterial: Display: Missing cached shader map for material M_UE4Man_Body, compiling. 
+[2021.03.04-21.28.53:223][847]LogMaterial: Warning: H:\epic\projects\Bloodcolony_RPG\Content\InventoryDemo\ThirdPersonStuff\Mannequin\Character\Materials\M_UE4Man_Body.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.03.04-21.28.53:223][847]LogMaterial: Display: 	Missing Material Function
+[2021.03.04-21.28.53:223][847]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2021.03.04-21.28.53:223][847]LogMaterial: Display: 	Function MatLayerBlend_NormalBlend: (Node MakeMaterialAttributes) Error on property Normal
+[2021.03.04-21.28.53:223][847]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.03.04-21.28.53:223][847]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property EmissiveColor
+[2021.03.04-21.28.53:223][847]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property BaseColor
+[2021.03.04-21.28.53:223][847]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Metallic
+[2021.03.04-21.28.53:223][847]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Roughness
+[2021.03.04-21.28.53:225][847]LogMaterial: Display: Missing cached shader map for material M_UE4Man_Body, compiling. 
+[2021.03.04-21.28.53:227][847]LogMaterial: Warning: H:\epic\projects\Bloodcolony_RPG\Content\InventoryDemo\ThirdPersonStuff\Mannequin\Character\Materials\M_UE4Man_Body.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.03.04-21.28.53:227][847]LogMaterial: Display: 	Missing Material Function
+[2021.03.04-21.28.53:227][847]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2021.03.04-21.28.53:227][847]LogMaterial: Display: 	Function MatLayerBlend_NormalBlend: (Node MakeMaterialAttributes) Error on property Normal
+[2021.03.04-21.28.53:227][847]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.03.04-21.28.53:227][847]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property EmissiveColor
+[2021.03.04-21.28.53:227][847]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property BaseColor
+[2021.03.04-21.28.53:227][847]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Metallic
+[2021.03.04-21.28.53:227][847]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Roughness
+[2021.03.04-21.28.53:229][847]LogMaterial: Display: Missing cached shader map for material M_UE4Man_Body, compiling. 
+[2021.03.04-21.28.53:232][847]LogMaterial: Warning: H:\epic\projects\Bloodcolony_RPG\Content\InventoryDemo\ThirdPersonStuff\Mannequin\Character\Materials\M_UE4Man_Body.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.03.04-21.28.53:232][847]LogMaterial: Display: 	Missing Material Function
+[2021.03.04-21.28.53:232][847]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2021.03.04-21.28.53:232][847]LogMaterial: Display: 	Function MatLayerBlend_NormalBlend: (Node MakeMaterialAttributes) Error on property Normal
+[2021.03.04-21.28.53:233][847]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.03.04-21.28.53:233][847]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property EmissiveColor
+[2021.03.04-21.28.53:233][847]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property BaseColor
+[2021.03.04-21.28.53:233][847]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Metallic
+[2021.03.04-21.28.53:233][847]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Roughness
+[2021.03.04-21.28.53:234][847]LogMaterial: Display: Missing cached shader map for material M_UE4Man_Body, compiling. 
+[2021.03.04-21.28.53:236][847]LogMaterial: Warning: H:\epic\projects\Bloodcolony_RPG\Content\InventoryDemo\ThirdPersonStuff\Mannequin\Character\Materials\M_UE4Man_Body.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.03.04-21.28.53:236][847]LogMaterial: Display: 	Missing Material Function
+[2021.03.04-21.28.53:236][847]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2021.03.04-21.28.53:236][847]LogMaterial: Display: 	Function MatLayerBlend_NormalBlend: (Node MakeMaterialAttributes) Error on property Normal
+[2021.03.04-21.28.53:236][847]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.03.04-21.28.53:236][847]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property EmissiveColor
+[2021.03.04-21.28.53:236][847]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property BaseColor
+[2021.03.04-21.28.53:236][847]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Metallic
+[2021.03.04-21.28.53:236][847]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Roughness
+[2021.03.04-21.28.53:238][847]LogMaterial: Display: Missing cached shader map for material M_UE4Man_Body, compiling. 
+[2021.03.04-21.28.53:240][847]LogMaterial: Warning: H:\epic\projects\Bloodcolony_RPG\Content\InventoryDemo\ThirdPersonStuff\Mannequin\Character\Materials\M_UE4Man_Body.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.03.04-21.28.53:240][847]LogMaterial: Display: 	Missing Material Function
+[2021.03.04-21.28.53:240][847]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2021.03.04-21.28.53:240][847]LogMaterial: Display: 	Function MatLayerBlend_NormalBlend: (Node MakeMaterialAttributes) Error on property Normal
+[2021.03.04-21.28.53:240][847]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.03.04-21.28.53:240][847]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property EmissiveColor
+[2021.03.04-21.28.53:240][847]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property BaseColor
+[2021.03.04-21.28.53:240][847]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Metallic
+[2021.03.04-21.28.53:240][847]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Roughness
+[2021.03.04-21.28.53:241][847]LogMaterial: Display: Missing cached shader map for material M_UE4Man_Body, compiling. 
+[2021.03.04-21.28.53:244][847]LogMaterial: Warning: H:\epic\projects\Bloodcolony_RPG\Content\InventoryDemo\ThirdPersonStuff\Mannequin\Character\Materials\M_UE4Man_Body.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.03.04-21.28.53:244][847]LogMaterial: Display: 	Missing Material Function
+[2021.03.04-21.28.53:244][847]LogMaterial: Display: 	(Node TextureSampleParameter2D) Param2D> Found NULL, requires Texture2D
+[2021.03.04-21.28.53:244][847]LogMaterial: Display: 	Function MatLayerBlend_NormalBlend: (Node MakeMaterialAttributes) Error on property Normal
+[2021.03.04-21.28.53:244][847]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.03.04-21.28.53:244][847]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property EmissiveColor
+[2021.03.04-21.28.53:244][847]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property BaseColor
+[2021.03.04-21.28.53:244][847]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Metallic
+[2021.03.04-21.28.53:244][847]LogMaterial: Display: 	Function MatLayerBlend_Simple: (Node MakeMaterialAttributes) Error on property Roughness
+[2021.03.04-21.28.53:666][847]LogStaticMesh: Building static mesh ItemDefaultMesh...
+[2021.03.04-21.28.53:668][847]LogStaticMesh: Built static mesh [0.00s] /Game/InventoryDemo/Items/Meshes/ItemDefaultMesh.ItemDefaultMesh
+[2021.03.04-21.28.53:683][847]LogMaterial: Display: Missing cached shader map for material M_Armor_Leather, compiling. 
+[2021.03.04-21.28.53:684][847]LogMaterial: Warning: H:\epic\projects\Bloodcolony_RPG\Content\InventoryDemo\Items\Materials\M_Armor_Leather.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.03.04-21.28.53:684][847]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.03.04-21.28.53:685][847]LogMaterial: Display: Missing cached shader map for material M_Armor_Leather, compiling. 
+[2021.03.04-21.28.53:685][847]LogMaterial: Warning: H:\epic\projects\Bloodcolony_RPG\Content\InventoryDemo\Items\Materials\M_Armor_Leather.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.03.04-21.28.53:685][847]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.03.04-21.28.53:687][847]LogMaterial: Display: Missing cached shader map for material M_Armor_Leather, compiling. 
+[2021.03.04-21.28.53:687][847]LogMaterial: Warning: H:\epic\projects\Bloodcolony_RPG\Content\InventoryDemo\Items\Materials\M_Armor_Leather.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.03.04-21.28.53:687][847]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.03.04-21.28.53:692][847]LogStaticMesh: Building static mesh SM_Armor_Leather_Boots...
+[2021.03.04-21.28.53:699][847]LogStaticMesh: Built static mesh [0.01s] /Game/InventoryDemo/Items/Meshes/SM_Armor_Leather_Boots.SM_Armor_Leather_Boots
+[2021.03.04-21.28.53:703][847]LogMaterial: Display: Missing cached shader map for material M_Armor_Cardboard, compiling. 
+[2021.03.04-21.28.53:704][847]LogMaterial: Warning: H:\epic\projects\Bloodcolony_RPG\Content\InventoryDemo\Items\Materials\M_Armor_Cardboard.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.03.04-21.28.53:704][847]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.03.04-21.28.53:705][847]LogMaterial: Display: Missing cached shader map for material M_Armor_Cardboard, compiling. 
+[2021.03.04-21.28.53:707][847]LogMaterial: Warning: H:\epic\projects\Bloodcolony_RPG\Content\InventoryDemo\Items\Materials\M_Armor_Cardboard.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.03.04-21.28.53:707][847]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.03.04-21.28.53:707][847]LogMaterial: Display: Missing cached shader map for material M_Armor_Cardboard, compiling. 
+[2021.03.04-21.28.53:708][847]LogMaterial: Warning: H:\epic\projects\Bloodcolony_RPG\Content\InventoryDemo\Items\Materials\M_Armor_Cardboard.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.03.04-21.28.53:708][847]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.03.04-21.28.53:743][847]LogStaticMesh: Building static mesh SM_Armor_Cardboard_Chest...
+[2021.03.04-21.28.53:756][847]LogStaticMesh: Built static mesh [0.01s] /Game/InventoryDemo/Items/Meshes/SM_Armor_Cardboard_Chest.SM_Armor_Cardboard_Chest
+[2021.03.04-21.28.53:759][847]LogStaticMesh: Building static mesh SM_Armor_Cardboard_Helm...
+[2021.03.04-21.28.53:766][847]LogStaticMesh: Built static mesh [0.01s] /Game/InventoryDemo/Items/Meshes/SM_Armor_Cardboard_Helm.SM_Armor_Cardboard_Helm
+[2021.03.04-21.28.53:770][847]LogMaterial: Warning: None: Requesting an invalid TextureIndex! (4 / 2)
+[2021.03.04-21.28.53:774][847]LogMaterial: Display: Missing cached shader map for material M_Concrete_Tiles, compiling. 
+[2021.03.04-21.28.53:775][847]LogMaterial: Warning: H:\epic\projects\Bloodcolony_RPG\Content\InventoryDemo\ThirdPersonStuff\ThirdPersonBP\Maps\StarterContent\Materials\M_Concrete_Tiles.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.03.04-21.28.53:775][847]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.03.04-21.28.53:777][847]LogMaterial: Display: Missing cached shader map for material M_Concrete_Tiles, compiling. 
+[2021.03.04-21.28.53:778][847]LogMaterial: Warning: H:\epic\projects\Bloodcolony_RPG\Content\InventoryDemo\ThirdPersonStuff\ThirdPersonBP\Maps\StarterContent\Materials\M_Concrete_Tiles.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.03.04-21.28.53:778][847]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.03.04-21.28.53:779][847]LogMaterial: Display: Missing cached shader map for material M_Concrete_Tiles, compiling. 
+[2021.03.04-21.28.53:780][847]LogMaterial: Warning: H:\epic\projects\Bloodcolony_RPG\Content\InventoryDemo\ThirdPersonStuff\ThirdPersonBP\Maps\StarterContent\Materials\M_Concrete_Tiles.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.03.04-21.28.53:780][847]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.03.04-21.28.53:782][847]LogMaterial: Display: Missing cached shader map for material M_Concrete_Tiles, compiling. 
+[2021.03.04-21.28.53:782][847]LogMaterial: Warning: H:\epic\projects\Bloodcolony_RPG\Content\InventoryDemo\ThirdPersonStuff\ThirdPersonBP\Maps\StarterContent\Materials\M_Concrete_Tiles.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.03.04-21.28.53:782][847]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.03.04-21.28.53:783][847]LogMaterial: Display: Missing cached shader map for material M_Concrete_Tiles, compiling. 
+[2021.03.04-21.28.53:784][847]LogMaterial: Warning: H:\epic\projects\Bloodcolony_RPG\Content\InventoryDemo\ThirdPersonStuff\ThirdPersonBP\Maps\StarterContent\Materials\M_Concrete_Tiles.uasset: Failed to compile Material for platform PCD3D_SM5, Default Material will be used in game.
+[2021.03.04-21.28.53:784][847]LogMaterial: Display: 	(Node TextureSample) Texture Sample> Missing input texture
+[2021.03.04-21.28.53:968][847]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2021.03.04-21.28.55:286][847]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2021.03.04-21.28.55:620][847]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.334 s
+[2021.03.04-21.28.55:620][847]LogOutputDevice: Error: === Handled ensure: ===
+[2021.03.04-21.28.55:620][847]LogOutputDevice: Error: 
+[2021.03.04-21.28.55:620][847]LogOutputDevice: Error: Ensure condition failed: CurObject != nullptr [File:D:/Build/++UE4/Sync/Engine/Source/Editor/UnrealEd/Private/ObjectTools.cpp] [Line: 2835]
+[2021.03.04-21.28.55:620][847]LogOutputDevice: Error: 
+[2021.03.04-21.28.55:620][847]LogOutputDevice: Error: Stack: 
+[2021.03.04-21.28.55:620][847]LogOutputDevice: Error: [Callstack] 0x00007ff9a21cefa9 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.03.04-21.28.55:620][847]LogOutputDevice: Error: [Callstack] 0x00007ff9a1ab692b UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.03.04-21.28.55:620][847]LogOutputDevice: Error: [Callstack] 0x00007ff9a1269e39 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.03.04-21.28.55:620][847]LogOutputDevice: Error: [Callstack] 0x00007ff9a150d43e UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.03.04-21.28.55:620][847]LogOutputDevice: Error: [Callstack] 0x00007ff9a1506dc7 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.03.04-21.28.55:620][847]LogOutputDevice: Error: [Callstack] 0x00007ff9cc98207e UE4Editor-Slate.dll!UnknownFunction []
+[2021.03.04-21.28.55:620][847]LogOutputDevice: Error: [Callstack] 0x00007ff9cc99b27e UE4Editor-Slate.dll!UnknownFunction []
+[2021.03.04-21.28.55:620][847]LogOutputDevice: Error: [Callstack] 0x00007ff9cc7e2dc8 UE4Editor-Slate.dll!UnknownFunction []
+[2021.03.04-21.28.55:620][847]LogOutputDevice: Error: [Callstack] 0x00007ff9cc8669cf UE4Editor-Slate.dll!UnknownFunction []
+[2021.03.04-21.28.55:620][847]LogOutputDevice: Error: [Callstack] 0x00007ff9cc84f4b2 UE4Editor-Slate.dll!UnknownFunction []
+[2021.03.04-21.28.55:620][847]LogOutputDevice: Error: [Callstack] 0x00007ff9cc842392 UE4Editor-Slate.dll!UnknownFunction []
+[2021.03.04-21.28.55:620][847]LogOutputDevice: Error: [Callstack] 0x00007ff9f17c7f88 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.03.04-21.28.55:620][847]LogOutputDevice: Error: [Callstack] 0x00007ff9f17b5c87 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.03.04-21.28.55:620][847]LogOutputDevice: Error: [Callstack] 0x00007ff9f17ca619 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.03.04-21.28.55:620][847]LogOutputDevice: Error: [Callstack] 0x00007ff9f17b17d0 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.03.04-21.28.55:620][847]LogOutputDevice: Error: [Callstack] 0x00007ff9fb535c7d USER32.dll!UnknownFunction []
+[2021.03.04-21.28.55:620][847]LogOutputDevice: Error: [Callstack] 0x00007ff9fb535672 USER32.dll!UnknownFunction []
+[2021.03.04-21.28.55:620][847]LogOutputDevice: Error: [Callstack] 0x00007ff9f17cb9d9 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.03.04-21.28.55:620][847]LogOutputDevice: Error: [Callstack] 0x00007ff9cc870d5d UE4Editor-Slate.dll!UnknownFunction []
+[2021.03.04-21.28.55:620][847]LogOutputDevice: Error: [Callstack] 0x00007ff9cc80bdb7 UE4Editor-Slate.dll!UnknownFunction []
+[2021.03.04-21.28.55:620][847]LogOutputDevice: Error: [Callstack] 0x00007ff9a159f00e UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.03.04-21.28.55:620][847]LogOutputDevice: Error: [Callstack] 0x00007ff9a1aaaf1c UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.03.04-21.28.55:620][847]LogOutputDevice: Error: [Callstack] 0x00007ff99c2bd838 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2021.03.04-21.28.55:620][847]LogOutputDevice: Error: [Callstack] 0x00007ff99c2c9f94 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2021.03.04-21.28.55:620][847]LogOutputDevice: Error: [Callstack] 0x00007ff99c2c5722 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2021.03.04-21.28.55:620][847]LogOutputDevice: Error: [Callstack] 0x00007ff99c327f72 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2021.03.04-21.28.55:620][847]LogOutputDevice: Error: [Callstack] 0x00007ff99c2c6847 UE4Editor-ContentBrowser.dll!UnknownFunction []
+[2021.03.04-21.28.55:620][847]LogOutputDevice: Error: [Callstack] 0x00007ff9cc98207e UE4Editor-Slate.dll!UnknownFunction []
+[2021.03.04-21.28.55:620][847]LogOutputDevice: Error: [Callstack] 0x00007ff9cc99b27e UE4Editor-Slate.dll!UnknownFunction []
+[2021.03.04-21.28.55:620][847]LogOutputDevice: Error: [Callstack] 0x00007ff9cc7e2dc8 UE4Editor-Slate.dll!UnknownFunction []
+[2021.03.04-21.28.55:620][847]LogOutputDevice: Error: [Callstack] 0x00007ff9cc8669cf UE4Editor-Slate.dll!UnknownFunction []
+[2021.03.04-21.28.55:620][847]LogOutputDevice: Error: [Callstack] 0x00007ff9cc84f4b2 UE4Editor-Slate.dll!UnknownFunction []
+[2021.03.04-21.28.55:620][847]LogOutputDevice: Error: [Callstack] 0x00007ff9cc842392 UE4Editor-Slate.dll!UnknownFunction []
+[2021.03.04-21.28.55:620][847]LogOutputDevice: Error: [Callstack] 0x00007ff9f17c7f88 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.03.04-21.28.55:620][847]LogOutputDevice: Error: [Callstack] 0x00007ff9f17b5c87 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.03.04-21.28.55:620][847]LogOutputDevice: Error: [Callstack] 0x00007ff9f17ca619 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.03.04-21.28.55:620][847]LogOutputDevice: Error: [Callstack] 0x00007ff9f17b17d0 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.03.04-21.28.55:620][847]LogOutputDevice: Error: [Callstack] 0x00007ff9fb535c7d USER32.dll!UnknownFunction []
+[2021.03.04-21.28.55:620][847]LogOutputDevice: Error: [Callstack] 0x00007ff9fb535672 USER32.dll!UnknownFunction []
+[2021.03.04-21.28.55:620][847]LogOutputDevice: Error: [Callstack] 0x00007ff9f17cbb34 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2021.03.04-21.28.55:620][847]LogOutputDevice: Error: [Callstack] 0x00007ff61de968c4 UE4Editor.exe!UnknownFunction []
+[2021.03.04-21.28.55:620][847]LogOutputDevice: Error: [Callstack] 0x00007ff61deaba7c UE4Editor.exe!UnknownFunction []
+[2021.03.04-21.28.55:620][847]LogOutputDevice: Error: [Callstack] 0x00007ff61deabb5a UE4Editor.exe!UnknownFunction []
+[2021.03.04-21.28.55:621][847]LogOutputDevice: Error: [Callstack] 0x00007ff61debe31d UE4Editor.exe!UnknownFunction []
+[2021.03.04-21.28.55:621][847]LogOutputDevice: Error: [Callstack] 0x00007ff61dec145a UE4Editor.exe!UnknownFunction []
+[2021.03.04-21.28.55:621][847]LogOutputDevice: Error: [Callstack] 0x00007ff9fb0d7bd4 KERNEL32.DLL!UnknownFunction []
+[2021.03.04-21.28.55:621][847]LogOutputDevice: Error: [Callstack] 0x00007ff9fcacce51 ntdll.dll!UnknownFunction []
+[2021.03.04-21.28.55:621][847]LogOutputDevice: Error: 
+[2021.03.04-21.28.55:626][847]LogStats:                SubmitErrorReport -  0.000 s
+[2021.03.04-21.28.57:075][847]LogStats:                    SendNewReport -  1.449 s
+[2021.03.04-21.28.57:075][847]LogStats:             FDebug::EnsureFailed -  1.789 s
+[2021.03.04-21.29.04:673][847]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.03.04-21.29.04:675][847]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.04-21.29.20:818][847]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2021.03.04-21.29.20:829][847]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2021.03.04-21.29.20:840][847]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2021.03.04-21.29.20:851][847]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2021.03.04-21.29.20:863][847]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2021.03.04-21.29.20:877][847]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2021.03.04-21.29.20:891][847]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2021.03.04-21.29.20:901][847]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2021.03.04-21.29.20:915][847]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2021.03.04-21.29.20:929][847]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2021.03.04-21.29.20:943][847]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2021.03.04-21.29.20:955][847]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2021.03.04-21.29.20:968][847]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2021.03.04-21.29.20:983][847]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2021.03.04-21.29.20:995][847]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2021.03.04-21.29.21:008][847]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2021.03.04-21.29.21:022][847]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2021.03.04-21.29.21:035][847]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2021.03.04-21.29.21:048][847]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2021.03.04-21.29.21:062][847]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2021.03.04-21.29.21:096][847]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2021.03.04-21.29.21:110][847]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2021.03.04-21.29.21:124][847]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2021.03.04-21.29.21:138][847]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2021.03.04-21.29.21:151][847]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2021.03.04-21.29.21:165][847]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2021.03.04-21.29.21:175][847]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2021.03.04-21.29.21:189][847]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2021.03.04-21.29.21:202][847]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2021.03.04-21.29.21:215][847]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2021.03.04-21.29.21:230][847]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2021.03.04-21.29.21:243][847]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2021.03.04-21.29.21:257][847]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2021.03.04-21.29.21:271][847]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2021.03.04-21.29.21:287][847]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2021.03.04-21.29.21:300][847]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2021.03.04-21.29.21:310][847]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2021.03.04-21.29.21:324][847]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2021.03.04-21.29.21:337][847]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2021.03.04-21.29.21:351][847]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2021.03.04-21.29.21:362][847]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2021.03.04-21.29.21:375][847]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2021.03.04-21.29.21:389][847]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2021.03.04-21.29.21:402][847]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2021.03.04-21.29.21:416][847]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2021.03.04-21.29.21:430][847]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2021.03.04-21.29.21:444][847]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2021.03.04-21.29.21:457][847]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2021.03.04-21.29.21:471][847]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2021.03.04-21.29.21:487][847]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2021.03.04-21.29.21:500][847]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2021.03.04-21.29.21:514][847]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2021.03.04-21.29.21:525][847]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2021.03.04-21.29.21:539][847]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2021.03.04-21.29.21:553][847]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2021.03.04-21.29.21:568][847]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2021.03.04-21.29.21:582][847]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2021.03.04-21.29.21:596][847]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2021.03.04-21.29.21:610][847]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2021.03.04-21.29.21:624][847]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2021.03.04-21.29.21:638][847]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2021.03.04-21.29.21:652][847]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2021.03.04-21.29.21:667][847]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2021.03.04-21.29.21:681][847]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2021.03.04-21.29.21:725][847]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2021.03.04-21.29.21:741][847]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2021.03.04-21.29.21:754][847]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2021.03.04-21.29.21:765][847]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2021.03.04-21.29.21:777][847]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2021.03.04-21.29.21:788][847]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2021.03.04-21.29.21:798][847]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2021.03.04-21.29.21:808][847]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2021.03.04-21.29.21:819][847]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2021.03.04-21.29.21:829][847]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2021.03.04-21.29.21:840][847]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2021.03.04-21.29.21:851][847]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2021.03.04-21.29.21:865][847]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2021.03.04-21.29.21:879][847]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2021.03.04-21.29.21:893][847]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2021.03.04-21.29.21:910][847]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2021.03.04-21.29.21:924][847]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2021.03.04-21.29.21:938][847]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2021.03.04-21.29.21:952][847]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2021.03.04-21.29.21:966][847]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2021.03.04-21.29.21:980][847]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2021.03.04-21.29.21:994][847]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2021.03.04-21.29.22:008][847]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2021.03.04-21.29.22:023][847]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2021.03.04-21.29.22:037][847]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2021.03.04-21.29.22:051][847]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2021.03.04-21.29.22:065][847]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2021.03.04-21.29.22:078][847]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2021.03.04-21.29.22:093][847]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2021.03.04-21.29.22:106][847]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2021.03.04-21.29.22:123][847]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2021.03.04-21.29.22:137][847]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2021.03.04-21.29.22:151][847]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2021.03.04-21.29.22:165][847]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2021.03.04-21.29.22:179][847]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2021.03.04-21.29.22:193][847]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2021.03.04-21.29.22:207][847]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2021.03.04-21.29.22:222][847]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2021.03.04-21.29.22:237][847]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2021.03.04-21.29.22:250][847]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2021.03.04-21.29.22:263][847]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2021.03.04-21.29.22:277][847]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2021.03.04-21.29.22:290][847]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2021.03.04-21.29.22:304][847]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2021.03.04-21.29.22:316][847]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2021.03.04-21.29.22:332][847]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2021.03.04-21.29.22:346][847]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2021.03.04-21.29.22:361][847]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2021.03.04-21.29.22:375][847]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2021.03.04-21.29.22:389][847]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2021.03.04-21.29.22:403][847]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2021.03.04-21.29.22:417][847]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2021.03.04-21.29.22:432][847]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2021.03.04-21.29.22:446][847]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2021.03.04-21.29.22:460][847]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2021.03.04-21.29.22:474][847]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2021.03.04-21.29.22:488][847]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2021.03.04-21.29.22:503][847]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2021.03.04-21.29.22:516][847]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2021.03.04-21.29.22:529][847]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2021.03.04-21.29.22:548][847]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2021.03.04-21.29.22:561][847]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2021.03.04-21.29.22:576][847]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2021.03.04-21.29.22:589][847]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2021.03.04-21.29.22:603][847]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2021.03.04-21.29.22:617][847]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2021.03.04-21.29.22:632][847]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2021.03.04-21.29.22:645][847]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2021.03.04-21.29.22:659][847]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2021.03.04-21.29.22:673][847]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2021.03.04-21.29.22:687][847]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2021.03.04-21.29.22:700][847]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2021.03.04-21.29.22:712][847]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2021.03.04-21.29.22:725][847]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2021.03.04-21.29.22:737][847]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2021.03.04-21.29.22:754][847]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2021.03.04-21.29.22:768][847]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2021.03.04-21.29.22:782][847]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2021.03.04-21.29.22:796][847]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2021.03.04-21.29.22:811][847]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2021.03.04-21.29.22:826][847]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2021.03.04-21.29.22:839][847]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2021.03.04-21.29.22:852][847]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2021.03.04-21.29.22:866][847]LogUObjectHash: Compacting FUObjectHashTables data took   0.52ms
+[2021.03.04-21.29.22:880][847]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2021.03.04-21.29.22:894][847]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2021.03.04-21.29.22:908][847]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2021.03.04-21.29.22:921][847]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2021.03.04-21.29.30:391][366]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2021.03.04-21.29.36:640][366]LogSlate: Window 'Save Content' being destroyed
+[2021.03.04-21.29.36:686][366]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/OpenRPG_Equipment/Datatables/DT_Equipment" FILE="H:/epic/projects/Bloodcolony_RPG/Content/OpenRPG_Equipment/Datatables/DT_Equipment.uasset" SILENT=true
+[2021.03.04-21.29.36:814][366]LogSavePackage: Moving 'H:/epic/projects/Bloodcolony_RPG/Saved/DT_EquipmentFCB1FC2942BC9ECC82499695DF59E137.tmp' to 'H:/epic/projects/Bloodcolony_RPG/Content/OpenRPG_Equipment/Datatables/DT_Equipment.uasset'
+[2021.03.04-21.29.36:966][366]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/OpenRPG_Inventory/Blueprints/BP_WorldItem" FILE="H:/epic/projects/Bloodcolony_RPG/Content/OpenRPG_Inventory/Blueprints/BP_WorldItem.uasset" SILENT=true
+[2021.03.04-21.29.37:143][366]LogSavePackage: Moving 'H:/epic/projects/Bloodcolony_RPG/Saved/BP_WorldItem009054C04AAF637BA5D74F9A80248188.tmp' to 'H:/epic/projects/Bloodcolony_RPG/Content/OpenRPG_Inventory/Blueprints/BP_WorldItem.uasset'
+[2021.03.04-21.29.37:227][366]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/OpenRPG_Inventory/Datatables/DT_Items" FILE="H:/epic/projects/Bloodcolony_RPG/Content/OpenRPG_Inventory/Datatables/DT_Items.uasset" SILENT=true
+[2021.03.04-21.29.37:386][366]LogSavePackage: Moving 'H:/epic/projects/Bloodcolony_RPG/Saved/DT_Items40EC2249406F182BE8E451AEAE37BC55.tmp' to 'H:/epic/projects/Bloodcolony_RPG/Content/OpenRPG_Inventory/Datatables/DT_Items.uasset'
+[2021.03.04-21.29.37:554][366]AssetCheck: New page: Asset Save: multiple assets
+[2021.03.04-21.29.37:554][366]LogContentValidation: Display: Validating DataTable /Game/OpenRPG_Equipment/Datatables/DT_Equipment.DT_Equipment
+[2021.03.04-21.29.37:554][366]LogContentValidation: Display: Validating Blueprint /Game/OpenRPG_Inventory/Blueprints/BP_WorldItem.BP_WorldItem
+[2021.03.04-21.29.37:554][366]LogContentValidation: Display: Validating DataTable /Game/OpenRPG_Inventory/Datatables/DT_Items.DT_Items
+[2021.03.04-21.29.40:397][689]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2021.03.04-21.29.40:929][689]LogSavePackage: Moving 'H:/epic/projects/Bloodcolony_RPG/Saved/ThirdPersonExampleMapA7F8C95A4A3F78D5332768A9677D01FE.tmp' to 'H:/epic/projects/Bloodcolony_RPG/Content/Stats_Demo/ThirdPersonStuff/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2021.03.04-21.29.41:479][689]LogSavePackage: Moving 'H:/epic/projects/Bloodcolony_RPG/Saved/ThirdPersonExampleMap_BuiltData1D2ACB4D43F5C2753DDCBFA40AB43D62.tmp' to 'H:/epic/projects/Bloodcolony_RPG/Content/Stats_Demo/ThirdPersonStuff/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2021.03.04-21.29.41:535][689]AssetCheck: New page: Asset Save: multiple assets
+[2021.03.04-21.29.41:536][689]LogContentValidation: Display: Validating World /Game/Stats_Demo/ThirdPersonStuff/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2021.03.04-21.29.41:536][689]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/Stats_Demo/ThirdPersonStuff/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2021.03.04-21.29.43:170][874]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2021.03.04-21.29.43:409][874]LogSlate: Window 'Bloodcolony_RPG - Unreal Editor' being destroyed
+[2021.03.04-21.29.43:409][874]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2021.03.04-21.29.43:634][875]Cmd: QUIT_EDITOR
+[2021.03.04-21.29.43:634][875]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2021.03.04-21.29.43:660][875]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2021.03.04-21.29.43:711][875]LogExit: Preparing to exit.
+[2021.03.04-21.29.44:220][875]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2021.03.04-21.29.44:305][875]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2021.03.04-21.29.44:306][875]LogExit: Editor shut down
+[2021.03.04-21.29.44:306][875]LogExit: Transaction tracking system shut down
+[2021.03.04-21.29.45:012][875]LogAISub: UAISubsystem::~UAISubsystem AISubsystem (000002D366C49BC0), frame # 1875
+[2021.03.04-21.29.45:012][875]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000002D366BA11C0), frame # 1875
+[2021.03.04-21.29.45:012][875]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000002D366BEDE00), frame # 1875
+[2021.03.04-21.29.45:024][875]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000002D35EBAFE00), frame # 1875
+[2021.03.04-21.29.45:024][875]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000002D36E49D580), frame # 1875
+[2021.03.04-21.29.45:053][875]LogExit: Object subsystem successfully closed.
+[2021.03.04-21.29.45:074][875]LogShaderCompilers: Display: Shaders left to compile 0
+[2021.03.04-21.29.45:086][875]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (792)
+[2021.03.04-21.29.45:086][875]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (790)
+[2021.03.04-21.29.45:086][875]LogModuleManager: Shutting down and abandoning module SceneOutliner (788)
+[2021.03.04-21.29.45:086][875]LogModuleManager: Shutting down and abandoning module AddContentDialog (786)
+[2021.03.04-21.29.45:088][875]LogModuleManager: Shutting down and abandoning module WidgetCarousel (785)
+[2021.03.04-21.29.45:088][875]LogModuleManager: Shutting down and abandoning module EditorWidgets (782)
+[2021.03.04-21.29.45:088][875]LogModuleManager: Shutting down and abandoning module CollectionManager (780)
+[2021.03.04-21.29.45:088][875]LogModuleManager: Shutting down and abandoning module StatsViewer (778)
+[2021.03.04-21.29.45:088][875]LogModuleManager: Shutting down and abandoning module VirtualTexturingEditor (776)
+[2021.03.04-21.29.45:088][875]LogModuleManager: Shutting down and abandoning module FoliageEdit (774)
+[2021.03.04-21.29.45:088][875]LogModuleManager: Shutting down and abandoning module LandscapeEditor (772)
+[2021.03.04-21.29.45:088][875]LogModuleManager: Shutting down and abandoning module MeshPaintMode (770)
+[2021.03.04-21.29.45:088][875]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (768)
+[2021.03.04-21.29.45:088][875]LogModuleManager: Shutting down and abandoning module ActorPickerMode (766)
+[2021.03.04-21.29.45:088][875]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (764)
+[2021.03.04-21.29.45:088][875]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (762)
+[2021.03.04-21.29.45:088][875]LogModuleManager: Shutting down and abandoning module AutomationWorker (760)
+[2021.03.04-21.29.45:088][875]LogModuleManager: Shutting down and abandoning module SteamVREditor (758)
+[2021.03.04-21.29.45:088][875]LogModuleManager: Shutting down and abandoning module OculusMR (756)
+[2021.03.04-21.29.45:088][875]LogModuleManager: Shutting down and abandoning module GooglePADEditor (754)
+[2021.03.04-21.29.45:088][875]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (752)
+[2021.03.04-21.29.45:088][875]LogModuleManager: Shutting down and abandoning module TemplateSequenceEditor (750)
+[2021.03.04-21.29.45:089][875]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (748)
+[2021.03.04-21.29.45:089][875]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (746)
+[2021.03.04-21.29.45:089][875]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (744)
+[2021.03.04-21.29.45:089][875]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (742)
+[2021.03.04-21.29.45:089][875]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (740)
+[2021.03.04-21.29.45:089][875]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (738)
+[2021.03.04-21.29.45:089][875]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (736)
+[2021.03.04-21.29.45:089][875]LogModuleManager: Shutting down and abandoning module WebMMedia (734)
+[2021.03.04-21.29.45:089][875]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (732)
+[2021.03.04-21.29.45:089][875]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (730)
+[2021.03.04-21.29.45:089][875]LogModuleManager: Shutting down and abandoning module SequenceRecorder (729)
+[2021.03.04-21.29.45:089][875]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (726)
+[2021.03.04-21.29.45:089][875]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (724)
+[2021.03.04-21.29.45:089][875]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (722)
+[2021.03.04-21.29.45:089][875]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (720)
+[2021.03.04-21.29.45:089][875]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (718)
+[2021.03.04-21.29.45:089][875]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (716)
+[2021.03.04-21.29.45:089][875]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (714)
+[2021.03.04-21.29.45:089][875]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (712)
+[2021.03.04-21.29.45:089][875]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (710)
+[2021.03.04-21.29.45:089][875]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (708)
+[2021.03.04-21.29.45:089][875]LogModuleManager: Shutting down and abandoning module PlanarCut (706)
+[2021.03.04-21.29.45:089][875]LogModuleManager: Shutting down and abandoning module CharacterAI (704)
+[2021.03.04-21.29.45:089][875]LogModuleManager: Shutting down and abandoning module TextureAlignMode (702)
+[2021.03.04-21.29.45:089][875]LogModuleManager: Shutting down and abandoning module BspMode (700)
+[2021.03.04-21.29.45:089][875]LogModuleManager: Shutting down and abandoning module PlacementMode (699)
+[2021.03.04-21.29.45:089][875]LogModuleManager: Shutting down and abandoning module GeometryMode (696)
+[2021.03.04-21.29.45:089][875]LogModuleManager: Shutting down and abandoning module CameraShakePreviewer (694)
+[2021.03.04-21.29.45:089][875]LogModuleManager: Shutting down and abandoning module SmartSnapping (692)
+[2021.03.04-21.29.45:089][875]LogModuleManager: Shutting down and abandoning module SessionServices (690)
+[2021.03.04-21.29.45:089][875]LogModuleManager: Shutting down and abandoning module MeshPaint (688)
+[2021.03.04-21.29.45:089][875]LogModuleManager: Shutting down and abandoning module ViewportSnapping (686)
+[2021.03.04-21.29.45:089][875]LogModuleManager: Shutting down and abandoning module ViewportInteraction (684)
+[2021.03.04-21.29.45:089][875]LogModuleManager: Shutting down and abandoning module ClothPainter (682)
+[2021.03.04-21.29.45:089][875]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (681)
+[2021.03.04-21.29.45:089][875]LogModuleManager: Shutting down and abandoning module LogVisualizer (678)
+[2021.03.04-21.29.45:089][875]LogModuleManager: Shutting down and abandoning module IntroTutorials (676)
+[2021.03.04-21.29.45:089][875]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (675)
+[2021.03.04-21.29.45:090][875]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (672)
+[2021.03.04-21.29.45:090][875]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (670)
+[2021.03.04-21.29.45:090][875]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (668)
+[2021.03.04-21.29.45:090][875]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (667)
+[2021.03.04-21.29.46:096][875]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (664)
+[2021.03.04-21.29.46:096][875]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (662)
+[2021.03.04-21.29.46:096][875]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (660)
+[2021.03.04-21.29.46:096][875]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (658)
+[2021.03.04-21.29.46:096][875]LogModuleManager: Shutting down and abandoning module TraceInsights (656)
+[2021.03.04-21.29.46:096][875]LogModuleManager: Shutting down and abandoning module TraceServices (655)
+[2021.03.04-21.29.46:096][875]LogModuleManager: Shutting down and abandoning module EditorInteractiveToolsFramework (652)
+[2021.03.04-21.29.46:096][875]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (650)
+[2021.03.04-21.29.46:096][875]LogModuleManager: Shutting down and abandoning module InputBindingEditor (648)
+[2021.03.04-21.29.46:096][875]LogModuleManager: Shutting down and abandoning module MergeActors (646)
+[2021.03.04-21.29.46:096][875]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (644)
+[2021.03.04-21.29.46:096][875]LogModuleManager: Shutting down and abandoning module LocalizationService (643)
+[2021.03.04-21.29.46:096][875]LogModuleManager: Shutting down and abandoning module HardwareTargeting (640)
+[2021.03.04-21.29.46:096][875]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (638)
+[2021.03.04-21.29.46:096][875]LogModuleManager: Shutting down and abandoning module UndoHistory (636)
+[2021.03.04-21.29.46:096][875]LogModuleManager: Shutting down and abandoning module XmlParser (634)
+[2021.03.04-21.29.46:096][875]LogModuleManager: Shutting down and abandoning module Blutility (632)
+[2021.03.04-21.29.46:096][875]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (630)
+[2021.03.04-21.29.46:096][875]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (629)
+[2021.03.04-21.29.46:096][875]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (626)
+[2021.03.04-21.29.46:096][875]LogModuleManager: Shutting down and abandoning module SettingsEditor (624)
+[2021.03.04-21.29.46:096][875]LogModuleManager: Shutting down and abandoning module ProjectLauncher (622)
+[2021.03.04-21.29.46:096][875]LogModuleManager: Shutting down and abandoning module SessionFrontend (620)
+[2021.03.04-21.29.46:096][875]LogModuleManager: Shutting down and abandoning module ProfilerClient (618)
+[2021.03.04-21.29.46:096][875]LogModuleManager: Shutting down and abandoning module DeviceManager (616)
+[2021.03.04-21.29.46:096][875]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (615)
+[2021.03.04-21.29.46:129][875]LogModuleManager: Shutting down and abandoning module AutomationController (612)
+[2021.03.04-21.29.46:129][875]LogModuleManager: Shutting down and abandoning module AutomationWindow (610)
+[2021.03.04-21.29.46:129][875]LogModuleManager: Shutting down and abandoning module Layers (608)
+[2021.03.04-21.29.46:129][875]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (606)
+[2021.03.04-21.29.46:129][875]LogModuleManager: Shutting down and abandoning module DetailCustomizations (604)
+[2021.03.04-21.29.46:129][875]LogModuleManager: Shutting down and abandoning module PackagesDialog (602)
+[2021.03.04-21.29.46:129][875]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (600)
+[2021.03.04-21.29.46:129][875]LogModuleManager: Shutting down and abandoning module Persona (598)
+[2021.03.04-21.29.46:129][875]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (597)
+[2021.03.04-21.29.46:129][875]LogModuleManager: Shutting down and abandoning module AnimGraph (595)
+[2021.03.04-21.29.46:129][875]LogModuleManager: Shutting down and abandoning module Kismet (592)
+[2021.03.04-21.29.46:133][875]LogModuleManager: Shutting down and abandoning module KismetWidgets (591)
+[2021.03.04-21.29.46:133][875]LogModuleManager: Shutting down and abandoning module GraphEditor (588)
+[2021.03.04-21.29.46:133][875]LogModuleManager: Shutting down and abandoning module StructViewer (586)
+[2021.03.04-21.29.46:133][875]LogModuleManager: Shutting down and abandoning module ClassViewer (584)
+[2021.03.04-21.29.46:133][875]LogModuleManager: Shutting down and abandoning module Toolbox (582)
+[2021.03.04-21.29.46:133][875]LogModuleManager: Shutting down and abandoning module ModuleUI (580)
+[2021.03.04-21.29.46:133][875]LogModuleManager: Shutting down and abandoning module OutputLog (578)
+[2021.03.04-21.29.46:134][875]LogModuleManager: Shutting down and abandoning module GammaUI (576)
+[2021.03.04-21.29.46:134][875]LogModuleManager: Shutting down and abandoning module Documentation (574)
+[2021.03.04-21.29.46:134][875]LogModuleManager: Shutting down and abandoning module LiveCoding (572)
+[2021.03.04-21.29.46:134][875]LogModuleManager: Shutting down and abandoning module LevelSequence (570)
+[2021.03.04-21.29.46:134][875]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (568)
+[2021.03.04-21.29.46:134][875]LogModuleManager: Shutting down and abandoning module MovieScene (566)
+[2021.03.04-21.29.46:134][875]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (564)
+[2021.03.04-21.29.46:134][875]LogModuleManager: Shutting down and abandoning module LauncherPlatform (562)
+[2021.03.04-21.29.46:134][875]LogModuleManager: Shutting down and abandoning module AnalyticsET (560)
+[2021.03.04-21.29.46:134][875]LogModuleManager: Shutting down and abandoning module PortalServices (558)
+[2021.03.04-21.29.46:134][875]LogModuleManager: Shutting down and abandoning module PortalRpc (556)
+[2021.03.04-21.29.46:134][875]LogModuleManager: Shutting down and abandoning module MessagingRpc (554)
+[2021.03.04-21.29.46:134][875]LogModuleManager: Shutting down and abandoning module AudioMixerXAudio2 (552)
+[2021.03.04-21.29.46:134][875]LogModuleManager: Shutting down and abandoning module AudioMixerCore (551)
+[2021.03.04-21.29.46:134][875]LogModuleManager: Shutting down and abandoning module AIModule (548)
+[2021.03.04-21.29.46:134][875]LogModuleManager: Shutting down and abandoning module GameplayDebugger (547)
+[2021.03.04-21.29.46:134][875]LogModuleManager: Shutting down and abandoning module AITestSuite (545)
+[2021.03.04-21.29.46:134][875]LogModuleManager: Shutting down and abandoning module NavigationSystem (543)
+[2021.03.04-21.29.46:134][875]LogModuleManager: Shutting down and abandoning module ProfilerService (540)
+[2021.03.04-21.29.46:364][875]LogModuleManager: Shutting down and abandoning module TaskGraph (538)
+[2021.03.04-21.29.46:364][875]LogModuleManager: Shutting down and abandoning module ScreenshotTools (536)
+[2021.03.04-21.29.46:364][875]LogModuleManager: Shutting down and abandoning module SynthesisEditor (534)
+[2021.03.04-21.29.46:364][875]LogModuleManager: Shutting down and abandoning module Synthesis (532)
+[2021.03.04-21.29.46:364][875]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (530)
+[2021.03.04-21.29.46:364][875]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (528)
+[2021.03.04-21.29.46:364][875]LogModuleManager: Shutting down and abandoning module OculusEditor (526)
+[2021.03.04-21.29.46:364][875]LogModuleManager: Shutting down and abandoning module OculusInput (524)
+[2021.03.04-21.29.46:364][875]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (522)
+[2021.03.04-21.29.46:364][875]LogModuleManager: Shutting down and abandoning module GooglePAD (520)
+[2021.03.04-21.29.46:364][875]LogModuleManager: Shutting down and abandoning module EditableMesh (518)
+[2021.03.04-21.29.46:364][875]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (516)
+[2021.03.04-21.29.46:364][875]LogModuleManager: Shutting down and abandoning module CableComponent (514)
+[2021.03.04-21.29.46:364][875]LogModuleManager: Shutting down and abandoning module AudioCapture (512)
+[2021.03.04-21.29.46:364][875]LogModuleManager: Shutting down and abandoning module AudioCaptureRtAudio (511)
+[2021.03.04-21.29.46:364][875]LogModuleManager: Shutting down and abandoning module AssetTags (508)
+[2021.03.04-21.29.46:365][875]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (506)
+[2021.03.04-21.29.46:365][875]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (504)
+[2021.03.04-21.29.46:365][875]LogModuleManager: Shutting down and abandoning module AppleImageUtils (502)
+[2021.03.04-21.29.46:365][875]LogModuleManager: Shutting down and abandoning module AndroidPermission (500)
+[2021.03.04-21.29.46:365][875]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (498)
+[2021.03.04-21.29.46:365][875]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (496)
+[2021.03.04-21.29.46:365][875]LogModuleManager: Shutting down and abandoning module TemplateSequence (494)
+[2021.03.04-21.29.46:365][875]LogModuleManager: Shutting down and abandoning module MovieRenderPipelineEditor (492)
+[2021.03.04-21.29.46:365][875]LogModuleManager: Shutting down and abandoning module MovieRenderPipelineRenderPasses (490)
+[2021.03.04-21.29.46:365][875]LogModuleManager: Shutting down and abandoning module MovieRenderPipelineSettings (488)
+[2021.03.04-21.29.46:365][875]LogModuleManager: Shutting down and abandoning module MovieRenderPipelineCore (486)
+[2021.03.04-21.29.46:365][875]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (485)
+[2021.03.04-21.29.46:371][875]LogModuleManager: Shutting down and abandoning module MeshPaintingToolset (482)
+[2021.03.04-21.29.46:371][875]LogModuleManager: Shutting down and abandoning module MeshPaintEditorMode (480)
+[2021.03.04-21.29.46:371][875]LogModuleManager: Shutting down and abandoning module MediaCompositing (478)
+[2021.03.04-21.29.46:371][875]LogModuleManager: Shutting down and abandoning module ImgMedia (476)
+[2021.03.04-21.29.46:371][875]LogModuleManager: Shutting down and abandoning module MagicLeapSharedWorld (474)
+[2021.03.04-21.29.46:371][875]LogModuleManager: Shutting down and abandoning module MagicLeapLightEstimation (472)
+[2021.03.04-21.29.46:371][875]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (470)
+[2021.03.04-21.29.46:371][875]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (468)
+[2021.03.04-21.29.46:371][875]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (466)
+[2021.03.04-21.29.46:371][875]LogModuleManager: Shutting down and abandoning module NiagaraEditorWidgets (464)
+[2021.03.04-21.29.46:371][875]LogModuleManager: Shutting down and abandoning module MeshSolverUtilities (462)
+[2021.03.04-21.29.46:371][875]LogModuleManager: Shutting down and abandoning module MeshConversion (460)
+[2021.03.04-21.29.46:371][875]LogModuleManager: Shutting down and abandoning module DynamicMesh (458)
+[2021.03.04-21.29.46:371][875]LogModuleManager: Shutting down and abandoning module GeometryAlgorithms (456)
+[2021.03.04-21.29.46:371][875]LogModuleManager: Shutting down and abandoning module GeometricObjects (454)
+[2021.03.04-21.29.46:371][875]LogModuleManager: Shutting down and abandoning module GeometryCollectionTracks (452)
+[2021.03.04-21.29.46:371][875]LogModuleManager: Shutting down and abandoning module GeometryCollectionSequencer (451)
+[2021.03.04-21.29.46:372][875]LogModuleManager: Shutting down and abandoning module GeometryCollectionEditor (448)
+[2021.03.04-21.29.46:372][875]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (446)
+[2021.03.04-21.29.46:372][875]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (444)
+[2021.03.04-21.29.46:372][875]LogModuleManager: Shutting down and abandoning module ChaosSolverEditor (442)
+[2021.03.04-21.29.46:372][875]LogModuleManager: Shutting down and abandoning module ChaosNiagara (440)
+[2021.03.04-21.29.46:372][875]LogModuleManager: Shutting down and abandoning module FractureEditor (438)
+[2021.03.04-21.29.46:372][875]LogModuleManager: Shutting down and abandoning module ChaosClothEditor (436)
+[2021.03.04-21.29.46:372][875]LogModuleManager: Shutting down and abandoning module ChaosCloth (434)
+[2021.03.04-21.29.46:372][875]LogModuleManager: Shutting down and abandoning module BackChannel (432)
+[2021.03.04-21.29.46:372][875]LogModuleManager: Shutting down and abandoning module AutomationUtilsEditor (430)
+[2021.03.04-21.29.46:372][875]LogModuleManager: Shutting down and abandoning module AutomationUtils (428)
+[2021.03.04-21.29.46:372][875]LogModuleManager: Shutting down and abandoning module AlembicImporter (426)
+[2021.03.04-21.29.46:372][875]LogModuleManager: Shutting down and abandoning module AlembicLibrary (425)
+[2021.03.04-21.29.46:372][875]LogModuleManager: Shutting down and abandoning module GeometryCache (424)
+[2021.03.04-21.29.46:372][875]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (423)
+[2021.03.04-21.29.46:372][875]LogModuleManager: Shutting down and abandoning module VariantManagerContentEditor (418)
+[2021.03.04-21.29.46:372][875]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (416)
+[2021.03.04-21.29.46:372][875]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (414)
+[2021.03.04-21.29.46:372][875]LogModuleManager: Shutting down and abandoning module PluginBrowser (412)
+[2021.03.04-21.29.46:372][875]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (410)
+[2021.03.04-21.29.46:372][875]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (408)
+[2021.03.04-21.29.46:372][875]LogModuleManager: Shutting down and abandoning module EditorScriptingUtilities (406)
+[2021.03.04-21.29.46:372][875]LogModuleManager: Shutting down and abandoning module CurveEditorTools (404)
+[2021.03.04-21.29.46:372][875]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (402)
+[2021.03.04-21.29.46:372][875]LogModuleManager: Shutting down and abandoning module CryptoKeys (400)
+[2021.03.04-21.29.46:372][875]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (398)
+[2021.03.04-21.29.46:372][875]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (396)
+[2021.03.04-21.29.46:372][875]LogModuleManager: Shutting down and abandoning module UObjectPlugin (394)
+[2021.03.04-21.29.46:372][875]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (392)
+[2021.03.04-21.29.46:372][875]LogModuleManager: Shutting down and abandoning module RiderSourceCodeAccess (390)
+[2021.03.04-21.29.46:372][875]LogModuleManager: Shutting down and abandoning module PlasticSourceControl (388)
+[2021.03.04-21.29.46:373][875]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (386)
+[2021.03.04-21.29.46:373][875]LogModuleManager: Shutting down and abandoning module GitSourceControl (384)
+[2021.03.04-21.29.46:373][875]LogModuleManager: Shutting down and abandoning module SourceControl (383)
+[2021.03.04-21.29.46:373][875]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (380)
+[2021.03.04-21.29.46:373][875]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (378)
+[2021.03.04-21.29.46:373][875]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (376)
+[2021.03.04-21.29.46:373][875]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (374)
+[2021.03.04-21.29.46:373][875]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (372)
+[2021.03.04-21.29.46:373][875]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (370)
+[2021.03.04-21.29.46:373][875]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (368)
+[2021.03.04-21.29.46:373][875]LogModuleManager: Shutting down and abandoning module Paper2DEditor (366)
+[2021.03.04-21.29.46:373][875]LogModuleManager: Shutting down and abandoning module SoundFields (364)
+[2021.03.04-21.29.46:373][875]LogModuleManager: Shutting down and abandoning module SignificanceManager (362)
+[2021.03.04-21.29.46:373][875]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (360)
+[2021.03.04-21.29.46:373][875]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (358)
+[2021.03.04-21.29.46:373][875]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (354)
+[2021.03.04-21.29.46:373][875]LogModuleManager: Shutting down and abandoning module ActorSequence (352)
+[2021.03.04-21.29.46:373][875]LogModuleManager: Shutting down and abandoning module UdpMessaging (350)
+[2021.03.04-21.29.46:474][875]LogModuleManager: Shutting down and abandoning module TcpMessaging (348)
+[2021.03.04-21.29.46:575][875]LogModuleManager: Shutting down and abandoning module MagicLeapARPin (346)
+[2021.03.04-21.29.46:575][875]LogModuleManager: Shutting down and abandoning module MagicLeapHandMeshing (344)
+[2021.03.04-21.29.46:575][875]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (342)
+[2021.03.04-21.29.46:575][875]LogModuleManager: Shutting down and abandoning module MagicLeapPrivileges (340)
+[2021.03.04-21.29.46:575][875]LogModuleManager: Shutting down and abandoning module MagicLeapPlanes (338)
+[2021.03.04-21.29.46:575][875]LogMagicLeapPlanes: Planes tracker already destroyed.
+[2021.03.04-21.29.46:575][875]LogModuleManager: Shutting down and abandoning module MagicLeapImageTracker (336)
+[2021.03.04-21.29.46:575][875]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (334)
+[2021.03.04-21.29.46:575][875]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (332)
+[2021.03.04-21.29.46:575][875]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (330)
+[2021.03.04-21.29.46:575][875]LogModuleManager: Shutting down and abandoning module MagicLeapController (328)
+[2021.03.04-21.29.46:575][875]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2021.03.04-21.29.46:575][875]LogModuleManager: Shutting down and abandoning module MagicLeapARPinImpl (326)
+[2021.03.04-21.29.46:575][875]LogModuleManager: Shutting down and abandoning module MagicLeapAR (324)
+[2021.03.04-21.29.46:575][875]LogModuleManager: Shutting down and abandoning module AugmentedReality (323)
+[2021.03.04-21.29.46:575][875]LogModuleManager: Shutting down and abandoning module NiagaraAnimNotifies (320)
+[2021.03.04-21.29.46:575][875]LogModuleManager: Shutting down and abandoning module Niagara (318)
+[2021.03.04-21.29.46:575][875]LogModuleManager: Shutting down and abandoning module SignalProcessing (317)
+[2021.03.04-21.29.46:575][875]LogModuleManager: Shutting down and abandoning module NiagaraEditor (315)
+[2021.03.04-21.29.46:575][875]LogModuleManager: Shutting down and abandoning module NiagaraCore (312)
+[2021.03.04-21.29.46:575][875]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (310)
+[2021.03.04-21.29.46:575][875]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (308)
+[2021.03.04-21.29.46:575][875]LogModuleManager: Shutting down and abandoning module FacialAnimation (306)
+[2021.03.04-21.29.46:575][875]LogModuleManager: Shutting down and abandoning module DataValidation (304)
+[2021.03.04-21.29.46:575][875]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (302)
+[2021.03.04-21.29.46:576][875]LogModuleManager: Shutting down and abandoning module LevelEditor (301)
+[2021.03.04-21.29.46:577][875]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (300)
+[2021.03.04-21.29.46:577][875]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (298)
+[2021.03.04-21.29.46:577][875]LogModuleManager: Shutting down and abandoning module MainFrame (296)
+[2021.03.04-21.29.46:577][875]LogModuleManager: Shutting down and abandoning module HotReload (295)
+[2021.03.04-21.29.46:578][875]LogModuleManager: Shutting down and abandoning module ToolMenus (291)
+[2021.03.04-21.29.46:578][875]LogModuleManager: Shutting down and abandoning module ContentBrowser (289)
+[2021.03.04-21.29.46:579][875]LogModuleManager: Shutting down and abandoning module TreeMap (287)
+[2021.03.04-21.29.46:579][875]LogModuleManager: Shutting down and abandoning module AnimationSharing (284)
+[2021.03.04-21.29.46:579][875]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (282)
+[2021.03.04-21.29.46:579][875]LogModuleManager: Shutting down and abandoning module Paper2D (280)
+[2021.03.04-21.29.46:579][875]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (278)
+[2021.03.04-21.29.46:579][875]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (276)
+[2021.03.04-21.29.46:579][875]LogModuleManager: Shutting down and abandoning module NetworkReplayStreaming (274)
+[2021.03.04-21.29.46:580][875]LogModuleManager: Shutting down and abandoning module PacketHandler (272)
+[2021.03.04-21.29.46:580][875]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (270)
+[2021.03.04-21.29.46:580][875]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntimeNv (268)
+[2021.03.04-21.29.46:580][875]LogModuleManager: Shutting down and abandoning module MediaAssets (266)
+[2021.03.04-21.29.46:580][875]LogModuleManager: Shutting down and abandoning module Overlay (264)
+[2021.03.04-21.29.46:580][875]LogModuleManager: Shutting down and abandoning module OverlayEditor (263)
+[2021.03.04-21.29.46:580][875]LogModuleManager: Shutting down and abandoning module VREditor (260)
+[2021.03.04-21.29.46:580][875]LogModuleManager: Shutting down and abandoning module StringTableEditor (258)
+[2021.03.04-21.29.46:580][875]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (256)
+[2021.03.04-21.29.46:580][875]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (254)
+[2021.03.04-21.29.46:580][875]LogModuleManager: Shutting down and abandoning module FunctionalTesting (252)
+[2021.03.04-21.29.46:580][875]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (250)
+[2021.03.04-21.29.46:580][875]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (249)
+[2021.03.04-21.29.46:580][875]LogModuleManager: Shutting down and abandoning module UMG (246)
+[2021.03.04-21.29.46:580][875]LogModuleManager: Shutting down and abandoning module UMGEditor (245)
+[2021.03.04-21.29.46:580][875]LogModuleManager: Shutting down and abandoning module MessageLog (243)
+[2021.03.04-21.29.46:580][875]LogModuleManager: Shutting down and abandoning module MaterialEditor (241)
+[2021.03.04-21.29.46:580][875]LogModuleManager: Shutting down and abandoning module SlateReflector (236)
+[2021.03.04-21.29.46:580][875]LogModuleManager: Shutting down and abandoning module Slate (234)
+[2021.03.04-21.29.46:580][875]LogModuleManager: Shutting down and abandoning module SlateCore (232)
+[2021.03.04-21.29.46:580][875]LogModuleManager: Shutting down and abandoning module LandscapeEditorUtilities (230)
+[2021.03.04-21.29.46:580][875]LogModuleManager: Shutting down and abandoning module UnrealEd (228)
+[2021.03.04-21.29.46:580][875]LogModuleManager: Shutting down and abandoning module MRMesh (226)
+[2021.03.04-21.29.46:580][875]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (224)
+[2021.03.04-21.29.46:580][875]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (222)
+[2021.03.04-21.29.46:580][875]LogModuleManager: Shutting down and abandoning module XAudio2 (220)
+[2021.03.04-21.29.46:580][875]LogModuleManager: Shutting down and abandoning module Networking (218)
+[2021.03.04-21.29.46:580][875]LogModuleManager: Shutting down and abandoning module Core (216)
+[2021.03.04-21.29.46:580][875]LogModuleManager: Shutting down and abandoning module MovieSceneTools (214)
+[2021.03.04-21.29.46:580][875]LogModuleManager: Shutting down and abandoning module CurveEditor (213)
+[2021.03.04-21.29.46:580][875]LogModuleManager: Shutting down and abandoning module Sequencer (211)
+[2021.03.04-21.29.46:580][875]LogModuleManager: Shutting down and abandoning module EditorStyle (210)
+[2021.03.04-21.29.46:581][875]LogModuleManager: Shutting down and abandoning module KismetCompiler (206)
+[2021.03.04-21.29.46:581][875]LogModuleManager: Shutting down and abandoning module MeshBuilder (204)
+[2021.03.04-21.29.46:581][875]LogModuleManager: Shutting down and abandoning module MeshUtilities (202)
+[2021.03.04-21.29.46:581][875]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (201)
+[2021.03.04-21.29.46:581][875]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (200)
+[2021.03.04-21.29.46:581][875]LogModuleManager: Shutting down and abandoning module MeshBoneReduction (199)
+[2021.03.04-21.29.46:581][875]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (197)
+[2021.03.04-21.29.46:581][875]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (195)
+[2021.03.04-21.29.46:581][875]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (193)
+[2021.03.04-21.29.46:581][875]LogModuleManager: Shutting down and abandoning module MaterialBaking (189)
+[2021.03.04-21.29.46:581][875]LogModuleManager: Shutting down and abandoning module NullInstallBundleManager (184)
+[2021.03.04-21.29.46:581][875]LogModuleManager: Shutting down and abandoning module DerivedDataCache (182)
+[2021.03.04-21.29.46:581][875]LogModuleManager: Shutting down and abandoning module XGEController (180)
+[2021.03.04-21.29.46:581][875]LogXGEController: Cleaning working directory: C:/Users/nevar/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2021.03.04-21.29.46:582][875]LogModuleManager: Shutting down and abandoning module TargetPlatform (178)
+[2021.03.04-21.29.46:582][875]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (177)
+[2021.03.04-21.29.46:582][875]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (175)
+[2021.03.04-21.29.46:582][875]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (173)
+[2021.03.04-21.29.46:582][875]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (171)
+[2021.03.04-21.29.46:582][875]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (169)
+[2021.03.04-21.29.46:582][875]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (167)
+[2021.03.04-21.29.46:582][875]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (165)
+[2021.03.04-21.29.46:582][875]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (163)
+[2021.03.04-21.29.46:582][875]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (161)
+[2021.03.04-21.29.46:582][875]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (159)
+[2021.03.04-21.29.46:582][875]LogModuleManager: Shutting down and abandoning module ImageWrapper (158)
+[2021.03.04-21.29.46:582][875]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (155)
+[2021.03.04-21.29.46:582][875]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (153)
+[2021.03.04-21.29.46:582][875]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (151)
+[2021.03.04-21.29.46:582][875]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (149)
+[2021.03.04-21.29.46:582][875]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (147)
+[2021.03.04-21.29.46:582][875]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (145)
+[2021.03.04-21.29.46:582][875]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (143)
+[2021.03.04-21.29.46:582][875]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (141)
+[2021.03.04-21.29.46:582][875]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (139)
+[2021.03.04-21.29.46:583][875]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (137)
+[2021.03.04-21.29.46:583][875]LogModuleManager: Shutting down and abandoning module LinuxAArch64ServerTargetPlatform (135)
+[2021.03.04-21.29.46:583][875]LogModuleManager: Shutting down and abandoning module LinuxAArch64ClientTargetPlatform (133)
+[2021.03.04-21.29.46:583][875]LogModuleManager: Shutting down and abandoning module LinuxAArch64NoEditorTargetPlatform (131)
+[2021.03.04-21.29.46:583][875]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (129)
+[2021.03.04-21.29.46:583][875]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (127)
+[2021.03.04-21.29.46:583][875]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (125)
+[2021.03.04-21.29.46:583][875]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (123)
+[2021.03.04-21.29.46:583][875]LogModuleManager: Shutting down and abandoning module Messaging (121)
+[2021.03.04-21.29.46:583][875]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (119)
+[2021.03.04-21.29.46:584][875]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (117)
+[2021.03.04-21.29.46:587][875]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (115)
+[2021.03.04-21.29.46:587][875]LogModuleManager: Shutting down and abandoning module InputCore (112)
+[2021.03.04-21.29.46:587][875]LogModuleManager: Shutting down and abandoning module Settings (110)
+[2021.03.04-21.29.46:587][875]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (108)
+[2021.03.04-21.29.46:587][875]LogModuleManager: Shutting down and abandoning module PhysXCooking (106)
+[2021.03.04-21.29.46:587][875]LogModuleManager: Shutting down and abandoning module ChaosSolvers (104)
+[2021.03.04-21.29.46:587][875]LogModuleManager: Shutting down and abandoning module FieldSystemEngine (103)
+[2021.03.04-21.29.46:587][875]LogModuleManager: Shutting down and abandoning module Chaos (100)
+[2021.03.04-21.29.46:587][875]LogModuleManager: Shutting down and abandoning module WindowsPlatformFeatures (98)
+[2021.03.04-21.29.46:588][875]LogModuleManager: Shutting down and abandoning module GameplayMediaEncoder (97)
+[2021.03.04-21.29.46:588][875]LogModuleManager: Shutting down and abandoning module AVEncoder (96)
+[2021.03.04-21.29.46:588][875]LogModuleManager: Shutting down and abandoning module SteamVRInputDevice (92)
+[2021.03.04-21.29.46:588][875]LogModuleManager: Shutting down and abandoning module SteamVRInput (90)
+[2021.03.04-21.29.46:588][875]LogModuleManager: Shutting down and abandoning module SteamVR (88)
+[2021.03.04-21.29.46:588][875]LogHMD: Freeing OpenVRDLLHandle.
+[2021.03.04-21.29.46:588][875]LogModuleManager: Shutting down and abandoning module OculusHMD (86)
+[2021.03.04-21.29.46:588][875]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (84)
+[2021.03.04-21.29.46:588][875]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (82)
+[2021.03.04-21.29.46:588][875]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (80)
+[2021.03.04-21.29.46:588][875]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (76)
+[2021.03.04-21.29.46:589][875]LogModuleManager: Shutting down and abandoning module XMPP (71)
+[2021.03.04-21.29.46:590][875]LogModuleManager: Shutting down and abandoning module WebSockets (70)
+[2021.03.04-21.29.46:626][875]LogModuleManager: Shutting down and abandoning module HTTP (67)
+[2021.03.04-21.29.46:627][875]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2021.03.04-21.29.46:627][875]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B4B943530-4BD5-3CCE-42E7-879330BC3AA5%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.25.4-14469661%2B%2B%2BUE4%2BRelease-4.25&UserID=ea924da145a80437627296a27518a9af%7C7ed5c8b789fc405d86a462fa295610ec%7C82afb10e-05d1-4f09-86cd-63ec54662ede&AppEnvironment=datacollector-source&UploadType=eteventstream] refs=[1] status=Processing
+[2021.03.04-21.29.46:648][875]LogModuleManager: Shutting down and abandoning module SSL (66)
+[2021.03.04-21.29.46:649][875]LogModuleManager: Shutting down and abandoning module WmfMedia (62)
+[2021.03.04-21.29.46:651][875]LogModuleManager: Shutting down and abandoning module Media (61)
+[2021.03.04-21.29.46:653][875]LogModuleManager: Shutting down and abandoning module MagicLeap (58)
+[2021.03.04-21.29.46:653][875]LogModuleManager: Shutting down and abandoning module NiagaraVertexFactories (56)
+[2021.03.04-21.29.46:653][875]LogModuleManager: Shutting down and abandoning module NiagaraShader (54)
+[2021.03.04-21.29.46:653][875]LogModuleManager: Shutting down and abandoning module VariantManagerContent (52)
+[2021.03.04-21.29.46:653][875]LogModuleManager: Shutting down and abandoning module DatasmithContent (50)
+[2021.03.04-21.29.46:681][875]LogModuleManager: Shutting down and abandoning module AISupportModule (48)
+[2021.03.04-21.29.46:681][875]LogModuleManager: Shutting down and abandoning module DesktopPlatform (46)
+[2021.03.04-21.29.46:681][875]LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (44)
+[2021.03.04-21.29.46:681][875]LogModuleManager: Shutting down and abandoning module PlatformCryptoTypes (42)
+[2021.03.04-21.29.46:681][875]LogModuleManager: Shutting down and abandoning module PlatformCrypto (40)
+[2021.03.04-21.29.46:681][875]LogModuleManager: Shutting down and abandoning module AnimationModifiers (38)
+[2021.03.04-21.29.46:681][875]LogModuleManager: Shutting down and abandoning module PropertyEditor (37)
+[2021.03.04-21.29.46:681][875]LogModuleManager: Shutting down and abandoning module AudioEditor (34)
+[2021.03.04-21.29.46:681][875]LogModuleManager: Shutting down and abandoning module TextureCompressor (32)
+[2021.03.04-21.29.46:682][875]LogModuleManager: Shutting down and abandoning module RenderCore (30)
+[2021.03.04-21.29.46:682][875]LogModuleManager: Shutting down and abandoning module Landscape (28)
+[2021.03.04-21.29.46:682][875]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (26)
+[2021.03.04-21.29.46:682][875]LogModuleManager: Shutting down and abandoning module OpenGLDrv (24)
+[2021.03.04-21.29.46:682][875]LogModuleManager: Shutting down and abandoning module D3D11RHI (22)
+[2021.03.04-21.29.46:682][875]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2021.03.04-21.29.46:682][875]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2021.03.04-21.29.46:682][875]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2021.03.04-21.29.46:682][875]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2021.03.04-21.29.46:682][875]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2021.03.04-21.29.46:682][875]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2021.03.04-21.29.46:682][875]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2021.03.04-21.29.46:682][875]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2021.03.04-21.29.46:682][875]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2021.03.04-21.29.46:682][875]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2021.03.04-21.29.47:106][875]LogContentStreaming: Display: There are 1 unreleased StreamingManagers
+[2021.03.04-21.29.47:110][875]LogD3D11RHI: Shutdown
+[2021.03.04-21.29.47:110][875]LogD3D11RHI: CleanupD3DDevice
+[2021.03.04-21.29.47:126][875]LogExit: Exiting.
+[2021.03.04-21.29.47:209][875]Log file closed, 03/04/21 22:29:47
