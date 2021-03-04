@@ -1,0 +1,1232 @@
+﻿Log file open, 03/01/21 13:27:21
+LogInit: Display: Running engine for game: Bloodcolony_RPG
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 1.842387
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin EditorScriptingUtilities
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin MovieRenderPipeline
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.25-CL-14469661
+LogInit: Engine Version: 4.25.4-14469661+++UE4+Release-4.25
+LogInit: Compatible Engine Version: 4.25.0-13144385+++UE4+Release-4.25
+LogInit: Net CL: 13144385
+LogInit: OS: Windows 10 (Release 1909) (), CPU: AMD Ryzen 5 2600 Six-Core Processor            , GPU: Microsoft Remote Display Adapter
+LogInit: Compiled (64-bit): Oct 11 2020 08:10:49
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.25
+LogInit: Command Line: 
+LogInit: Base Directory: F:/epic/UE_4.25/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 26
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 38
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 4
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 43
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 12
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 7
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 31
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 37
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [H:/epic/projects/Bloodcolony_RPG/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2021.03.01-12.27.24:868][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2021.03.01-12.27.24:868][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2021.03.01-12.27.24:869][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [H:/epic/projects/Bloodcolony_RPG/Saved/Config/Windows/Engine.ini]
+[2021.03.01-12.27.24:869][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2021.03.01-12.27.24:869][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [H:/epic/projects/Bloodcolony_RPG/Saved/Config/Windows/Engine.ini]
+[2021.03.01-12.27.24:869][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [H:/epic/projects/Bloodcolony_RPG/Saved/Config/Windows/Engine.ini]
+[2021.03.01-12.27.24:869][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2021.03.01-12.27.24:869][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2021.03.01-12.27.24:869][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2021.03.01-12.27.24:869][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2021.03.01-12.27.24:869][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2021.03.01-12.27.24:869][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2021.03.01-12.27.24:869][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2021.03.01-12.27.24:869][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2021.03.01-12.27.24:869][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2021.03.01-12.27.24:869][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2021.03.01-12.27.24:869][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2021.03.01-12.27.24:869][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2021.03.01-12.27.24:869][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2021.03.01-12.27.24:869][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2021.03.01-12.27.24:869][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [H:/epic/projects/Bloodcolony_RPG/Saved/Config/Windows/Engine.ini]
+[2021.03.01-12.27.24:869][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2021.03.01-12.27.24:869][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2021.03.01-12.27.24:869][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2021.03.01-12.27.24:869][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2021.03.01-12.27.24:869][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2021.03.01-12.27.24:869][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2021.03.01-12.27.24:869][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2021.03.01-12.27.24:869][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2021.03.01-12.27.24:869][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2021.03.01-12.27.24:869][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2021.03.01-12.27.24:869][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2021.03.01-12.27.24:869][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2021.03.01-12.27.24:869][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2021.03.01-12.27.24:869][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [H:/epic/projects/Bloodcolony_RPG/Saved/Config/Windows/Engine.ini]
+[2021.03.01-12.27.24:869][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [H:/epic/projects/Bloodcolony_RPG/Saved/Config/Windows/Engine.ini]
+[2021.03.01-12.27.24:916][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [H:/epic/projects/Bloodcolony_RPG/Saved/Config/Windows/Scalability.ini]
+[2021.03.01-12.27.24:916][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.03.01-12.27.24:916][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.03.01-12.27.24:916][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [H:/epic/projects/Bloodcolony_RPG/Saved/Config/Windows/Scalability.ini]
+[2021.03.01-12.27.24:916][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.03.01-12.27.24:916][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [H:/epic/projects/Bloodcolony_RPG/Saved/Config/Windows/Scalability.ini]
+[2021.03.01-12.27.24:916][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.03.01-12.27.24:916][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.03.01-12.27.24:916][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.03.01-12.27.24:916][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.03.01-12.27.24:916][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.03.01-12.27.24:916][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.03.01-12.27.24:916][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.03.01-12.27.24:916][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.03.01-12.27.24:916][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.03.01-12.27.24:916][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.03.01-12.27.24:916][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.03.01-12.27.24:916][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.03.01-12.27.24:916][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.03.01-12.27.24:916][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.03.01-12.27.24:916][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.03.01-12.27.24:916][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.03.01-12.27.24:916][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.03.01-12.27.24:916][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.03.01-12.27.24:916][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [H:/epic/projects/Bloodcolony_RPG/Saved/Config/Windows/Scalability.ini]
+[2021.03.01-12.27.24:916][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.03.01-12.27.24:916][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.03.01-12.27.24:916][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.03.01-12.27.24:916][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.03.01-12.27.24:916][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.03.01-12.27.24:916][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.03.01-12.27.24:916][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.03.01-12.27.24:916][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.03.01-12.27.24:916][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.03.01-12.27.24:916][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.03.01-12.27.24:916][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.03.01-12.27.24:916][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.03.01-12.27.24:916][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.03.01-12.27.24:916][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.03.01-12.27.24:916][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.03.01-12.27.24:917][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.03.01-12.27.24:917][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.03.01-12.27.24:917][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.03.01-12.27.24:917][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.03.01-12.27.24:917][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.03.01-12.27.24:917][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.03.01-12.27.24:917][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.03.01-12.27.24:917][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.03.01-12.27.24:917][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.03.01-12.27.24:917][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.03.01-12.27.24:917][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.03.01-12.27.24:917][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.03.01-12.27.24:917][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.03.01-12.27.24:917][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.03.01-12.27.24:917][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.03.01-12.27.24:917][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [H:/epic/projects/Bloodcolony_RPG/Saved/Config/Windows/Scalability.ini]
+[2021.03.01-12.27.24:917][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.03.01-12.27.24:917][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.03.01-12.27.24:917][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.03.01-12.27.24:917][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.03.01-12.27.24:917][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.03.01-12.27.24:917][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.03.01-12.27.24:917][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.03.01-12.27.24:917][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.03.01-12.27.24:917][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.03.01-12.27.24:917][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [H:/epic/projects/Bloodcolony_RPG/Saved/Config/Windows/Scalability.ini]
+[2021.03.01-12.27.24:917][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.03.01-12.27.24:917][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.03.01-12.27.24:917][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.03.01-12.27.24:917][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.03.01-12.27.24:917][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.03.01-12.27.24:917][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.03.01-12.27.24:917][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.03.01-12.27.24:917][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.03.01-12.27.24:917][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.03.01-12.27.24:917][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.03.01-12.27.24:917][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.03.01-12.27.24:917][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.03.01-12.27.24:917][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.03.01-12.27.24:917][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.03.01-12.27.24:917][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.03.01-12.27.24:917][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.03.01-12.27.24:917][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2021.03.01-12.27.24:917][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.03.01-12.27.24:917][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.03.01-12.27.24:917][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.03.01-12.27.24:917][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2021.03.01-12.27.24:917][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.03.01-12.27.24:917][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2021.03.01-12.27.24:917][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.03.01-12.27.24:917][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.03.01-12.27.24:917][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.03.01-12.27.24:917][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [H:/epic/projects/Bloodcolony_RPG/Saved/Config/Windows/Scalability.ini]
+[2021.03.01-12.27.24:917][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.03.01-12.27.24:917][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.03.01-12.27.24:917][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [H:/epic/projects/Bloodcolony_RPG/Saved/Config/Windows/Scalability.ini]
+[2021.03.01-12.27.24:917][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2021.03.01-12.27.24:917][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2021.03.01-12.27.24:917][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2021.03.01-12.27.24:917][  0]LogConfig: Setting CVar [[r.HairStrands.DeepShadow.SuperSampling:0]]
+[2021.03.01-12.27.24:917][  0]LogConfig: Setting CVar [[r.HairStrands.VisibilityPPLL:0]]
+[2021.03.01-12.27.24:917][  0]LogConfig: Setting CVar [[r.HairStrands.RasterizationScale:0.5]]
+[2021.03.01-12.27.24:917][  0]LogConfig: Setting CVar [[r.HairStrands.VelocityRasterizationScale:1]]
+[2021.03.01-12.27.24:927][  0]LogInit: Selected Device Profile: [Windows]
+[2021.03.01-12.27.24:928][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2021.03.01-12.27.24:934][  0]LogHAL: Display: Platform has ~ 16 GB [17125888000 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2021.03.01-12.27.24:934][  0]LogInit: Going up to parent DeviceProfile []
+[2021.03.01-12.27.24:940][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [H:/epic/projects/Bloodcolony_RPG/Saved/Config/Windows/Scalability.ini]
+[2021.03.01-12.27.24:940][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.03.01-12.27.24:940][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.03.01-12.27.24:940][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [H:/epic/projects/Bloodcolony_RPG/Saved/Config/Windows/Scalability.ini]
+[2021.03.01-12.27.24:940][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.03.01-12.27.24:940][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [H:/epic/projects/Bloodcolony_RPG/Saved/Config/Windows/Scalability.ini]
+[2021.03.01-12.27.24:940][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.03.01-12.27.24:940][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.03.01-12.27.24:940][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.03.01-12.27.24:940][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.03.01-12.27.24:940][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.03.01-12.27.24:940][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.03.01-12.27.24:940][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.03.01-12.27.24:940][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.03.01-12.27.24:940][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.03.01-12.27.24:940][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.03.01-12.27.24:940][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.03.01-12.27.24:940][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.03.01-12.27.24:941][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.03.01-12.27.24:941][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.03.01-12.27.24:941][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.03.01-12.27.24:941][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.03.01-12.27.24:941][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.03.01-12.27.24:941][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.03.01-12.27.24:941][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [H:/epic/projects/Bloodcolony_RPG/Saved/Config/Windows/Scalability.ini]
+[2021.03.01-12.27.24:941][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.03.01-12.27.24:941][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.03.01-12.27.24:941][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.03.01-12.27.24:941][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.03.01-12.27.24:941][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.03.01-12.27.24:941][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.03.01-12.27.24:941][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.03.01-12.27.24:941][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.03.01-12.27.24:941][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.03.01-12.27.24:941][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.03.01-12.27.24:941][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.03.01-12.27.24:941][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.03.01-12.27.24:941][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.03.01-12.27.24:941][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.03.01-12.27.24:941][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.03.01-12.27.24:941][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.03.01-12.27.24:941][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.03.01-12.27.24:941][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.03.01-12.27.24:941][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.03.01-12.27.24:941][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.03.01-12.27.24:941][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.03.01-12.27.24:941][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.03.01-12.27.24:941][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.03.01-12.27.24:941][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.03.01-12.27.24:941][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.03.01-12.27.24:941][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.03.01-12.27.24:941][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.03.01-12.27.24:941][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.03.01-12.27.24:941][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.03.01-12.27.24:941][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.03.01-12.27.24:941][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [H:/epic/projects/Bloodcolony_RPG/Saved/Config/Windows/Scalability.ini]
+[2021.03.01-12.27.24:941][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.03.01-12.27.24:941][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.03.01-12.27.24:941][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.03.01-12.27.24:941][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.03.01-12.27.24:941][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.03.01-12.27.24:941][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.03.01-12.27.24:941][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.03.01-12.27.24:941][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.03.01-12.27.24:941][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.03.01-12.27.24:941][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [H:/epic/projects/Bloodcolony_RPG/Saved/Config/Windows/Scalability.ini]
+[2021.03.01-12.27.24:941][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.03.01-12.27.24:941][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.03.01-12.27.24:941][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.03.01-12.27.24:941][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.03.01-12.27.24:941][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.03.01-12.27.24:941][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.03.01-12.27.24:941][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.03.01-12.27.24:941][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.03.01-12.27.24:941][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.03.01-12.27.24:941][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.03.01-12.27.24:941][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.03.01-12.27.24:941][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.03.01-12.27.24:941][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.03.01-12.27.24:941][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.03.01-12.27.24:941][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.03.01-12.27.24:941][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.03.01-12.27.24:941][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountPerSlice:1]]
+[2021.03.01-12.27.24:941][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.03.01-12.27.24:942][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.03.01-12.27.24:942][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.03.01-12.27.24:942][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:32.0]]
+[2021.03.01-12.27.24:942][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.03.01-12.27.24:942][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:32.0]]
+[2021.03.01-12.27.24:942][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.03.01-12.27.24:942][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.03.01-12.27.24:942][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.03.01-12.27.24:942][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [H:/epic/projects/Bloodcolony_RPG/Saved/Config/Windows/Scalability.ini]
+[2021.03.01-12.27.24:942][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.03.01-12.27.24:942][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.03.01-12.27.24:942][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [H:/epic/projects/Bloodcolony_RPG/Saved/Config/Windows/Scalability.ini]
+[2021.03.01-12.27.24:942][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.SampleCount:16]]
+[2021.03.01-12.27.24:942][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.JitterIntegration:0]]
+[2021.03.01-12.27.24:942][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:16]]
+[2021.03.01-12.27.24:942][  0]LogConfig: Setting CVar [[r.HairStrands.DeepShadow.SuperSampling:0]]
+[2021.03.01-12.27.24:942][  0]LogConfig: Setting CVar [[r.HairStrands.VisibilityPPLL:0]]
+[2021.03.01-12.27.24:942][  0]LogConfig: Setting CVar [[r.HairStrands.RasterizationScale:0.5]]
+[2021.03.01-12.27.24:942][  0]LogConfig: Setting CVar [[r.HairStrands.VelocityRasterizationScale:1]]
+[2021.03.01-12.27.24:942][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2021.03.01-12.27.24:958][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2021.03.01-12.27.24:958][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2021.03.01-12.27.24:958][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2021.03.01-12.27.24:958][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [H:/epic/projects/Bloodcolony_RPG/Saved/Config/Windows/Engine.ini]
+[2021.03.01-12.27.24:970][  0]LogInit: Computer: LOKI
+[2021.03.01-12.27.24:970][  0]LogInit: User: nevar
+[2021.03.01-12.27.24:970][  0]LogInit: CPU Page size=4096, Cores=6
+[2021.03.01-12.27.24:970][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2021.03.01-12.27.24:970][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2021.03.01-12.27.24:970][  0]LogMemory: Platform Memory Stats for Windows
+[2021.03.01-12.27.24:970][  0]LogMemory: Process Physical Memory: 114.63 MB used, 114.64 MB peak
+[2021.03.01-12.27.24:970][  0]LogMemory: Process Virtual Memory: 96.90 MB used, 96.90 MB peak
+[2021.03.01-12.27.24:970][  0]LogMemory: Physical Memory: 5474.95 MB used,  10857.57 MB free, 16332.52 MB total
+[2021.03.01-12.27.24:970][  0]LogMemory: Virtual Memory: 5164.84 MB used,  134212560.00 MB free, 134217728.00 MB total
+[2021.03.01-12.27.24:999][  0]LogWindows: WindowsPlatformFeatures enabled
+[2021.03.01-12.27.25:862][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2021.03.01-12.27.25:891][  0]LogInit: Using OS detected language (en-US).
+[2021.03.01-12.27.25:891][  0]LogInit: Using OS detected locale (en-US).
+[2021.03.01-12.27.26:056][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2021.03.01-12.27.26:593][  0]LogInit: Setting process to per monitor DPI aware
+[2021.03.01-12.27.27:283][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2021.03.01-12.27.27:283][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2021.03.01-12.27.31:214][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.03.01-12.27.31:214][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2021.03.01-12.27.31:214][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2021.03.01-12.27.31:214][  0]LogD3D11RHI: D3D11 adapters:
+[2021.03.01-12.27.31:304][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1050 Ti' (Feature Level 11_0)
+[2021.03.01-12.27.31:304][  0]LogD3D11RHI:       4018/0/8166 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2021.03.01-12.27.31:307][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2021.03.01-12.27.31:307][  0]LogD3D11RHI:       0/0/8166 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2021.03.01-12.27.31:311][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2021.03.01-12.27.31:311][  0]LogD3D11RHI:       0/0/8166 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2021.03.01-12.27.31:311][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2021.03.01-12.27.31:333][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2021.03.01-12.27.31:333][  0]LogD3D11RHI:     GPU DeviceId: 0x1c82 (for the marketing name, search the web for "GPU Device Id")
+[2021.03.01-12.27.31:333][  0]LogWindows: EnumDisplayDevices:
+[2021.03.01-12.27.31:334][  0]LogWindows:    0. 'Microsoft Remote Display Adapter' (P:1 D:1)
+[2021.03.01-12.27.31:334][  0]LogWindows:    1. 'Microsoft Remote Display Adapter' (P:0 D:0)
+[2021.03.01-12.27.31:334][  0]LogWindows:    2. 'Microsoft Remote Display Adapter' (P:0 D:0)
+[2021.03.01-12.27.31:334][  0]LogWindows:    3. 'Microsoft Remote Display Adapter' (P:0 D:0)
+[2021.03.01-12.27.31:334][  0]LogWindows:    4. 'Microsoft Remote Display Adapter' (P:0 D:0)
+[2021.03.01-12.27.31:334][  0]LogWindows:    5. 'Microsoft Remote Display Adapter' (P:0 D:0)
+[2021.03.01-12.27.31:334][  0]LogWindows:    6. 'Microsoft Remote Display Adapter' (P:0 D:0)
+[2021.03.01-12.27.31:334][  0]LogWindows:    7. 'Microsoft Remote Display Adapter' (P:0 D:0)
+[2021.03.01-12.27.31:334][  0]LogWindows:    8. 'Microsoft Remote Display Adapter' (P:0 D:0)
+[2021.03.01-12.27.31:335][  0]LogWindows:    9. 'Microsoft Remote Display Adapter' (P:0 D:0)
+[2021.03.01-12.27.31:335][  0]LogWindows:    10. 'Microsoft Remote Display Adapter' (P:0 D:0)
+[2021.03.01-12.27.31:335][  0]LogWindows:    11. 'Microsoft Remote Display Adapter' (P:0 D:0)
+[2021.03.01-12.27.31:335][  0]LogWindows:    12. 'Microsoft Remote Display Adapter' (P:0 D:0)
+[2021.03.01-12.27.31:335][  0]LogWindows:    13. 'Microsoft Remote Display Adapter' (P:0 D:0)
+[2021.03.01-12.27.31:335][  0]LogWindows:    14. 'Microsoft Remote Display Adapter' (P:0 D:0)
+[2021.03.01-12.27.31:335][  0]LogWindows:    15. 'Microsoft Remote Display Adapter' (P:0 D:0)
+[2021.03.01-12.27.31:335][  0]LogWindows: DebugString: PrimaryDriverLocationFailed PrimaryDriverLocationFailed PrimaryDriverLocationFailed PrimaryDriverLocationFailed PrimaryDriverLocationFailed PrimaryDriverLocationFailed PrimaryDriverLocationFailed PrimaryDriverLocationFailed PrimaryDriverLocationFailed PrimaryDriverLocationFailed PrimaryDriverLocationFailed PrimaryDriverLocationFailed PrimaryDriverLocationFailed PrimaryDriverLocationFailed PrimaryDriverLocationFailed PrimaryDriverLocationFailed FoundDriverCount:0 
+[2021.03.01-12.27.31:335][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1050 Ti
+[2021.03.01-12.27.31:335][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2021.03.01-12.27.31:335][  0]LogD3D11RHI:      Driver Date: Unknown
+[2021.03.01-12.27.31:335][  0]LogRHI: Texture pool is 2812 MB (70% of 4018 MB)
+[2021.03.01-12.27.31:390][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2021.03.01-12.27.31:391][  0]LogD3D11RHI: Async texture creation enabled
+[2021.03.01-12.27.31:391][  0]LogD3D11RHI: Array index from any shader is supported
+[2021.03.01-12.27.31:712][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2021.03.01-12.27.32:710][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2021.03.01-12.27.32:785][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2021.03.01-12.27.32:785][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2021.03.01-12.27.32:785][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2021.03.01-12.27.32:785][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2021.03.01-12.27.32:785][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2021.03.01-12.27.32:785][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2021.03.01-12.27.32:785][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2021.03.01-12.27.32:785][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2021.03.01-12.27.32:785][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2021.03.01-12.27.32:785][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2021.03.01-12.27.32:903][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2021.03.01-12.27.32:903][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2021.03.01-12.27.32:949][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2021.03.01-12.27.32:986][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2021.03.01-12.27.33:011][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2021.03.01-12.27.33:040][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2021.03.01-12.27.33:074][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2021.03.01-12.27.33:104][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2021.03.01-12.27.33:130][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2021.03.01-12.27.33:191][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2021.03.01-12.27.33:191][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2021.03.01-12.27.33:230][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2021.03.01-12.27.33:230][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2021.03.01-12.27.33:274][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2021.03.01-12.27.33:308][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2021.03.01-12.27.33:350][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2021.03.01-12.27.33:386][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2021.03.01-12.27.33:386][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2021.03.01-12.27.33:596][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2021.03.01-12.27.34:302][  0]LogShaderCompilers: Guid format shader working directory is 14 characters bigger than the processId version (H:/epic/projects/Bloodcolony_RPG/Intermediate/Shaders/WorkingDirectory/6608/).
+[2021.03.01-12.27.34:302][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/nevar/AppData/Local/Temp/UnrealShaderWorkingDir/59C498404F4744F06BF68CA870C9561E/'.
+[2021.03.01-12.27.34:303][  0]LogXGEController: Cleaning working directory: C:/Users/nevar/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2021.03.01-12.27.34:303][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2021.03.01-12.27.34:304][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2021.03.01-12.27.34:304][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2021.03.01-12.27.39:522][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2021.03.01-12.27.39:734][  0]LogDerivedDataCache: Loaded boot cache 0.21s 76MB C:/Users/nevar/AppData/Local/UnrealEngine/4.25/DerivedDataCache/Boot.ddc.
+[2021.03.01-12.27.39:734][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/nevar/AppData/Local/UnrealEngine/4.25/DerivedDataCache/Boot.ddc
+[2021.03.01-12.27.39:735][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file H:/epic/projects/Bloodcolony_RPG/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2021.03.01-12.27.39:735][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2021.03.01-12.27.39:735][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file H:/epic/projects/Bloodcolony_RPG/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.03.01-12.27.39:735][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2021.03.01-12.27.39:810][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2021.03.01-12.27.39:810][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.03.01-12.27.39:810][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2021.03.01-12.27.39:814][  0]LogDerivedDataCache: Using Local data cache path C:/Users/nevar/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2021.03.01-12.27.39:814][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2021.03.01-12.27.39:814][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2021.03.01-12.27.39:928][  0]LogSlate: Using FreeType 2.10.0
+[2021.03.01-12.27.40:021][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2021.03.01-12.27.40:651][  0]LogAssetRegistry: FAssetRegistry took 0.0045 seconds to start up
+[2021.03.01-12.27.49:564][  0]LogInit: Selected Device Profile: [Windows]
+[2021.03.01-12.27.50:975][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2021.03.01-12.27.50:975][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2021.03.01-12.27.50:975][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2021.03.01-12.27.50:975][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2021.03.01-12.27.50:976][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2021.03.01-12.27.51:419][  0]LogNetVersion: Bloodcolony_RPG 1.0.0, NetCL: 13144385, EngineNetVer: 14, GameNetVer: 0 (Checksum: 3371620766)
+[2021.03.01-12.27.58:536][  0]LogAISub: UAISubsystem::UAISubsystem AISubsystem (00000245EB516980), frame # 0
+[2021.03.01-12.27.58:536][  0]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (00000245EB3FC680), frame # 0
+[2021.03.01-12.27.58:547][  0]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (00000245EB429C00), frame # 0
+[2021.03.01-12.27.58:963][  0]LogPackageLocalizationCache: Processed 19 localized package path(s) for 1 prioritized culture(s) in 0.194801 seconds
+[2021.03.01-12.27.58:978][  0]LogUObjectArray: 15917 objects as part of root set at end of initial load.
+[2021.03.01-12.27.58:978][  0]LogUObjectAllocator: 3965568 out of 0 bytes used by permanent object pool.
+[2021.03.01-12.27.58:978][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2021.03.01-12.28.04:108][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2021.03.01-12.28.04:162][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2021.03.01-12.28.05:216][  0]SourceControl: Source control is disabled
+[2021.03.01-12.28.05:221][  0]SourceControl: Source control is disabled
+[2021.03.01-12.28.05:318][  0]SourceControl: Source control is disabled
+[2021.03.01-12.28.05:362][  0]SourceControl: Source control is disabled
+[2021.03.01-12.28.05:435][  0]SourceControl: Source control is disabled
+[2021.03.01-12.28.08:341][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2021.03.01-12.28.08:532][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.03.01-12.28.08:532][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.03.01-12.28.08:957][  0]LogOcInput: OculusInput pre-init called
+[2021.03.01-12.28.09:045][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2021.03.01-12.28.09:045][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2021.03.01-12.28.10:146][  0]LogEngine: Initializing Engine...
+[2021.03.01-12.28.10:159][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.03.01-12.28.10:160][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2021.03.01-12.28.10:182][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.005 s
+[2021.03.01-12.28.10:739][  0]LogInit: Initializing FReadOnlyCVARCache
+[2021.03.01-12.28.11:214][  0]LogAIModule: Creating AISystem for world Untitled
+[2021.03.01-12.28.11:214][  0]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (00000245EE1FFC00), frame # 0
+[2021.03.01-12.28.11:214][  0]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (00000245EE22B380), frame # 0
+[2021.03.01-12.28.11:326][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.03.01-12.28.11:326][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.03.01-12.28.11:326][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.03.01-12.28.11:326][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.03.01-12.28.11:326][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.03.01-12.28.11:326][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.03.01-12.28.11:326][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.03.01-12.28.11:326][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.03.01-12.28.11:341][  0]LogAudio: Display: Using built-in audio occlusion.
+[2021.03.01-12.28.11:341][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2021.03.01-12.28.11:459][  0]LogAudioMixer: Display: 0: FrontLeft
+[2021.03.01-12.28.11:460][  0]LogAudioMixer: Display: 1: FrontRight
+[2021.03.01-12.28.11:954][  0]LogAudioMixer: Display: Using Audio Device Remote Audio
+[2021.03.01-12.28.12:010][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.03.01-12.28.12:065][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.03.01-12.28.12:073][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.03.01-12.28.12:086][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.03.01-12.28.12:087][  0]LogInit: FAudioDevice initialized.
+[2021.03.01-12.28.12:088][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2021.03.01-12.28.12:171][  0]LogDerivedDataCache: Saved boot cache 0.08s 76MB C:/Users/nevar/AppData/Local/UnrealEngine/4.25/DerivedDataCache/Boot.ddc.
+[2021.03.01-12.28.12:176][  0]LogInit: Texture streaming: Enabled
+[2021.03.01-12.28.12:413][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2021.03.01-12.28.12:413][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2021.03.01-12.28.12:435][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2021.03.01-12.28.12:638][  0]LogInit: Transaction tracking system initialized
+[2021.03.01-12.28.12:946][  0]BlueprintLog: New page: Editor Load
+[2021.03.01-12.28.14:094][  0]LocalizationService: Localization service is disabled
+[2021.03.01-12.28.18:066][  0]LogFileCache: Scanning file cache for directory 'H:/epic/projects/Bloodcolony_RPG/Content/' took 0.04s
+[2021.03.01-12.28.18:066][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2021.03.01-12.28.18:067][  0]LogCook: Display: Mobile HDR setting 1
+[2021.03.01-12.28.23:975][  0]SourceControl: Source control is disabled
+[2021.03.01-12.28.23:982][  0]LogUnrealEdMisc: Loading editor; pre map load, took 80.461
+[2021.03.01-12.28.23:991][  0]Cmd: MAP LOAD FILE="H:/epic/projects/Bloodcolony_RPG/Content/InventoryDemo/ThirdPersonStuff/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.03.01-12.28.24:011][  0]LightingResults: New page: Lighting Build
+[2021.03.01-12.28.24:095][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2021.03.01-12.28.24:112][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.01-12.28.24:130][  0]MapCheck: New page: Map Check
+[2021.03.01-12.28.24:130][  0]LightingResults: New page: Lighting Build
+[2021.03.01-12.28.24:324][  0]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (00000245EE1FFC00), frame # 0
+[2021.03.01-12.28.24:324][  0]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (00000245EE22B380), frame # 0
+[2021.03.01-12.28.24:326][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2021.03.01-12.28.28:020][  0]LogProperty: Error: UStructProperty::Serialize Loading: Property 'StructProperty /Game/OpenRPG_Inventory/Widgets/WB_ItemToolTip.WB_ItemToolTip_C:Update.ItemData'. Unknown structure.
+[2021.03.01-12.28.28:020][  0]LogProperty: Error: UStructProperty::Serialize Loading: Property 'StructProperty /Game/OpenRPG_Inventory/Widgets/WB_ItemToolTip.WB_ItemToolTip_C:ExecuteUbergraph_WB_ItemToolTip.K2Node_CustomEvent_ItemData'. Unknown structure.
+[2021.03.01-12.28.28:020][  0]LogProperty: Error: UStructProperty::Serialize Loading: Property 'StructProperty /Game/OpenRPG_Inventory/Widgets/WB_ItemToolTip.WB_ItemToolTip_C:ItemData'. Unknown structure.
+[2021.03.01-12.28.28:020][  0]LogClass: Warning: Property ItemData of ItemData has a struct type mismatch (tag STRUCT_REINST_s_ItemData_0 != prop FallbackStruct) in package:  H:/epic/projects/Bloodcolony_RPG/Content/OpenRPG_Inventory/Widgets/WB_ItemToolTip.uasset. If that struct got renamed, add an entry to ActiveStructRedirects.
+[2021.03.01-12.28.28:816][  0]LogClass: Warning: Property ItemData of ItemData has a struct type mismatch (tag FallbackStruct != prop s_ItemData) in package:  FObjectReader. If that struct got renamed, add an entry to ActiveStructRedirects.
+[2021.03.01-12.28.31:524][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2021.03.01-12.28.31:524][  0]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (00000245E4F60A00), frame # 0
+[2021.03.01-12.28.31:524][  0]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (00000245E4FC5E40), frame # 0
+[2021.03.01-12.28.32:238][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.03.01-12.28.32:279][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2021.03.01-12.28.32:280][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.03.01-12.28.32:280][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.323ms to complete.
+[2021.03.01-12.28.32:280][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 8.289
+[2021.03.01-12.28.32:885][  0]LogUnrealEdMisc: Total Editor Startup Time, took 89.364
+[2021.03.01-12.28.33:233][  0]LogCollectionManager: Loaded 0 collections in 0.001885 seconds
+[2021.03.01-12.28.33:347][  0]LogFileCache: Scanning file cache for directory 'H:/epic/projects/Bloodcolony_RPG/Saved/Collections/' took 0.00s
+[2021.03.01-12.28.33:347][  0]LogFileCache: Scanning file cache for directory 'H:/epic/projects/Bloodcolony_RPG/Content/Developers/nevar/Collections/' took 0.00s
+[2021.03.01-12.28.33:347][  0]LogFileCache: Scanning file cache for directory 'H:/epic/projects/Bloodcolony_RPG/Content/Collections/' took 0.00s
+[2021.03.01-12.28.33:347][  0]LogContentBrowser: Native class hierarchy populated in 0.0114 seconds. Added 3427 classes and 821 folders.
+[2021.03.01-12.28.33:403][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2021.03.01-12.28.34:534][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2021.03.01-12.28.34:698][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.01-12.28.34:709][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.01-12.28.34:719][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.01-12.28.34:727][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.01-12.28.34:747][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 2 classes and 0 folders.
+[2021.03.01-12.28.35:392][  0]LogSlate: Took 0.023982 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2021.03.01-12.28.35:418][  0]LogSlate: Took 0.018113 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2021.03.01-12.28.35:469][  0]LogSlate: Took 0.029026 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2021.03.01-12.28.35:804][  0]LogRenderer: Reallocating scene render targets to support 1184x932 Format 10 NumSamples 1 (Frame:1).
+[2021.03.01-12.28.36:207][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2021.03.01-12.28.36:210][  0]LogLoad: (Engine Initialization) Total time: 92.69 seconds
+[2021.03.01-12.28.36:210][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2021.03.01-12.28.36:358][  0]LogAssetRegistry: Asset discovery search completed in 55.7090 seconds
+[2021.03.01-12.28.36:362][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000003 seconds (updated 0 objects)
+[2021.03.01-12.28.36:362][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2021.03.01-12.28.36:475][  0]LogSlate: Took 0.018893 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.03.01-12.36.16:361][512]LogTemp: Repeating last play command: Selected Viewport
+[2021.03.01-12.36.16:382][512]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.03.01-12.36.16:402][512]PIE: New page: PIE session: ThirdPersonExampleMap (Mar 1, 2021, 2:36:16 PM)
+[2021.03.01-12.36.16:417][512]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2021.03.01-12.36.16:426][512]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2021.03.01-12.36.16:541][512]LogPlayLevel: Creating play world package: /Game/InventoryDemo/ThirdPersonStuff/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.03.01-12.36.16:579][512]LogPlayLevel: PIE: StaticDuplicateObject took: (0.038061s)
+[2021.03.01-12.36.16:582][512]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2021.03.01-12.36.16:583][512]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (00000245A7A8D600), frame # 1512
+[2021.03.01-12.36.16:583][512]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (00000245DEE32340), frame # 1512
+[2021.03.01-12.36.16:583][512]LogPlayLevel: PIE: World Init took: (0.003424s)
+[2021.03.01-12.36.16:583][512]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/InventoryDemo/ThirdPersonStuff/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/InventoryDemo/ThirdPersonStuff/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.042089s)
+[2021.03.01-12.36.16:595][512]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2021.03.01-12.36.16:645][512]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.03.01-12.36.16:645][512]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.03.01-12.36.16:645][512]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.03.01-12.36.16:646][512]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.03.01-12.36.16:646][512]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.03.01-12.36.16:646][512]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.03.01-12.36.16:646][512]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.03.01-12.36.16:646][512]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.03.01-12.36.16:646][512]LogAudio: Display: Using built-in audio occlusion.
+[2021.03.01-12.36.16:646][512]LogAudioMixer: Display: Initializing audio mixer.
+[2021.03.01-12.36.16:647][512]LogAudioMixer: Display: 0: FrontLeft
+[2021.03.01-12.36.16:647][512]LogAudioMixer: Display: 1: FrontRight
+[2021.03.01-12.36.16:675][512]LogAudioMixer: Display: Using Audio Device Remote Audio
+[2021.03.01-12.36.16:675][512]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.03.01-12.36.16:675][512]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.03.01-12.36.16:675][512]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.03.01-12.36.16:676][512]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.03.01-12.36.16:687][512]LogInit: FAudioDevice initialized.
+[2021.03.01-12.36.16:693][512]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.03.01-12.36.16:722][512]LogWorld: Bringing World /Game/InventoryDemo/ThirdPersonStuff/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2021.03.01-13.36.16
+[2021.03.01-12.36.16:753][512]LogWorld: Bringing up level for play took: 0.035246
+[2021.03.01-12.36.16:754][512]LogOnline: OSS: Creating online subsystem instance for: :Context_1
+[2021.03.01-12.36.16:795][512]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0005 seconds. Added 20 classes and 0 folders.
+[2021.03.01-12.36.16:811][512]LogBlueprintUserMessages: [BPC_Storage] Container: Loading failed, no data found with save name Storage
+[2021.03.01-12.36.16:812][512]LogBlueprintUserMessages: [BPC_Storage] Trying to get main container widget...
+[2021.03.01-12.36.16:834][512]LogBlueprintUserMessages: [BPC_Storage] Container: Loading failed, no data found with save name Storage
+[2021.03.01-12.36.16:834][512]LogBlueprintUserMessages: [BPC_Storage] Trying to get main container widget...
+[2021.03.01-12.36.16:840][512]LogBlueprintUserMessages: [BPC_Shop] Trying to get main container widget...
+[2021.03.01-12.36.16:913][512]PIE: Server logged in
+[2021.03.01-12.36.16:923][512]PIE: Play in editor total start time 0.542 seconds.
+[2021.03.01-12.36.25:699][521]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'NearbyItems' of length 0 in '/Game/OpenRPG_Inventory/Blueprints/Components/BPC_PlayerInventory.BPC_PlayerInventory_C'!
+[2021.03.01-12.36.26:704][641]LogBlueprintUserMessages: [BPC_Storage] Container: Loading failed, no data found with save name Storage
+[2021.03.01-12.36.35:037][627]LogBlueprintUserMessages: [BPC_Storage] Container: Loading failed, no data found with save name Storage
+[2021.03.01-12.36.39:185][120]LogBlueprintUserMessages: [BPC_Storage] Container: Loading failed, no data found with save name Storage
+[2021.03.01-12.36.42:701][536]LogBlueprintUserMessages: [BPC_Storage] Container: Loading failed, no data found with save name Storage
+[2021.03.01-12.37.02:223][841]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2021.03.01-12.39.32:067][698]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2021.03.01-12.39.32:525][698]LogSavePackage: Moving 'H:/epic/projects/Bloodcolony_RPG/Saved/ThirdPersonExampleMap00AED76641F3CAE650962381C5690D8E.tmp' to 'H:/epic/projects/Bloodcolony_RPG/Content/InventoryDemo/ThirdPersonStuff/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2021.03.01-12.39.32:636][698]LogSavePackage: Moving 'H:/epic/projects/Bloodcolony_RPG/Saved/ThirdPersonExampleMap_BuiltData6C25FE22483F97AEC311DB97E97799DF.tmp' to 'H:/epic/projects/Bloodcolony_RPG/Content/InventoryDemo/ThirdPersonStuff/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2021.03.01-12.39.32:646][698]AssetCheck: New page: Asset Save: multiple assets
+[2021.03.01-12.39.32:646][698]LogContentValidation: Display: Validating World /Game/InventoryDemo/ThirdPersonStuff/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2021.03.01-12.39.32:646][698]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/InventoryDemo/ThirdPersonStuff/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2021.03.01-12.39.33:536][777]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.01-12.39.33:536][777]LogWorld: BeginTearingDown for /Game/InventoryDemo/ThirdPersonStuff/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.03.01-12.39.33:537][777]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.03.01-12.39.33:538][777]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.01-12.39.33:543][777]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.03.01-12.39.33:547][777]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.01-12.39.33:594][777]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.01-12.39.33:596][777]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (00000245DEE32340), frame # 24777
+[2021.03.01-12.39.33:596][777]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (00000245A7A8D600), frame # 24777
+[2021.03.01-12.39.33:607][777]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2021.03.01-12.39.33:643][778]LogPlayLevel: Display: Destroying online subsystem :Context_1
+[2021.03.01-12.39.34:790][905]LogTemp: Repeating last play command: Selected Viewport
+[2021.03.01-12.39.34:810][905]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.03.01-12.39.34:810][905]PIE: New page: PIE session: ThirdPersonExampleMap (Mar 1, 2021, 2:39:34 PM)
+[2021.03.01-12.39.34:810][905]LogPlayLevel: Creating play world package: /Game/InventoryDemo/ThirdPersonStuff/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.03.01-12.39.34:834][905]LogPlayLevel: PIE: StaticDuplicateObject took: (0.023624s)
+[2021.03.01-12.39.34:835][905]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2021.03.01-12.39.34:835][905]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (00000245A733A200), frame # 24905
+[2021.03.01-12.39.34:835][905]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (00000245E4EDD800), frame # 24905
+[2021.03.01-12.39.34:836][905]LogPlayLevel: PIE: World Init took: (0.001825s)
+[2021.03.01-12.39.34:836][905]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/InventoryDemo/ThirdPersonStuff/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/InventoryDemo/ThirdPersonStuff/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.025624s)
+[2021.03.01-12.39.34:846][905]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2021.03.01-12.39.34:848][905]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.03.01-12.39.34:848][905]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.03.01-12.39.34:848][905]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.03.01-12.39.34:848][905]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.03.01-12.39.34:848][905]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.03.01-12.39.34:848][905]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.03.01-12.39.34:848][905]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.03.01-12.39.34:848][905]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.03.01-12.39.34:848][905]LogAudio: Display: Using built-in audio occlusion.
+[2021.03.01-12.39.34:848][905]LogAudioMixer: Display: Initializing audio mixer.
+[2021.03.01-12.39.34:849][905]LogAudioMixer: Display: 0: FrontLeft
+[2021.03.01-12.39.34:850][905]LogAudioMixer: Display: 1: FrontRight
+[2021.03.01-12.39.34:877][905]LogAudioMixer: Display: Using Audio Device Remote Audio
+[2021.03.01-12.39.34:877][905]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.03.01-12.39.34:877][905]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.03.01-12.39.34:877][905]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.03.01-12.39.34:878][905]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.03.01-12.39.34:889][905]LogInit: FAudioDevice initialized.
+[2021.03.01-12.39.34:897][905]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.03.01-12.39.34:901][905]LogWorld: Bringing World /Game/InventoryDemo/ThirdPersonStuff/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2021.03.01-13.39.34
+[2021.03.01-12.39.34:901][905]LogWorld: Bringing up level for play took: 0.003592
+[2021.03.01-12.39.34:902][905]LogOnline: OSS: Creating online subsystem instance for: :Context_2
+[2021.03.01-12.39.34:906][905]LogBlueprintUserMessages: [BPC_Storage] Container: Loading failed, no data found with save name Storage
+[2021.03.01-12.39.34:906][905]LogBlueprintUserMessages: [BPC_Storage] Trying to get main container widget...
+[2021.03.01-12.39.34:906][905]LogBlueprintUserMessages: [BPC_Storage] Container: Loading failed, no data found with save name Storage
+[2021.03.01-12.39.34:906][905]LogBlueprintUserMessages: [BPC_Storage] Trying to get main container widget...
+[2021.03.01-12.39.34:910][905]LogBlueprintUserMessages: [BPC_Shop] Trying to get main container widget...
+[2021.03.01-12.39.34:931][905]PIE: Server logged in
+[2021.03.01-12.39.34:932][905]PIE: Play in editor total start time 0.123 seconds.
+[2021.03.01-12.39.39:747][466]LogBlueprintUserMessages: [BPC_Storage] Container: Loading failed, no data found with save name Storage
+[2021.03.01-12.39.50:014][668]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2021.03.01-12.39.50:258][668]LogSavePackage: Moving 'H:/epic/projects/Bloodcolony_RPG/Saved/ThirdPersonExampleMap4786532340CF69A0E56F8F943A1CC181.tmp' to 'H:/epic/projects/Bloodcolony_RPG/Content/InventoryDemo/ThirdPersonStuff/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2021.03.01-12.39.50:327][668]LogSavePackage: Moving 'H:/epic/projects/Bloodcolony_RPG/Saved/ThirdPersonExampleMap_BuiltData4C60607D49100849261B91A8276487EA.tmp' to 'H:/epic/projects/Bloodcolony_RPG/Content/InventoryDemo/ThirdPersonStuff/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2021.03.01-12.39.50:335][668]AssetCheck: New page: Asset Save: multiple assets
+[2021.03.01-12.39.50:335][668]LogContentValidation: Display: Validating World /Game/InventoryDemo/ThirdPersonStuff/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2021.03.01-12.39.50:335][668]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/InventoryDemo/ThirdPersonStuff/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2021.03.01-12.39.51:256][752]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.01-12.39.51:256][752]LogWorld: BeginTearingDown for /Game/InventoryDemo/ThirdPersonStuff/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.03.01-12.39.51:256][752]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.03.01-12.39.51:257][752]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.01-12.39.51:266][752]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.03.01-12.39.51:268][752]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.01-12.39.51:279][752]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.01-12.39.51:301][752]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (00000245E4EDD800), frame # 26752
+[2021.03.01-12.39.51:301][752]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (00000245A733A200), frame # 26752
+[2021.03.01-12.39.51:303][752]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2021.03.01-12.39.51:340][753]LogPlayLevel: Display: Destroying online subsystem :Context_2
+[2021.03.01-12.39.54:171][ 71]LogTemp: Repeating last play command: Selected Viewport
+[2021.03.01-12.39.54:190][ 71]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.03.01-12.39.54:190][ 71]PIE: New page: PIE session: ThirdPersonExampleMap (Mar 1, 2021, 2:39:54 PM)
+[2021.03.01-12.39.54:190][ 71]LogPlayLevel: Creating play world package: /Game/InventoryDemo/ThirdPersonStuff/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.03.01-12.39.54:214][ 71]LogPlayLevel: PIE: StaticDuplicateObject took: (0.023724s)
+[2021.03.01-12.39.54:215][ 71]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2021.03.01-12.39.54:215][ 71]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (00000245A81D6400), frame # 27071
+[2021.03.01-12.39.54:215][ 71]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (00000245E2840CC0), frame # 27071
+[2021.03.01-12.39.54:216][ 71]LogPlayLevel: PIE: World Init took: (0.001887s)
+[2021.03.01-12.39.54:216][ 71]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/InventoryDemo/ThirdPersonStuff/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/InventoryDemo/ThirdPersonStuff/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.025794s)
+[2021.03.01-12.39.54:226][ 71]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2021.03.01-12.39.54:228][ 71]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.03.01-12.39.54:228][ 71]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.03.01-12.39.54:228][ 71]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.03.01-12.39.54:228][ 71]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.03.01-12.39.54:228][ 71]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.03.01-12.39.54:228][ 71]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.03.01-12.39.54:228][ 71]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.03.01-12.39.54:228][ 71]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.03.01-12.39.54:229][ 71]LogAudio: Display: Using built-in audio occlusion.
+[2021.03.01-12.39.54:229][ 71]LogAudioMixer: Display: Initializing audio mixer.
+[2021.03.01-12.39.54:230][ 71]LogAudioMixer: Display: 0: FrontLeft
+[2021.03.01-12.39.54:230][ 71]LogAudioMixer: Display: 1: FrontRight
+[2021.03.01-12.39.54:252][ 71]LogAudioMixer: Display: Using Audio Device Remote Audio
+[2021.03.01-12.39.54:253][ 71]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.03.01-12.39.54:253][ 71]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.03.01-12.39.54:253][ 71]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.03.01-12.39.54:253][ 71]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.03.01-12.39.54:265][ 71]LogInit: FAudioDevice initialized.
+[2021.03.01-12.39.54:274][ 71]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.03.01-12.39.54:277][ 71]LogWorld: Bringing World /Game/InventoryDemo/ThirdPersonStuff/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2021.03.01-13.39.54
+[2021.03.01-12.39.54:278][ 71]LogWorld: Bringing up level for play took: 0.003339
+[2021.03.01-12.39.54:278][ 71]LogOnline: OSS: Creating online subsystem instance for: :Context_3
+[2021.03.01-12.39.54:281][ 71]LogBlueprintUserMessages: [BPC_Storage] Container: Loading failed, no data found with save name Storage
+[2021.03.01-12.39.54:281][ 71]LogBlueprintUserMessages: [BPC_Storage] Trying to get main container widget...
+[2021.03.01-12.39.54:282][ 71]LogBlueprintUserMessages: [BPC_Storage] Container: Loading failed, no data found with save name Storage
+[2021.03.01-12.39.54:282][ 71]LogBlueprintUserMessages: [BPC_Storage] Trying to get main container widget...
+[2021.03.01-12.39.54:285][ 71]LogBlueprintUserMessages: [BPC_Shop] Trying to get main container widget...
+[2021.03.01-12.39.54:304][ 71]PIE: Server logged in
+[2021.03.01-12.39.54:305][ 71]PIE: Play in editor total start time 0.116 seconds.
+[2021.03.01-12.39.59:454][665]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.01-12.39.59:454][665]LogWorld: BeginTearingDown for /Game/InventoryDemo/ThirdPersonStuff/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.03.01-12.39.59:455][665]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.03.01-12.39.59:456][665]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.01-12.39.59:465][665]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.03.01-12.39.59:468][665]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.01-12.39.59:479][665]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.01-12.39.59:502][665]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (00000245E2840CC0), frame # 27665
+[2021.03.01-12.39.59:502][665]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (00000245A81D6400), frame # 27665
+[2021.03.01-12.39.59:503][665]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2021.03.01-12.39.59:545][666]LogPlayLevel: Display: Destroying online subsystem :Context_3
+[2021.03.01-12.40.03:601][143]LogSlate: Took 0.000183 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.03.01-12.40.03:621][143]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/InventoryDemo/Widgets/WB_DemoWindow.WB_DemoWindow
+[2021.03.01-12.40.04:707][143]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0009 seconds. Added 125 classes and 0 folders.
+[2021.03.01-12.40.06:268][143]LogSlate: Took 0.030616 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2021.03.01-12.40.23:970][510]LogSlate: Took 0.068355 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2021.03.01-12.40.28:563][878]LogSlate: Took 0.009362 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2021.03.01-12.40.47:977][777]LogSlate: Window 'WB_DemoWindow' being destroyed
+[2021.03.01-12.40.58:463][944]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/InventoryDemo/Blueprints/BP_DemoCharacter.BP_DemoCharacter
+[2021.03.01-12.45.18:083][547]LogEditorTransaction: Undo Refresh Node(s)
+[2021.03.01-12.46.55:869][804]BlueprintLog: New page: Compile WB_DemoWindow
+[2021.03.01-12.46.55:886][804]LogBlueprint: Error: [Compiler WB_DemoWindow] This blueprint (self) is not a BP_DemoCharacter_C, therefore ' Target ' must have a connection.
+[2021.03.01-12.46.55:952][804]LogUObjectHash: Compacting FUObjectHashTables data took   4.65ms
+[2021.03.01-12.46.56:029][804]LogSlate: Took 0.014279 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2021.03.01-12.47.07:563][125]BlueprintLog: New page: Compile WB_DemoWindow
+[2021.03.01-12.47.07:609][125]LogUObjectHash: Compacting FUObjectHashTables data took   4.49ms
+[2021.03.01-12.47.14:157][862]LogTemp: Repeating last play command: Selected Viewport
+[2021.03.01-12.47.14:176][862]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.03.01-12.47.14:176][862]PIE: New page: PIE session: ThirdPersonExampleMap (Mar 1, 2021, 2:47:14 PM)
+[2021.03.01-12.47.14:176][862]LogPlayLevel: Creating play world package: /Game/InventoryDemo/ThirdPersonStuff/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.03.01-12.47.14:203][862]LogPlayLevel: PIE: StaticDuplicateObject took: (0.026555s)
+[2021.03.01-12.47.14:204][862]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2021.03.01-12.47.14:204][862]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (00000245A7A8EC00), frame # 76862
+[2021.03.01-12.47.14:204][862]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (00000246320F96C0), frame # 76862
+[2021.03.01-12.47.14:205][862]LogPlayLevel: PIE: World Init took: (0.001774s)
+[2021.03.01-12.47.14:205][862]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/InventoryDemo/ThirdPersonStuff/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/InventoryDemo/ThirdPersonStuff/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.028502s)
+[2021.03.01-12.47.14:236][862]LogUObjectHash: Compacting FUObjectHashTables data took   3.82ms
+[2021.03.01-12.47.14:238][862]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.03.01-12.47.14:238][862]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.03.01-12.47.14:238][862]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.03.01-12.47.14:238][862]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.03.01-12.47.14:238][862]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.03.01-12.47.14:238][862]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.03.01-12.47.14:238][862]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.03.01-12.47.14:238][862]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.03.01-12.47.14:238][862]LogAudio: Display: Using built-in audio occlusion.
+[2021.03.01-12.47.14:238][862]LogAudioMixer: Display: Initializing audio mixer.
+[2021.03.01-12.47.14:240][862]LogAudioMixer: Display: 0: FrontLeft
+[2021.03.01-12.47.14:240][862]LogAudioMixer: Display: 1: FrontRight
+[2021.03.01-12.47.14:266][862]LogAudioMixer: Display: Using Audio Device Remote Audio
+[2021.03.01-12.47.14:266][862]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.03.01-12.47.14:266][862]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.03.01-12.47.14:266][862]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.03.01-12.47.14:267][862]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.03.01-12.47.14:279][862]LogInit: FAudioDevice initialized.
+[2021.03.01-12.47.14:287][862]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.03.01-12.47.14:290][862]LogWorld: Bringing World /Game/InventoryDemo/ThirdPersonStuff/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2021.03.01-13.47.14
+[2021.03.01-12.47.14:291][862]LogWorld: Bringing up level for play took: 0.003366
+[2021.03.01-12.47.14:291][862]LogOnline: OSS: Creating online subsystem instance for: :Context_9
+[2021.03.01-12.47.14:294][862]LogBlueprintUserMessages: [BPC_Storage] Container: Loading failed, no data found with save name Storage
+[2021.03.01-12.47.14:294][862]LogBlueprintUserMessages: [BPC_Storage] Trying to get main container widget...
+[2021.03.01-12.47.14:295][862]LogBlueprintUserMessages: [BPC_Storage] Container: Loading failed, no data found with save name Storage
+[2021.03.01-12.47.14:295][862]LogBlueprintUserMessages: [BPC_Storage] Trying to get main container widget...
+[2021.03.01-12.47.14:298][862]LogBlueprintUserMessages: [BPC_Shop] Trying to get main container widget...
+[2021.03.01-12.47.14:318][862]PIE: Server logged in
+[2021.03.01-12.47.14:319][862]PIE: Play in editor total start time 0.143 seconds.
+[2021.03.01-12.47.19:285][427]LogBlueprintUserMessages: [BPC_Storage] Container: Loading failed, no data found with save name Storage
+[2021.03.01-12.47.27:185][316]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.01-12.47.27:185][316]LogWorld: BeginTearingDown for /Game/InventoryDemo/ThirdPersonStuff/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.03.01-12.47.27:185][316]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.03.01-12.47.27:186][316]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.01-12.47.27:190][316]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.03.01-12.47.27:196][316]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.01-12.47.27:241][316]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.01-12.47.27:244][316]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (00000246320F96C0), frame # 78316
+[2021.03.01-12.47.27:244][316]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (00000245A7A8EC00), frame # 78316
+[2021.03.01-12.47.27:248][316]LogUObjectHash: Compacting FUObjectHashTables data took   3.13ms
+[2021.03.01-12.47.27:292][317]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2021.03.01-12.47.30:017][628]LogTemp: Repeating last play command: Selected Viewport
+[2021.03.01-12.47.30:035][628]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.03.01-12.47.30:036][628]PIE: New page: PIE session: ThirdPersonExampleMap (Mar 1, 2021, 2:47:30 PM)
+[2021.03.01-12.47.30:036][628]LogPlayLevel: Creating play world package: /Game/InventoryDemo/ThirdPersonStuff/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.03.01-12.47.30:059][628]LogPlayLevel: PIE: StaticDuplicateObject took: (0.023775s)
+[2021.03.01-12.47.30:061][628]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2021.03.01-12.47.30:061][628]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (00000245954BC200), frame # 78628
+[2021.03.01-12.47.30:061][628]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000002459A1E0E00), frame # 78628
+[2021.03.01-12.47.30:061][628]LogPlayLevel: PIE: World Init took: (0.001910s)
+[2021.03.01-12.47.30:061][628]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/InventoryDemo/ThirdPersonStuff/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/InventoryDemo/ThirdPersonStuff/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.025867s)
+[2021.03.01-12.47.30:094][628]LogUObjectHash: Compacting FUObjectHashTables data took   2.79ms
+[2021.03.01-12.47.30:096][628]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.03.01-12.47.30:096][628]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.03.01-12.47.30:096][628]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.03.01-12.47.30:096][628]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.03.01-12.47.30:096][628]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.03.01-12.47.30:096][628]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.03.01-12.47.30:096][628]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.03.01-12.47.30:096][628]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.03.01-12.47.30:096][628]LogAudio: Display: Using built-in audio occlusion.
+[2021.03.01-12.47.30:096][628]LogAudioMixer: Display: Initializing audio mixer.
+[2021.03.01-12.47.30:097][628]LogAudioMixer: Display: 0: FrontLeft
+[2021.03.01-12.47.30:097][628]LogAudioMixer: Display: 1: FrontRight
+[2021.03.01-12.47.30:119][628]LogAudioMixer: Display: Using Audio Device Remote Audio
+[2021.03.01-12.47.30:119][628]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.03.01-12.47.30:119][628]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.03.01-12.47.30:119][628]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.03.01-12.47.30:120][628]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.03.01-12.47.30:131][628]LogInit: FAudioDevice initialized.
+[2021.03.01-12.47.30:142][628]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.03.01-12.47.30:145][628]LogWorld: Bringing World /Game/InventoryDemo/ThirdPersonStuff/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2021.03.01-13.47.30
+[2021.03.01-12.47.30:146][628]LogWorld: Bringing up level for play took: 0.003607
+[2021.03.01-12.47.30:146][628]LogOnline: OSS: Creating online subsystem instance for: :Context_10
+[2021.03.01-12.47.30:149][628]LogBlueprintUserMessages: [BPC_Storage] Container: Loading failed, no data found with save name Storage
+[2021.03.01-12.47.30:150][628]LogBlueprintUserMessages: [BPC_Storage] Trying to get main container widget...
+[2021.03.01-12.47.30:150][628]LogBlueprintUserMessages: [BPC_Storage] Container: Loading failed, no data found with save name Storage
+[2021.03.01-12.47.30:150][628]LogBlueprintUserMessages: [BPC_Storage] Trying to get main container widget...
+[2021.03.01-12.47.30:153][628]LogBlueprintUserMessages: [BPC_Shop] Trying to get main container widget...
+[2021.03.01-12.47.30:172][628]PIE: Server logged in
+[2021.03.01-12.47.30:173][628]PIE: Play in editor total start time 0.138 seconds.
+[2021.03.01-12.48.01:907][316]LogBlueprintUserMessages: [BPC_Storage] Container: Loading failed, no data found with save name Storage
+[2021.03.01-12.48.12:566][536]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'NearbyItems' of length 0 in '/Game/OpenRPG_Inventory/Blueprints/Components/BPC_PlayerInventory.BPC_PlayerInventory_C'!
+[2021.03.01-12.48.12:988][585]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'NearbyItems' of length 0 in '/Game/OpenRPG_Inventory/Blueprints/Components/BPC_PlayerInventory.BPC_PlayerInventory_C'!
+[2021.03.01-12.48.13:228][613]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'NearbyItems' of length 0 in '/Game/OpenRPG_Inventory/Blueprints/Components/BPC_PlayerInventory.BPC_PlayerInventory_C'!
+[2021.03.01-12.48.13:673][665]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'NearbyItems' of length 0 in '/Game/OpenRPG_Inventory/Blueprints/Components/BPC_PlayerInventory.BPC_PlayerInventory_C'!
+[2021.03.01-12.48.13:897][691]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'NearbyItems' of length 0 in '/Game/OpenRPG_Inventory/Blueprints/Components/BPC_PlayerInventory.BPC_PlayerInventory_C'!
+[2021.03.01-12.48.14:397][749]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'NearbyItems' of length 0 in '/Game/OpenRPG_Inventory/Blueprints/Components/BPC_PlayerInventory.BPC_PlayerInventory_C'!
+[2021.03.01-12.48.28:605][399]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.01-12.48.28:606][399]LogWorld: BeginTearingDown for /Game/InventoryDemo/ThirdPersonStuff/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.03.01-12.48.28:606][399]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.03.01-12.48.28:607][399]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.01-12.48.28:617][399]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.03.01-12.48.28:622][399]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.01-12.48.28:669][399]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.01-12.48.28:671][399]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000002459A1E0E00), frame # 85399
+[2021.03.01-12.48.28:671][399]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (00000245954BC200), frame # 85399
+[2021.03.01-12.48.28:674][399]LogUObjectHash: Compacting FUObjectHashTables data took   2.97ms
+[2021.03.01-12.48.28:718][400]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2021.03.01-12.48.31:713][729]LogUObjectHash: Compacting FUObjectHashTables data took   2.65ms
+[2021.03.01-12.48.31:998][729]LogSavePackage: Moving 'H:/epic/projects/Bloodcolony_RPG/Saved/ThirdPersonExampleMap10EC3F904ADF872CF688C7B891E768B7.tmp' to 'H:/epic/projects/Bloodcolony_RPG/Content/InventoryDemo/ThirdPersonStuff/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2021.03.01-12.48.32:073][729]LogSavePackage: Moving 'H:/epic/projects/Bloodcolony_RPG/Saved/ThirdPersonExampleMap_BuiltData36A8107441D6FCF05FE59A95D4BE3372.tmp' to 'H:/epic/projects/Bloodcolony_RPG/Content/InventoryDemo/ThirdPersonStuff/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2021.03.01-12.48.32:089][729]AssetCheck: New page: Asset Save: multiple assets
+[2021.03.01-12.48.32:089][729]LogContentValidation: Display: Validating World /Game/InventoryDemo/ThirdPersonStuff/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2021.03.01-12.48.32:089][729]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/InventoryDemo/ThirdPersonStuff/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2021.03.01-12.48.34:544][  9]LogTemp: Repeating last play command: Selected Viewport
+[2021.03.01-12.48.34:562][  9]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.03.01-12.48.34:563][  9]PIE: New page: PIE session: ThirdPersonExampleMap (Mar 1, 2021, 2:48:34 PM)
+[2021.03.01-12.48.34:563][  9]LogPlayLevel: Creating play world package: /Game/InventoryDemo/ThirdPersonStuff/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.03.01-12.48.34:589][  9]LogPlayLevel: PIE: StaticDuplicateObject took: (0.025838s)
+[2021.03.01-12.48.34:590][  9]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2021.03.01-12.48.34:590][  9]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000002458B106600), frame # 86009
+[2021.03.01-12.48.34:590][  9]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (00000245DF14E0C0), frame # 86009
+[2021.03.01-12.48.34:590][  9]LogPlayLevel: PIE: World Init took: (0.001575s)
+[2021.03.01-12.48.34:590][  9]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/InventoryDemo/ThirdPersonStuff/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/InventoryDemo/ThirdPersonStuff/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.027599s)
+[2021.03.01-12.48.34:623][  9]LogUObjectHash: Compacting FUObjectHashTables data took   4.61ms
+[2021.03.01-12.48.34:625][  9]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.03.01-12.48.34:625][  9]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.03.01-12.48.34:625][  9]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.03.01-12.48.34:625][  9]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.03.01-12.48.34:625][  9]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.03.01-12.48.34:625][  9]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.03.01-12.48.34:625][  9]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.03.01-12.48.34:625][  9]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.03.01-12.48.34:626][  9]LogAudio: Display: Using built-in audio occlusion.
+[2021.03.01-12.48.34:626][  9]LogAudioMixer: Display: Initializing audio mixer.
+[2021.03.01-12.48.34:627][  9]LogAudioMixer: Display: 0: FrontLeft
+[2021.03.01-12.48.34:627][  9]LogAudioMixer: Display: 1: FrontRight
+[2021.03.01-12.48.34:653][  9]LogAudioMixer: Display: Using Audio Device Remote Audio
+[2021.03.01-12.48.34:653][  9]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.03.01-12.48.34:653][  9]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.03.01-12.48.34:654][  9]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.03.01-12.48.34:654][  9]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.03.01-12.48.34:667][  9]LogInit: FAudioDevice initialized.
+[2021.03.01-12.48.34:672][  9]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.03.01-12.48.34:678][  9]LogWorld: Bringing World /Game/InventoryDemo/ThirdPersonStuff/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2021.03.01-13.48.34
+[2021.03.01-12.48.34:678][  9]LogWorld: Bringing up level for play took: 0.005546
+[2021.03.01-12.48.34:679][  9]LogOnline: OSS: Creating online subsystem instance for: :Context_11
+[2021.03.01-12.48.34:683][  9]LogBlueprintUserMessages: [BPC_Storage] Trying to get main container widget...
+[2021.03.01-12.48.34:683][  9]LogBlueprintUserMessages: [BPC_Storage] Trying to get main container widget...
+[2021.03.01-12.48.34:687][  9]LogBlueprintUserMessages: [BPC_Shop] Trying to get main container widget...
+[2021.03.01-12.48.34:713][  9]PIE: Server logged in
+[2021.03.01-12.48.34:715][  9]PIE: Play in editor total start time 0.153 seconds.
+[2021.03.01-12.48.42:025][841]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.01-12.48.42:026][841]LogWorld: BeginTearingDown for /Game/InventoryDemo/ThirdPersonStuff/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.03.01-12.48.42:026][841]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.03.01-12.48.42:027][841]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.01-12.48.42:034][841]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.03.01-12.48.42:039][841]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.01-12.48.42:083][841]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.01-12.48.42:086][841]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (00000245DF14E0C0), frame # 86841
+[2021.03.01-12.48.42:086][841]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000002458B106600), frame # 86841
+[2021.03.01-12.48.42:089][841]LogUObjectHash: Compacting FUObjectHashTables data took   2.88ms
+[2021.03.01-12.48.42:136][842]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2021.03.01-12.48.43:896][ 32]LogTemp: Repeating last play command: Selected Viewport
+[2021.03.01-12.48.43:914][ 32]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.03.01-12.48.43:914][ 32]PIE: New page: PIE session: ThirdPersonExampleMap (Mar 1, 2021, 2:48:43 PM)
+[2021.03.01-12.48.43:914][ 32]LogPlayLevel: Creating play world package: /Game/InventoryDemo/ThirdPersonStuff/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.03.01-12.48.43:943][ 32]LogPlayLevel: PIE: StaticDuplicateObject took: (0.028539s)
+[2021.03.01-12.48.43:944][ 32]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2021.03.01-12.48.43:944][ 32]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (00000245956E9600), frame # 87032
+[2021.03.01-12.48.43:944][ 32]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (00000245DF217380), frame # 87032
+[2021.03.01-12.48.43:944][ 32]LogPlayLevel: PIE: World Init took: (0.001536s)
+[2021.03.01-12.48.43:944][ 32]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/InventoryDemo/ThirdPersonStuff/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/InventoryDemo/ThirdPersonStuff/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.030242s)
+[2021.03.01-12.48.43:981][ 32]LogUObjectHash: Compacting FUObjectHashTables data took   3.35ms
+[2021.03.01-12.48.43:982][ 32]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.03.01-12.48.43:982][ 32]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.03.01-12.48.43:982][ 32]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.03.01-12.48.43:982][ 32]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.03.01-12.48.43:982][ 32]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.03.01-12.48.43:982][ 32]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.03.01-12.48.43:982][ 32]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.03.01-12.48.43:983][ 32]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.03.01-12.48.43:983][ 32]LogAudio: Display: Using built-in audio occlusion.
+[2021.03.01-12.48.43:983][ 32]LogAudioMixer: Display: Initializing audio mixer.
+[2021.03.01-12.48.43:984][ 32]LogAudioMixer: Display: 0: FrontLeft
+[2021.03.01-12.48.43:984][ 32]LogAudioMixer: Display: 1: FrontRight
+[2021.03.01-12.48.44:008][ 32]LogAudioMixer: Display: Using Audio Device Remote Audio
+[2021.03.01-12.48.44:008][ 32]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.03.01-12.48.44:008][ 32]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.03.01-12.48.44:008][ 32]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.03.01-12.48.44:009][ 32]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.03.01-12.48.44:020][ 32]LogInit: FAudioDevice initialized.
+[2021.03.01-12.48.44:031][ 32]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.03.01-12.48.44:036][ 32]LogWorld: Bringing World /Game/InventoryDemo/ThirdPersonStuff/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 0) at 2021.03.01-13.48.44
+[2021.03.01-12.48.44:036][ 32]LogWorld: Bringing up level for play took: 0.004365
+[2021.03.01-12.48.44:036][ 32]LogOnline: OSS: Creating online subsystem instance for: :Context_12
+[2021.03.01-12.48.44:040][ 32]LogBlueprintUserMessages: [BPC_Storage] Trying to get main container widget...
+[2021.03.01-12.48.44:040][ 32]LogBlueprintUserMessages: [BPC_Storage] Trying to get main container widget...
+[2021.03.01-12.48.44:043][ 32]LogBlueprintUserMessages: [BPC_Shop] Trying to get main container widget...
+[2021.03.01-12.48.44:065][ 32]PIE: Server logged in
+[2021.03.01-12.48.44:066][ 32]PIE: Play in editor total start time 0.153 seconds.
+[2021.03.01-12.48.45:524][187]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.01-12.48.45:524][187]LogWorld: BeginTearingDown for /Game/InventoryDemo/ThirdPersonStuff/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.03.01-12.48.45:525][187]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.03.01-12.48.45:526][187]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.01-12.48.45:532][187]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.03.01-12.48.45:536][187]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.01-12.48.45:585][187]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.03.01-12.48.45:587][187]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (00000245DF217380), frame # 87187
+[2021.03.01-12.48.45:587][187]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (00000245956E9600), frame # 87187
+[2021.03.01-12.48.45:591][187]LogUObjectHash: Compacting FUObjectHashTables data took   3.16ms
+[2021.03.01-12.48.45:638][188]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2021.03.01-12.48.52:025][860]LogUObjectHash: Compacting FUObjectHashTables data took   5.05ms
+[2021.03.01-12.48.52:262][860]LogSavePackage: Moving 'H:/epic/projects/Bloodcolony_RPG/Saved/ThirdPersonExampleMap4C76B3F94DF70B7D0F197CA62A61C0BA.tmp' to 'H:/epic/projects/Bloodcolony_RPG/Content/InventoryDemo/ThirdPersonStuff/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2021.03.01-12.48.52:324][860]LogSavePackage: Moving 'H:/epic/projects/Bloodcolony_RPG/Saved/ThirdPersonExampleMap_BuiltData8C2C74EE4512A6631BFC7FA839DBC3E8.tmp' to 'H:/epic/projects/Bloodcolony_RPG/Content/InventoryDemo/ThirdPersonStuff/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2021.03.01-12.48.52:341][860]AssetCheck: New page: Asset Save: multiple assets
+[2021.03.01-12.48.52:341][860]LogContentValidation: Display: Validating World /Game/InventoryDemo/ThirdPersonStuff/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2021.03.01-12.48.52:341][860]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/InventoryDemo/ThirdPersonStuff/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2021.03.01-12.48.53:424][978]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2021.03.01-12.48.54:656][978]LogSlate: Window 'Save Content' being destroyed
+[2021.03.01-12.48.54:682][978]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/InventoryDemo/Widgets/WB_DemoWindow" FILE="H:/epic/projects/Bloodcolony_RPG/Content/InventoryDemo/Widgets/WB_DemoWindow.uasset" SILENT=true
+[2021.03.01-12.48.54:743][978]LogSavePackage: Moving 'H:/epic/projects/Bloodcolony_RPG/Saved/WB_DemoWindow1CA9D2CA48A338C3456DA78B16BC3102.tmp' to 'H:/epic/projects/Bloodcolony_RPG/Content/InventoryDemo/Widgets/WB_DemoWindow.uasset'
+[2021.03.01-12.48.54:758][978]AssetCheck: New page: Asset Save: WB_DemoWindow
+[2021.03.01-12.48.54:758][978]LogContentValidation: Display: Validating WidgetBlueprint /Game/InventoryDemo/Widgets/WB_DemoWindow.WB_DemoWindow
+[2021.03.01-12.49.48:303][222]LogUObjectHash: Compacting FUObjectHashTables data took   3.65ms
+[2021.03.01-12.49.48:389][222]LogUObjectHash: Compacting FUObjectHashTables data took   4.57ms
+[2021.03.01-12.49.48:398][222]LogMetaData: Removing '/Game/InventoryDemo/Blueprints/BP_BC_Character.BP_BC_Character_C' ref from Metadata '/Game/InventoryDemo/Blueprints/BP_DemoCharacter.PackageMetaData'
+[2021.03.01-12.49.48:398][222]LogMetaData: Removing '/Game/InventoryDemo/Blueprints/BP_BC_Character.BP_BC_Character:GetEquipmentMeshComponentByType.K2Node_FunctionEntry_17' ref from Metadata '/Game/InventoryDemo/Blueprints/BP_DemoCharacter.PackageMetaData'
+[2021.03.01-12.49.48:398][222]LogMetaData: Removing '/Game/InventoryDemo/Blueprints/BP_BC_Character.BP_BC_Character:GetEquipmentMeshComponentByType.K2Node_FunctionResult_0' ref from Metadata '/Game/InventoryDemo/Blueprints/BP_DemoCharacter.PackageMetaData'
+[2021.03.01-12.49.48:398][222]LogMetaData: Removing '/Game/InventoryDemo/Blueprints/BP_BC_Character.BP_BC_Character:GetMesh.K2Node_FunctionEntry_127' ref from Metadata '/Game/InventoryDemo/Blueprints/BP_DemoCharacter.PackageMetaData'
+[2021.03.01-12.49.48:398][222]LogMetaData: Removing '/Game/InventoryDemo/Blueprints/BP_BC_Character.BP_BC_Character:GetMesh.K2Node_FunctionResult_1' ref from Metadata '/Game/InventoryDemo/Blueprints/BP_DemoCharacter.PackageMetaData'
+[2021.03.01-12.49.48:398][222]LogMetaData: Removing '/Game/InventoryDemo/Blueprints/BP_BC_Character.BP_BC_Character:Save.K2Node_FunctionEntry_0' ref from Metadata '/Game/InventoryDemo/Blueprints/BP_DemoCharacter.PackageMetaData'
+[2021.03.01-12.49.48:398][222]LogMetaData: Removing '/Game/InventoryDemo/Blueprints/BP_BC_Character.SKEL_BP_BC_Character_C' ref from Metadata '/Game/InventoryDemo/Blueprints/BP_DemoCharacter.PackageMetaData'
+[2021.03.01-12.49.48:446][222]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/InventoryDemo/Blueprints/BP_BC_Character" FILE="H:/epic/projects/Bloodcolony_RPG/Content/InventoryDemo/Blueprints/BP_BC_Character.uasset" SILENT=true
+[2021.03.01-12.49.48:509][222]LogSavePackage: Moving 'H:/epic/projects/Bloodcolony_RPG/Saved/BP_BC_Character45C21E2C4B81A87245D974A674DA6157.tmp' to 'H:/epic/projects/Bloodcolony_RPG/Content/InventoryDemo/Blueprints/BP_BC_Character.uasset'
+[2021.03.01-12.49.48:802][222]LogUObjectHash: Compacting FUObjectHashTables data took   4.20ms
+[2021.03.01-12.49.48:842][222]LogUObjectHash: Compacting FUObjectHashTables data took   2.26ms
+[2021.03.01-12.49.48:871][222]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2021.03.01-12.49.48:922][222]LogSavePackage: Moving 'H:/epic/projects/Bloodcolony_RPG/Saved/ThirdPersonGameMode6C3FF8B84816E509BE1ADBA96F4CE571.tmp' to 'H:/epic/projects/Bloodcolony_RPG/Content/InventoryDemo/ThirdPersonStuff/ThirdPersonBP/Blueprints/ThirdPersonGameMode.uasset'
+[2021.03.01-12.49.48:926][222]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/InventoryDemo/Widgets/WB_DemoWindow" FILE="H:/epic/projects/Bloodcolony_RPG/Content/InventoryDemo/Widgets/WB_DemoWindow.uasset" SILENT=true
+[2021.03.01-12.49.48:956][222]LogSavePackage: Moving 'H:/epic/projects/Bloodcolony_RPG/Saved/WB_DemoWindow7DB735CC433E2224B63248BA7C2EE525.tmp' to 'H:/epic/projects/Bloodcolony_RPG/Content/InventoryDemo/Widgets/WB_DemoWindow.uasset'
+[2021.03.01-12.49.49:048][222]AssetCheck: New page: Asset Save: multiple assets
+[2021.03.01-12.49.49:048][222]LogContentValidation: Display: Validating Blueprint /Game/InventoryDemo/Blueprints/BP_BC_Character.BP_BC_Character
+[2021.03.01-12.49.49:048][222]LogContentValidation: Display: Validating Blueprint /Game/InventoryDemo/ThirdPersonStuff/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode
+[2021.03.01-12.49.49:048][222]LogContentValidation: Display: Validating WidgetBlueprint /Game/InventoryDemo/Widgets/WB_DemoWindow.WB_DemoWindow
+[2021.03.01-12.49.51:455][451]LogUObjectHash: Compacting FUObjectHashTables data took   3.38ms
+[2021.03.01-12.49.58:446][258]LogUObjectHash: Compacting FUObjectHashTables data took   3.58ms
+[2021.03.01-12.49.58:449][258]LogMetaData: Removing '/Game/InventoryDemo/Blueprints/BP_BC_Shop.BP_BC_Shop_C' ref from Metadata '/Game/InventoryDemo/Blueprints/BP_DemoShop.PackageMetaData'
+[2021.03.01-12.49.58:449][258]LogMetaData: Removing '/Game/InventoryDemo/Blueprints/BP_BC_Shop.BP_BC_Shop:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/InventoryDemo/Blueprints/BP_DemoShop.PackageMetaData'
+[2021.03.01-12.49.58:449][258]LogMetaData: Removing '/Game/InventoryDemo/Blueprints/BP_BC_Shop.SKEL_BP_BC_Shop_C' ref from Metadata '/Game/InventoryDemo/Blueprints/BP_DemoShop.PackageMetaData'
+[2021.03.01-12.49.58:508][258]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/InventoryDemo/Blueprints/BP_BC_Shop" FILE="H:/epic/projects/Bloodcolony_RPG/Content/InventoryDemo/Blueprints/BP_BC_Shop.uasset" SILENT=true
+[2021.03.01-12.49.58:550][258]LogSavePackage: Moving 'H:/epic/projects/Bloodcolony_RPG/Saved/BP_BC_ShopD6DC93344198B5902985F88BD6BFF8D0.tmp' to 'H:/epic/projects/Bloodcolony_RPG/Content/InventoryDemo/Blueprints/BP_BC_Shop.uasset'
+[2021.03.01-12.49.58:579][258]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/InventoryDemo/Blueprints/BP_DemoShop" FILE="H:/epic/projects/Bloodcolony_RPG/Content/InventoryDemo/Blueprints/BP_DemoShop.uasset" SILENT=true
+[2021.03.01-12.49.58:596][258]LogSavePackage: Moving 'H:/epic/projects/Bloodcolony_RPG/Saved/BP_DemoShopB31F9C1F4466F53BFEB92181D72A585C.tmp' to 'H:/epic/projects/Bloodcolony_RPG/Content/InventoryDemo/Blueprints/BP_DemoShop.uasset'
+[2021.03.01-12.49.58:692][258]AssetCheck: New page: Asset Save: multiple assets
+[2021.03.01-12.49.58:692][258]LogContentValidation: Display: Validating Blueprint /Game/InventoryDemo/Blueprints/BP_BC_Shop.BP_BC_Shop
+[2021.03.01-12.49.58:692][258]LogContentValidation: Display: Validating ObjectRedirector /Game/InventoryDemo/Blueprints/BP_DemoShop.BP_DemoShop
+[2021.03.01-12.49.58:692][258]LogContentValidation: Display: Validating ObjectRedirector /Game/InventoryDemo/Blueprints/BP_DemoShop.BP_DemoShop_C
+[2021.03.01-12.50.13:208][940]LogUObjectHash: Compacting FUObjectHashTables data took   4.50ms
+[2021.03.01-12.50.13:211][940]LogMetaData: Removing '/Game/InventoryDemo/Blueprints/BP_BC_PlayerController.BP_BC_PlayerController_C' ref from Metadata '/Game/InventoryDemo/Blueprints/BP_DemoPlayerController.PackageMetaData'
+[2021.03.01-12.50.13:212][940]LogMetaData: Removing '/Game/InventoryDemo/Blueprints/BP_BC_PlayerController.BP_BC_PlayerController:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/InventoryDemo/Blueprints/BP_DemoPlayerController.PackageMetaData'
+[2021.03.01-12.50.13:212][940]LogMetaData: Removing '/Game/InventoryDemo/Blueprints/BP_BC_PlayerController.BP_BC_PlayerController:EventGraph.K2Node_Event_0' ref from Metadata '/Game/InventoryDemo/Blueprints/BP_DemoPlayerController.PackageMetaData'
+[2021.03.01-12.50.13:212][940]LogMetaData: Removing '/Game/InventoryDemo/Blueprints/BP_BC_PlayerController.BP_BC_PlayerController:GetItemsContainerWidget.K2Node_FunctionEntry_0' ref from Metadata '/Game/InventoryDemo/Blueprints/BP_DemoPlayerController.PackageMetaData'
+[2021.03.01-12.50.13:212][940]LogMetaData: Removing '/Game/InventoryDemo/Blueprints/BP_BC_PlayerController.BP_BC_PlayerController:GetEquipmentContainerWidget.K2Node_FunctionResult_0' ref from Metadata '/Game/InventoryDemo/Blueprints/BP_DemoPlayerController.PackageMetaData'
+[2021.03.01-12.50.13:212][940]LogMetaData: Removing '/Game/InventoryDemo/Blueprints/BP_BC_PlayerController.BP_BC_PlayerController:GetEquipmentContainerWidget.K2Node_FunctionEntry_0' ref from Metadata '/Game/InventoryDemo/Blueprints/BP_DemoPlayerController.PackageMetaData'
+[2021.03.01-12.50.13:212][940]LogMetaData: Removing '/Game/InventoryDemo/Blueprints/BP_BC_PlayerController.BP_BC_PlayerController:GetMainEquipmentWidget.K2Node_FunctionResult_1' ref from Metadata '/Game/InventoryDemo/Blueprints/BP_DemoPlayerController.PackageMetaData'
+[2021.03.01-12.50.13:212][940]LogMetaData: Removing '/Game/InventoryDemo/Blueprints/BP_BC_PlayerController.BP_BC_PlayerController:GetMainEquipmentWidget.K2Node_FunctionEntry_0' ref from Metadata '/Game/InventoryDemo/Blueprints/BP_DemoPlayerController.PackageMetaData'
+[2021.03.01-12.50.13:212][940]LogMetaData: Removing '/Game/InventoryDemo/Blueprints/BP_BC_PlayerController.BP_BC_PlayerController:GetMainItemsContainerWidget.K2Node_FunctionEntry_0' ref from Metadata '/Game/InventoryDemo/Blueprints/BP_DemoPlayerController.PackageMetaData'
+[2021.03.01-12.50.13:212][940]LogMetaData: Removing '/Game/InventoryDemo/Blueprints/BP_BC_PlayerController.BP_BC_PlayerController:GetMainItemsContainerWidget.K2Node_FunctionResult_0' ref from Metadata '/Game/InventoryDemo/Blueprints/BP_DemoPlayerController.PackageMetaData'
+[2021.03.01-12.50.13:212][940]LogMetaData: Removing '/Game/InventoryDemo/Blueprints/BP_BC_PlayerController.SKEL_BP_BC_PlayerController_C' ref from Metadata '/Game/InventoryDemo/Blueprints/BP_DemoPlayerController.PackageMetaData'
+[2021.03.01-12.50.13:242][940]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/InventoryDemo/Blueprints/BP_BC_PlayerController" FILE="H:/epic/projects/Bloodcolony_RPG/Content/InventoryDemo/Blueprints/BP_BC_PlayerController.uasset" SILENT=true
+[2021.03.01-12.50.13:291][940]LogSavePackage: Moving 'H:/epic/projects/Bloodcolony_RPG/Saved/BP_BC_PlayerController02E82F0448700A0EC93B748CF6C89FFF.tmp' to 'H:/epic/projects/Bloodcolony_RPG/Content/InventoryDemo/Blueprints/BP_BC_PlayerController.uasset'
+[2021.03.01-12.50.13:554][940]LogUObjectHash: Compacting FUObjectHashTables data took   4.27ms
+[2021.03.01-12.50.13:589][940]LogUObjectHash: Compacting FUObjectHashTables data took   2.28ms
+[2021.03.01-12.50.13:616][940]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2021.03.01-12.50.13:664][940]LogSavePackage: Moving 'H:/epic/projects/Bloodcolony_RPG/Saved/ThirdPersonGameMode190F318B40C058E4074B2EA822691739.tmp' to 'H:/epic/projects/Bloodcolony_RPG/Content/InventoryDemo/ThirdPersonStuff/ThirdPersonBP/Blueprints/ThirdPersonGameMode.uasset'
+[2021.03.01-12.50.13:755][940]AssetCheck: New page: Asset Save: multiple assets
+[2021.03.01-12.50.13:755][940]LogContentValidation: Display: Validating Blueprint /Game/InventoryDemo/Blueprints/BP_BC_PlayerController.BP_BC_PlayerController
+[2021.03.01-12.50.13:755][940]LogContentValidation: Display: Validating Blueprint /Game/InventoryDemo/ThirdPersonStuff/ThirdPersonBP/Blueprints/ThirdPersonGameMode.ThirdPersonGameMode
+[2021.03.01-12.50.29:730][828]LogUObjectHash: Compacting FUObjectHashTables data took   3.22ms
+[2021.03.01-12.50.29:791][828]LogUObjectHash: Compacting FUObjectHashTables data took   4.00ms
+[2021.03.01-12.50.29:839][828]LogUObjectHash: Compacting FUObjectHashTables data took   3.99ms
+[2021.03.01-12.50.29:885][828]LogUObjectHash: Compacting FUObjectHashTables data took   3.61ms
+[2021.03.01-12.50.29:939][828]LogUObjectHash: Compacting FUObjectHashTables data took   3.35ms
+[2021.03.01-12.50.29:942][828]LogMetaData: Removing '/Game/InventoryDemo/Blueprints/BP_BC_DragDrop.BP_BC_DragDrop_C' ref from Metadata '/Game/InventoryDemo/Blueprints/BP_DemoDragDrop.PackageMetaData'
+[2021.03.01-12.50.29:943][828]LogMetaData: Removing '/Game/InventoryDemo/Blueprints/BP_BC_DragDrop.SKEL_BP_BC_DragDrop_C' ref from Metadata '/Game/InventoryDemo/Blueprints/BP_DemoDragDrop.PackageMetaData'
+[2021.03.01-12.50.29:995][828]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/InventoryDemo/Blueprints/BP_BC_DragDrop" FILE="H:/epic/projects/Bloodcolony_RPG/Content/InventoryDemo/Blueprints/BP_BC_DragDrop.uasset" SILENT=true
+[2021.03.01-12.50.30:007][828]LogSavePackage: Moving 'H:/epic/projects/Bloodcolony_RPG/Saved/BP_BC_DragDrop2327F80749ED285A200D7899A59B7B53.tmp' to 'H:/epic/projects/Bloodcolony_RPG/Content/InventoryDemo/Blueprints/BP_BC_DragDrop.uasset'
+[2021.03.01-12.50.30:270][828]LogUObjectHash: Compacting FUObjectHashTables data took   3.17ms
+[2021.03.01-12.50.30:307][828]LogUObjectHash: Compacting FUObjectHashTables data took   2.28ms
+[2021.03.01-12.50.30:332][828]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2021.03.01-12.50.30:368][828]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/InventoryDemo/Widgets/WB_DemoEquipmentWindow" FILE="H:/epic/projects/Bloodcolony_RPG/Content/InventoryDemo/Widgets/WB_DemoEquipmentWindow.uasset" SILENT=true
+[2021.03.01-12.50.30:400][828]LogSavePackage: Moving 'H:/epic/projects/Bloodcolony_RPG/Saved/WB_DemoEquipmentWindow1E71865F4AD9A88832E565AE8139E4E6.tmp' to 'H:/epic/projects/Bloodcolony_RPG/Content/InventoryDemo/Widgets/WB_DemoEquipmentWindow.uasset'
+[2021.03.01-12.50.30:404][828]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/InventoryDemo/Widgets/WB_DemoInventoryWindow" FILE="H:/epic/projects/Bloodcolony_RPG/Content/InventoryDemo/Widgets/WB_DemoInventoryWindow.uasset" SILENT=true
+[2021.03.01-12.50.30:438][828]LogSavePackage: Moving 'H:/epic/projects/Bloodcolony_RPG/Saved/WB_DemoInventoryWindowA36C2B5E477F604C1C580295980F07C3.tmp' to 'H:/epic/projects/Bloodcolony_RPG/Content/InventoryDemo/Widgets/WB_DemoInventoryWindow.uasset'
+[2021.03.01-12.50.30:441][828]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/InventoryDemo/Widgets/WB_DemoMain" FILE="H:/epic/projects/Bloodcolony_RPG/Content/InventoryDemo/Widgets/WB_DemoMain.uasset" SILENT=true
+[2021.03.01-12.50.30:470][828]LogSavePackage: Moving 'H:/epic/projects/Bloodcolony_RPG/Saved/WB_DemoMainAD908FE24D7825D37DAF58BC2F332A1C.tmp' to 'H:/epic/projects/Bloodcolony_RPG/Content/InventoryDemo/Widgets/WB_DemoMain.uasset'
+[2021.03.01-12.50.30:474][828]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/InventoryDemo/Widgets/WB_DemoWindow" FILE="H:/epic/projects/Bloodcolony_RPG/Content/InventoryDemo/Widgets/WB_DemoWindow.uasset" SILENT=true
+[2021.03.01-12.50.30:503][828]LogSavePackage: Moving 'H:/epic/projects/Bloodcolony_RPG/Saved/WB_DemoWindowF1012B4A449E9C185845F3AEAD802487.tmp' to 'H:/epic/projects/Bloodcolony_RPG/Content/InventoryDemo/Widgets/WB_DemoWindow.uasset'
+[2021.03.01-12.50.30:616][828]AssetCheck: New page: Asset Save: multiple assets
+[2021.03.01-12.50.30:616][828]LogContentValidation: Display: Validating Blueprint /Game/InventoryDemo/Blueprints/BP_BC_DragDrop.BP_BC_DragDrop
+[2021.03.01-12.50.30:616][828]LogContentValidation: Display: Validating WidgetBlueprint /Game/InventoryDemo/Widgets/WB_DemoEquipmentWindow.WB_DemoEquipmentWindow
+[2021.03.01-12.50.30:616][828]LogContentValidation: Display: Validating WidgetBlueprint /Game/InventoryDemo/Widgets/WB_DemoInventoryWindow.WB_DemoInventoryWindow
+[2021.03.01-12.50.30:616][828]LogContentValidation: Display: Validating WidgetBlueprint /Game/InventoryDemo/Widgets/WB_DemoMain.WB_DemoMain
+[2021.03.01-12.50.30:616][828]LogContentValidation: Display: Validating WidgetBlueprint /Game/InventoryDemo/Widgets/WB_DemoWindow.WB_DemoWindow
+[2021.03.01-12.50.42:294][171]LogUObjectHash: Compacting FUObjectHashTables data took   3.38ms
+[2021.03.01-12.50.42:299][171]LogMetaData: Removing '/Game/InventoryDemo/Blueprints/BP_BC_GI.BP_BC_GI_C' ref from Metadata '/Game/InventoryDemo/Blueprints/BP_DemoGI.PackageMetaData'
+[2021.03.01-12.50.42:299][171]LogMetaData: Removing '/Game/InventoryDemo/Blueprints/BP_BC_GI.BP_BC_GI:LoadEquipment.K2Node_FunctionEntry_0' ref from Metadata '/Game/InventoryDemo/Blueprints/BP_DemoGI.PackageMetaData'
+[2021.03.01-12.50.42:299][171]LogMetaData: Removing '/Game/InventoryDemo/Blueprints/BP_BC_GI.BP_BC_GI:LoadEquipment.K2Node_FunctionResult_0' ref from Metadata '/Game/InventoryDemo/Blueprints/BP_DemoGI.PackageMetaData'
+[2021.03.01-12.50.42:299][171]LogMetaData: Removing '/Game/InventoryDemo/Blueprints/BP_BC_GI.BP_BC_GI:LoadContainer.K2Node_FunctionResult_0' ref from Metadata '/Game/InventoryDemo/Blueprints/BP_DemoGI.PackageMetaData'
+[2021.03.01-12.50.42:299][171]LogMetaData: Removing '/Game/InventoryDemo/Blueprints/BP_BC_GI.BP_BC_GI:LoadContainer.K2Node_FunctionEntry_0' ref from Metadata '/Game/InventoryDemo/Blueprints/BP_DemoGI.PackageMetaData'
+[2021.03.01-12.50.42:299][171]LogMetaData: Removing '/Game/InventoryDemo/Blueprints/BP_BC_GI.BP_BC_GI:LoadPlayerInventoryData.K2Node_FunctionResult_0' ref from Metadata '/Game/InventoryDemo/Blueprints/BP_DemoGI.PackageMetaData'
+[2021.03.01-12.50.42:299][171]LogMetaData: Removing '/Game/InventoryDemo/Blueprints/BP_BC_GI.BP_BC_GI:LoadPlayerInventoryData.K2Node_FunctionEntry_0' ref from Metadata '/Game/InventoryDemo/Blueprints/BP_DemoGI.PackageMetaData'
+[2021.03.01-12.50.42:299][171]LogMetaData: Removing '/Game/InventoryDemo/Blueprints/BP_BC_GI.BP_BC_GI:LoadDiskSlot.K2Node_FunctionEntry_0' ref from Metadata '/Game/InventoryDemo/Blueprints/BP_DemoGI.PackageMetaData'
+[2021.03.01-12.50.42:299][171]LogMetaData: Removing '/Game/InventoryDemo/Blueprints/BP_BC_GI.BP_BC_GI:SaveGameData.K2Node_FunctionEntry_0' ref from Metadata '/Game/InventoryDemo/Blueprints/BP_DemoGI.PackageMetaData'
+[2021.03.01-12.50.42:299][171]LogMetaData: Removing '/Game/InventoryDemo/Blueprints/BP_BC_GI.BP_BC_GI:LoadDiskData.K2Node_FunctionEntry_0' ref from Metadata '/Game/InventoryDemo/Blueprints/BP_DemoGI.PackageMetaData'
+[2021.03.01-12.50.42:299][171]LogMetaData: Removing '/Game/InventoryDemo/Blueprints/BP_BC_GI.SKEL_BP_BC_GI_C' ref from Metadata '/Game/InventoryDemo/Blueprints/BP_DemoGI.PackageMetaData'
+[2021.03.01-12.50.42:337][171]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/InventoryDemo/Blueprints/BP_BC_GI" FILE="H:/epic/projects/Bloodcolony_RPG/Content/InventoryDemo/Blueprints/BP_BC_GI.uasset" SILENT=true
+[2021.03.01-12.50.42:401][171]LogSavePackage: Moving 'H:/epic/projects/Bloodcolony_RPG/Saved/BP_BC_GI1D1C0464411A9661D19364982E1D9F5D.tmp' to 'H:/epic/projects/Bloodcolony_RPG/Content/InventoryDemo/Blueprints/BP_BC_GI.uasset'
+[2021.03.01-12.50.42:648][171]LogUObjectHash: Compacting FUObjectHashTables data took   3.79ms
+[2021.03.01-12.50.42:682][171]LogUObjectHash: Compacting FUObjectHashTables data took   2.25ms
+[2021.03.01-12.50.42:710][171]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2021.03.01-12.50.42:792][171]AssetCheck: New page: Asset Save: BP_BC_GI
+[2021.03.01-12.50.42:792][171]LogContentValidation: Display: Validating Blueprint /Game/InventoryDemo/Blueprints/BP_BC_GI.BP_BC_GI
+[2021.03.01-12.50.49:410][946]LogUObjectHash: Compacting FUObjectHashTables data took   3.98ms
+[2021.03.01-12.50.49:413][946]LogMetaData: Removing '/Game/InventoryDemo/Blueprints/BP_BC_Storage.BP_BC_Storage_C' ref from Metadata '/Game/InventoryDemo/Blueprints/BP_DemoStorage.PackageMetaData'
+[2021.03.01-12.50.49:413][946]LogMetaData: Removing '/Game/InventoryDemo/Blueprints/BP_BC_Storage.BP_BC_Storage:EventGraph.K2Node_Event_0' ref from Metadata '/Game/InventoryDemo/Blueprints/BP_DemoStorage.PackageMetaData'
+[2021.03.01-12.50.49:413][946]LogMetaData: Removing '/Game/InventoryDemo/Blueprints/BP_BC_Storage.BP_BC_Storage:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/InventoryDemo/Blueprints/BP_DemoStorage.PackageMetaData'
+[2021.03.01-12.50.49:414][946]LogMetaData: Removing '/Game/InventoryDemo/Blueprints/BP_BC_Storage.SKEL_BP_BC_Storage_C' ref from Metadata '/Game/InventoryDemo/Blueprints/BP_DemoStorage.PackageMetaData'
+[2021.03.01-12.50.49:461][946]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/InventoryDemo/Blueprints/BP_BC_Storage" FILE="H:/epic/projects/Bloodcolony_RPG/Content/InventoryDemo/Blueprints/BP_BC_Storage.uasset" SILENT=true
+[2021.03.01-12.50.49:506][946]LogSavePackage: Moving 'H:/epic/projects/Bloodcolony_RPG/Saved/BP_BC_StorageF21853844E1130E3AAD1A4A7BA5ECFCD.tmp' to 'H:/epic/projects/Bloodcolony_RPG/Content/InventoryDemo/Blueprints/BP_BC_Storage.uasset'
+[2021.03.01-12.50.49:510][946]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/InventoryDemo/Blueprints/BP_DemoStorage" FILE="H:/epic/projects/Bloodcolony_RPG/Content/InventoryDemo/Blueprints/BP_DemoStorage.uasset" SILENT=true
+[2021.03.01-12.50.49:528][946]LogSavePackage: Moving 'H:/epic/projects/Bloodcolony_RPG/Saved/BP_DemoStorage2FD790A6432820E57EE91AB88A6DFDAA.tmp' to 'H:/epic/projects/Bloodcolony_RPG/Content/InventoryDemo/Blueprints/BP_DemoStorage.uasset'
+[2021.03.01-12.50.49:622][946]AssetCheck: New page: Asset Save: multiple assets
+[2021.03.01-12.50.49:622][946]LogContentValidation: Display: Validating Blueprint /Game/InventoryDemo/Blueprints/BP_BC_Storage.BP_BC_Storage
+[2021.03.01-12.50.49:622][946]LogContentValidation: Display: Validating ObjectRedirector /Game/InventoryDemo/Blueprints/BP_DemoStorage.BP_DemoStorage
+[2021.03.01-12.50.49:622][946]LogContentValidation: Display: Validating ObjectRedirector /Game/InventoryDemo/Blueprints/BP_DemoStorage.BP_DemoStorage_C
+[2021.03.01-12.50.51:705][178]LogUObjectHash: Compacting FUObjectHashTables data took   4.33ms
+[2021.03.01-12.50.54:443][178]LogSlate: Window 'Save Content' being destroyed
+[2021.03.01-12.50.54:495][178]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2021.03.01-12.50.54:748][178]LogSavePackage: Moving 'H:/epic/projects/Bloodcolony_RPG/Saved/ThirdPersonExampleMap090555534091DAB8B6680E8910216815.tmp' to 'H:/epic/projects/Bloodcolony_RPG/Content/InventoryDemo/ThirdPersonStuff/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2021.03.01-12.50.54:787][178]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 0.324
+[2021.03.01-12.50.54:817][178]LogSavePackage: Moving 'H:/epic/projects/Bloodcolony_RPG/Saved/ThirdPersonExampleMap_BuiltDataE2B4ECCE44ABE5693D2BCC8EB6E8CE9F.tmp' to 'H:/epic/projects/Bloodcolony_RPG/Content/InventoryDemo/ThirdPersonStuff/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2021.03.01-12.50.54:850][178]LogSavePackage: Moving 'H:/epic/projects/Bloodcolony_RPG/Saved/ThirdPersonExampleMap_BuiltData84604EEC4E84C047B323A2BA92965E55.tmp' to 'H:/epic/projects/Bloodcolony_RPG/Content/InventoryDemo/ThirdPersonStuff/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2021.03.01-12.50.54:872][178]AssetCheck: New page: Asset Save: multiple assets
+[2021.03.01-12.50.54:872][178]LogContentValidation: Display: Validating World /Game/InventoryDemo/ThirdPersonStuff/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2021.03.01-12.50.54:872][178]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/InventoryDemo/ThirdPersonStuff/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2021.03.01-12.53.04:025][133]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2021.03.01-12.54.10:973][ 31]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2021.03.01-12.54.41:658][935]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2021.03.01-12.54.43:413][935]LogObjectTools: Deleting 1 worlds: /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2021.03.01-12.54.43:413][935]LogObjectTools: Currently 8 active worlds: /Game/InventoryDemo/ThirdPersonStuff/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap, /Engine/Transient.World_0, /Engine/Transient.World_1, /Engine/Transient.World_2, /Engine/Transient.World_3, /Engine/Transient.World_4, /Engine/Transient.World_5, /Engine/Transient.World_6
+[2021.03.01-12.54.43:450][935]LogUObjectHash: Compacting FUObjectHashTables data took   3.77ms
+[2021.03.01-12.54.46:508][935]LogSlate: Window 'Delete Assets' being destroyed
+[2021.03.01-12.55.41:154][935]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2021.03.01-12.55.41:154][935]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.01-12.55.41:167][935]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2021.03.01-12.55.41:167][935]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.01-12.55.41:226][935]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2021.03.01-12.55.41:226][935]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.03.01-12.55.41:288][935]LogUObjectGlobals: Force Deleting 41 Package(s):
+	Asset Name: /Game/ThirdPersonBP/ThirdPersonOverview.ThirdPersonOverview
+	Asset Name: /Game/Geometry/Meshes/CubeMaterial.CubeMaterial
+	Asset Name: /Game/Geometry/Meshes/1M_Cube.1M_Cube
+	Asset Name: /Game/Geometry/Meshes/1M_Cube_Chamfer.1M_Cube_Chamfer
+	Asset Name: /Game/Geometry/Meshes/TemplateFloor.TemplateFloor
+	Asset Name: /Game/Mannequin/Animations/ThirdPersonIdle.ThirdPersonIdle
+	Asset Name: /Game/Mannequin/Animations/ThirdPersonJump_End.ThirdPersonJump_End
+	Asset Name: /Game/Mannequin/Animations/ThirdPersonJump_Loop.ThirdPersonJump_Loop
+	Asset Name: /Game/Mannequin/Animations/ThirdPersonJump_Start.ThirdPersonJump_Start
+	Asset Name: /Game/Mannequin/Animations/ThirdPersonRun.ThirdPersonRun
